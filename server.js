@@ -103,7 +103,7 @@ mongoose.Promise.config({
 mongoose.set('useFindAndModify', false);
 //const connection_string = process.env.MONGODB_URI;
 db.mongoose
-  .connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/applicationdb',
+  .connect(process.env.MONGODB_URI,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true
