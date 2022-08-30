@@ -11,7 +11,7 @@ import { MatSnackBar } from '@angular/material';
 
 export class CandidateService {
    private candidate: Candidate;
-   readonly baseURL = 'http://localhost:8080/candidat';
+   readonly baseURL = '/candidat';
    private headers =new HttpHeaders().set ('Content-Type' ,'application/json');
 
 
@@ -24,28 +24,28 @@ export class CandidateService {
 
   public getCandidatesList(){
     console.log('test');
-    return this.httpClient.get<any>("http://localhost:8080/candidats");
+    return this.httpClient.get<any>("/candidats");
   }
 
   public getCandidate(id: number){
-    return this.httpClient.get<Candidate>("http://localhost:8080/candidat"+"/"+ id);
+    return this.httpClient.get<Candidate>("/candidat"+"/"+ id);
   }
 
   public downloadFile(pathCv:String){
     
-    return this.httpClient.get<any>("http://localhost:8080//downloadFile"+"/"+ pathCv);
+    return this.httpClient.get<any>("/downloadFile"+"/"+ pathCv);
   }
 
   public sendConfirmMessage(id:number){
-    return this.httpClient.get<any>("http://localhost:8080/sendConfirmMessage/"+ id);
+    return this.httpClient.get<any>("/sendConfirmMessage/"+ id);
   }
 
   public sendDenyMessage(id:number){
-    return this.httpClient.get<any>("http://localhost:8080/sendDenyMessage/"+ id);
+    return this.httpClient.get<any>("/sendDenyMessage/"+ id);
   }
 
   deleteCandidate(id: number) {
-    return this.httpClient.delete("http://localhost:8080/candidate/" + id);
+    return this.httpClient.delete("/candidate/" + id);
       
   }
 

@@ -18,7 +18,7 @@ export class EmployeService {
 
   public getEmployeesList()  {
     console.log("test call");
-    return this.httpClient.get<any>("http://localhost:8080/users");
+    return this.httpClient.get<any>("/users");
   }
 
   public getEmploye(id: any){

@@ -46,8 +46,7 @@ export interface DialogData {
 export class JobspageComponent implements OnInit {
 
   jobtypes: josbtype[] = [
-    { value: 'Internship', viewValue: 'Internship' },
-    { value: 'Co-op', viewValue: 'Co-op' },
+    { value: 'Stage', viewValue: 'Stage' },
     { value: 'Full Time', viewValue: 'Full Time' },
     { value: 'Part Time', viewValue: 'Part Time' }
   ];

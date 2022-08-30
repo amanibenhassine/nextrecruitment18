@@ -1,25 +1,4 @@
 
-<form>
-  <div class="example-container">
-      <table class="example-full-width" cellspacing="0">
-<tr>
-  <td>
-  <mat-form-field class="example-full-width" appearance="outline">
-    <mat-label>Status</mat-label>
-    <mat-select name="status" [(ngModel)] = "enteredStatus" [ngModelOptions]="{standalone: true}">
-      <mat-option *ngFor="let status of Status" [value]="status.value">
-        {{status.viewValue}}
-      </mat-option>
-    </mat-select>
-    </mat-form-field>
- </td>
-  <td>
-      <button mat-stroked-button color="warn" name="search" type="submit">Search</button>
-  </td>
-  </tr>
-  </table>
-  </div>
-</form>
 
 <br>
 

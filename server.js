@@ -101,10 +101,9 @@ mongoose.Promise.config({
 })
 
 mongoose.set('useFindAndModify', false);
-//const connection_string = process.env.MONGODB_URI;
+const connection_string = process.env.MONGODB_URI;
 db.mongoose
-  .connect(process.env.MONGODB_URI,
-  {
+  .connect(connection_string, {
     useNewUrlParser: true,
     useUnifiedTopology: true
   })
@@ -142,7 +141,7 @@ const PORT = process.env.PORT || 8080;
  //res.sendFile(path.join(__dirname, '/frontend/dist/managementProject', 'index.html'));
 //});
 app.use(express.static('frontend/dist/managementProject'));
-app.get('/*', (req, res) => res.sendFile(`${__dirname}frontend/dist/managementProject/index.html`));
+app.get('*', (req, res) => res.sendFile(`${__dirname}/frontend/dist/managementProject/index.html`));
 app.use(cookieParser());
 
 // Data parsing

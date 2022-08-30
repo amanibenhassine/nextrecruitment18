@@ -10,7 +10,7 @@ import { Employee } from 'src/app/modals/employee.model';
 export class EmployeeService {
   selectedEmployee: Employee;
   employees: Employee[];
-  readonly baseURL = 'http://localhost:8080/employees';
+  readonly baseURL = '/employees';
 
   constructor(private http: HttpClient) { }
 

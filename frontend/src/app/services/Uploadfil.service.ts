@@ -9,7 +9,7 @@ import { HttpHeaders, HttpErrorResponse, HttpClient } from '@angular/common/http
 
 export class UploadFilService {
 
-  baseURL = "http://localhost:8080/api";
+  baseURL = "/api";
   headers = new HttpHeaders().set('Content-Type', 'application/json');
 
   constructor(private http: HttpClient) { }

@@ -23,10 +23,10 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/app.component.html":
-/*!*********************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/app.component.html ***!
-  \*********************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/app.component.html":
+/*!**************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/app.component.html ***!
+  \**************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34,10 +34,10 @@ module.exports = "\n<!--<app-navbar></app-navbar>\n<app-sidebar></app-sidebar>\n
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/board-admin/board-admin.component.html":
-/*!*****************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/board-admin/board-admin.component.html ***!
-  \*****************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/board-admin/board-admin.component.html":
+/*!**********************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/board-admin/board-admin.component.html ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -45,10 +45,10 @@ module.exports = "<div class=\"container\">\n  <header class=\"jumbotron\">\n   
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/board-moderator/board-moderator.component.html":
-/*!*************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/board-moderator/board-moderator.component.html ***!
-  \*************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/board-moderator/board-moderator.component.html":
+/*!******************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/board-moderator/board-moderator.component.html ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -56,10 +56,10 @@ module.exports = "<div class=\"container\">\n  <header class=\"jumbotron\">\n   
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/board-user/board-user.component.html":
-/*!***************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/board-user/board-user.component.html ***!
-  \***************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/board-user/board-user.component.html":
+/*!********************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/board-user/board-user.component.html ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -67,10 +67,10 @@ module.exports = "<div class=\"container\">\n  <header class=\"jumbotron\">\n   
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/add-employe/add-employe.component.html":
-/*!*********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/add-employe/add-employe.component.html ***!
-  \*********************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/add-employe/add-employe.component.html":
+/*!**************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/add-employe/add-employe.component.html ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -78,10 +78,10 @@ module.exports = "<mat-card-title style=\" padding:1em;\">Add Recruiters :</mat-
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-form/hr-form.component.html":
-/*!*************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/hr-form/hr-form.component.html ***!
-  \*************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-form/hr-form.component.html":
+/*!******************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/hr-form/hr-form.component.html ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -89,10 +89,10 @@ module.exports = "<!--<nav class=\"navbar  navbar-expand bg-dark\">\n  <button c
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.html":
-/*!*************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.html ***!
-  \*************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.html":
+/*!******************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.html ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -100,10 +100,10 @@ module.exports = "\n<p>Saved!</p>\n\n<div>\n    <button mat-raised-button style=
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-profile/hr-profile.component.html":
-/*!*******************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/hr-profile/hr-profile.component.html ***!
-  \*******************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-profile/hr-profile.component.html":
+/*!************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/hr-profile/hr-profile.component.html ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -111,10 +111,10 @@ module.exports = "<!--<nav class=\"navbar  navbar-expand bg-dark\">\n  <button c
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/list-employes/list-employes.component.html":
-/*!*************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/list-employes/list-employes.component.html ***!
-  \*************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/list-employes/list-employes.component.html":
+/*!******************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/list-employes/list-employes.component.html ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -122,10 +122,10 @@ module.exports = "<mat-card-title style=\" padding:1em;\">List of Recruiters :</
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/list-employes/update-popup/update-popup.component.html":
-/*!*************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/list-employes/update-popup/update-popup.component.html ***!
-  \*************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/list-employes/update-popup/update-popup.component.html":
+/*!******************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/list-employes/update-popup/update-popup.component.html ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -133,120 +133,10 @@ module.exports = "<h1 mat-dialog-title>Recruiter Info</h1>\n\n<div mat-dialog-co
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.html":
-/*!********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.html ***!
-  \********************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n<h3><i class=\"fa fa-angle-right\"></i> Meetings </h3>\n<div _ngcontent-roy-c3=\"\" >\n    \n    <br _ngcontent-roy-c3=\"\">\n    \n    <button _ngcontent-roy-c3=\"\" class=\"btn-meeting\" type=\"submit\" style=\"margin-left: 30%; width: 30%;\" (click)=\"onAddNote()\">Add a meeting</button>\n    <br><br><br>\n\n\n    <div class=\"row justify-content-center\">\n        <div class=\"col-md-10\">\n    <table class=\"table table-striped card-body text\" style=\"padding-left:50%;padding-right:10%\">\n    \n        <thead class=\"thead-inverse\">\n        <tr>\n          <th>title</th>\n          <th>type</th>\n          <th>meeting Day</th>\n          <th>meeting Time</th>\n          <th>Action</th>\n        </tr>\n        </thead>\n        <tbody>\n            <tr *ngFor=\"let meeting of meetings\" >\n                <td>{{meeting.titre}}</td>\n                <td>{{meeting.type}}</td>\n                <td>{{meeting.meetingDay}}</td>\n                <td>{{meeting.meetingTime}}</td>\n                \n                <td>\n                    <div class=\"container\" >\n                    <button class=\"action-button btn-primary\" (click)=\"updateMeeting(meeting)\"><mat-icon>edit</mat-icon></button>\n                    <button class=\"action-button btn-danger\" (click)=\"deleteMeeting(meeting)\"><mat-icon>delete_outline</mat-icon></button>\n                    </div>\n\n                    \n                  \n              \n                </td>\n    \n               \n            </tr>\n        </tbody>\n      </table>\n      </div>\n    </div>\n</div>\n\n\n"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/meetings/meeting/meeting.component.html":
-/*!**********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/meetings/meeting/meeting.component.html ***!
-  \**********************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n<form class=\"form-horizontal style-form\">\n  <div class=\"container\">\n    <div class=\"form-group\">\n      <label class=\"col-sm-2 col-sm-2 control-label\" >Title</label>\n      <div class=\"col-sm-10\">\n        <input type=\"text\" [(ngModel)]=\"meeting.titre\" name=\"titre\" id=\"titre\" placeholder=\"titre\">\n      </div>\n    </div>\n    <div class=\"form-group\">\n      <label class=\"col-sm-2 col-sm-2 control-label\" >Type</label>\n      <div class=\"col-sm-10\">\n\n\n        \n      <select class=\"col-sm-12\" id=\"type\" name=\"type\" [(ngModel)]=\"meeting.type\" class=\"form-control\" style=\"height: 30px;\" placeholder=\"type\">\n            <option value=\"internal meeting\">internal meeting</option>\n            <option value=\"external meeting\">external meeting </option>\n      </select>\n       \n      \n      </div>\n    </div>\n  </div>\n    <div class=\"container2\">\n    <form class=\"form-inline\" role=\"form\">\n    \n      <div class=\"form-group\">\n        <label class=\"col-sm-2 col-sm-2 control-label\"  >Meeting day</label>\n        <div class=\"col-sm-10\">\n        <input type=\"date\" [(ngModel)]=\"meeting.meetingDay\" name=\"meetingDay\" class=\"form-control\" id=\"meetingDay\" placeholder=\"meetingDay\">\n        </div>\n      </div>\n      <div class=\"form-group\">\n        <label class=\"col-sm-2 col-sm-2 control-label\">Meeting time</label>\n        <div class=\"col-sm-10\">\n        <input type=\"time\" [(ngModel)]=\"meeting.meetingTime\" name=\"meetingTime\" class=\"form-control\" id=\"meetingTime\" placeholder=\"meetingTime\">\n      </div>\n      </div>\n    \n     \n    </form>\n  </div>\n\n    \n  </form>\n\n\n  <div class=\"click\">\n  <button _ngcontent-roy-c3=\"\" \n        class=\"btn my-2 my-sm-0\" \n        type=\"submit\" \n        (click)=\"onSubmit()\">Save</button>\n  <button _ngcontent-roy-c3=\"\" \n        class=\"btn  my-2 my-sm-0\" \n        type=\"submit\" \n        (click)=\"onClose()\">Cancel</button>\n\n</div>\n  \n"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.html":
-/*!************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.html ***!
-  \************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n<div class=\"container\" >\n\n   \n        \n    <div class=\"row\">\n  \n        \n        <div class=\"col-lg-1\"></div>\n  \n        <div class=\"col-lg-10\">\n            <div id=\"ui\">\n                <form (ngSubmit)=\"processForm()\">\n                \n                <br>\n\n                <label for=\"fname\">Titre</label>\n                <input type=\"text\" name=\"titre\" class=\"form-control\" [(ngModel)]=\"meeting.titre\">\n                <br>\n\n                <label for=\"fname\">Type</label>\n                <select class=\"col-sm-12\" id=\"type\" name=\"type\" [(ngModel)]=\"meeting.type\" class=\"form-control\" style=\"height: 30px;\">\n                    <option value=\"internal meeting\">internal meeting</option>\n                    <option value=\"external meeting\">external meeting </option>\n              </select>\n\n                <div class=\"row\">\n                    <div class=\"col-lg-6\">\n                        <label for=\"fname\">meeting day</label>\n                        <input type=\"date\" name=\"meetingDay\" class=\"form-control\" [(ngModel)]=\"meeting.meetingDay\">\n                    </div>\n  \n                    <div class=\"col-lg-6\">\n                        <label for=\"fname\">meeting time</label>\n                        <input type=\"time\" name=\"meetingTime\" class=\"form-control\" [(ngModel)]=\"meeting.meetingTime\">\n                    </div>\n                </div>\n\n              <br>\n              <br>\n              <input type=\"submit\" value=\"save\" class=\"btn\">\n  \n            </form>\n            </div>\n  \n        \n  \n    </div>\n  \n    <div class=\"col-lg-1\"></div>\n  \n    </div>\n    \n        \n    \n  </div>"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/ajout-note/ajout-note.component.html":
-/*!*************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/notes/ajout-note/ajout-note.component.html ***!
-  \*************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n\n\n\n<div class=\"add-post-content\">\n  <div class=\"container\">\n    <div>\n      <h3 class=\"new-post-title\">Create a new anouncement</h3>\n    </div>\n    <hr>\n    <form [formGroup]=\"addPostForm\" (ngSubmit)=\"onSubmit()\">\n      <div class=\"form-group\">\n        <label class=\"post-title\">Title</label>\n        <input type=\"text\" [formControlName]=\"'title'\" class=\"form-control\" placeholder=\"Title\">\n      </div>\n      <div class=\"form-group\">\n        <label class=\"post-content\">Body</label>\n        <editor [formControlName]=\"'body'\" [init]=\"{plugins: 'link'}\"></editor>\n      </div>\n      \n      <div class=\"block\">\n      <button type=\"submit\" class=\"btn btn-primary\">Post</button>\n      <button type=\"submit\" class=\"btn btn-primary\" (click)=\"onClose()\">Cancel</button>\n    </div>\n    </form >\n   \n  </div>\n</div>"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/book-create/book-create.component.html":
-/*!***************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/notes/book-create/book-create.component.html ***!
-  \***************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container\">\n  <h1>Add New Book</h1>\n  <div class=\"row\">\n    <div class=\"col-md-6\">\n      <form (ngSubmit)=\"saveBook()\" >\n        <div class=\"form-group\">\n          <label for=\"name\">ISBN</label>\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"book.isbn\" name=\"isbn\" required>\n        </div>\n        <div class=\"form-group\">\n          <label for=\"name\">Title</label>\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"book.title\" name=\"title\" required>\n        </div>\n        <div class=\"form-group\">\n          <label for=\"name\">Author</label>\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"book.author\" name=\"author\" required>\n        </div>\n        <div class=\"form-group\">\n          <label for=\"name\">Publisher</label>\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"book.publisher\" name=\"publisher\" required>\n        </div>\n        <div class=\"form-group\">\n          <label for=\"name\">Price</label>\n          <input type=\"number\" class=\"form-control\" [(ngModel)]=\"book.price\" name=\"price\" required>\n        </div>\n        <div class=\"form-group\">\n          <button type=\"submit\" class=\"btn btn-success\" [disabled]=\"!bookForm.form.valid\">Save</button>\n        </div>\n      </form>\n    </div>\n  </div>\n</div>\n"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/book-detail/book-detail.component.html":
-/*!***************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/notes/book-detail/book-detail.component.html ***!
-  \***************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container\">\n  <h1>{{ book.title }}</h1>\n  <dl class=\"list\">\n    <dt>ISBN</dt>\n    <dd>{{ book.isbn }}</dd>\n    <dt>Author</dt>\n    <dd>{{ book.author }}</dd>\n    <dt>Publisher</dt>\n    <dd>{{ book.publisher }}</dd>\n    <dt>Price</dt>\n    <dd>{{ book.price }}</dd>\n    <dt>Update Date</dt>\n    <dd>{{ book.updated_at }}</dd>\n  </dl>\n  <div class=\"row\">\n    <div class=\"col-md-12\">\n      <a [routerLink]=\"['/book-edit', book._id]\" class=\"btn btn-success\">EDIT</a>\n      <button class=\"btn btn-danger\" type=\"button\" (click)=\"deleteBook(book._id)\">DELETE</button>\n    </div>\n  </div>\n</div>\n"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/book-edit/book-edit.component.html":
-/*!***********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/notes/book-edit/book-edit.component.html ***!
-  \***********************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container\">\n  <h1>Edit Book</h1>\n  <div class=\"row\">\n    <div class=\"col-md-6\">\n      <form (ngSubmit)=\"updateBook(book._id)\" #bookForm=\"ngForm\">\n        <div class=\"form-group\">\n          <label for=\"name\">ISBN</label>\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"book.isbn\" name=\"isbn\" required>\n        </div>\n        <div class=\"form-group\">\n          <label for=\"name\">Title</label>\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"book.title\" name=\"title\" required>\n        </div>\n        <div class=\"form-group\">\n          <label for=\"name\">Author</label>\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"book.author\" name=\"author\" required>\n        </div>\n        <div class=\"form-group\">\n          <label for=\"name\">Publisher</label>\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"book.publisher\" name=\"publisher\" required>\n        </div>\n        <div class=\"form-group\">\n          <label for=\"name\">Price</label>\n          <input type=\"number\" class=\"form-control\" [(ngModel)]=\"book.price\" name=\"price\" required>\n        </div>\n        <div class=\"form-group\">\n          <button type=\"submit\" class=\"btn btn-success\" [disabled]=\"!bookForm.form.valid\">Update</button>\n        </div>\n      </form>\n    </div>\n  </div>\n</div>\n"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/book/book.component.html":
-/*!*************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/notes/book/book.component.html ***!
-  \*************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container\">\n  <h1>Book Catalogue\n    <a [routerLink]=\"['/book-create']\" class=\"btn btn-default btn-lg\">\n      <span class=\"glyphicon glyphicon-plus\" aria-hidden=\"true\"></span>\n    </a>\n  </h1>\n  <table class=\"table\">\n    <thead>\n      <tr>\n        <th>Title</th>\n        <th>Author</th>\n        <th>Action</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr *ngFor=\"let book of books\">\n        <td>{{ book.title }}</td>\n        <td>{{ book.author }}</td>\n        <td><a [routerLink]=\"['/book-details', book._id]\">Show Details</a></td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/notes-internes/notes-internes.component.html":
-/*!*********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/notes/notes-internes/notes-internes.component.html ***!
-  \*********************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/update-note/update-note.component.html":
-/*!***************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/notes/update-note/update-note.component.html ***!
-  \***************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n<div class=\"container\" >\n\n   \n        \n    <div class=\"row\">\n  \n        \n        <div class=\"col-lg-1\"></div>\n  \n        <div class=\"col-lg-10\">\n            <div id=\"ui\">\n                <form (ngSubmit)=\"processForm()\">\n                \n                <br>\n\n                <label for=\"fname\">Titre</label>\n                <input type=\"text\" name=\"title\" class=\"form-control\" [(ngModel)]=\"noteInterne.title\">\n                <br>\n\n                <label for=\"fname\">Body</label>\n                <editor  name=\"content\" class=\"form-control\" [(ngModel)]=\"noteInterne.content\" [init]=\"{plugins: 'link'}\"></editor>\n\n\n              <br>\n              <br>\n              <input type=\"submit\" value=\"save\" class=\"btn\">\n  \n            </form>\n            </div>\n  \n        \n  \n    </div>\n  \n    <div class=\"col-lg-1\"></div>\n  \n    </div>\n    \n        \n    \n  </div>"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/post-job/post-job.component.html":
-/*!***************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/post-job/post-job.component.html ***!
-  \***************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/post-job/post-job.component.html":
+/*!********************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/post-job/post-job.component.html ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -254,10 +144,10 @@ module.exports = "\n<mat-card-title style=\" padding:1em;\">Post Job :</mat-card
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/profil-candidat/profil-candidat.component.html":
-/*!*****************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/profil-candidat/profil-candidat.component.html ***!
-  \*****************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/profil-candidat/profil-candidat.component.html":
+/*!**********************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/profil-candidat/profil-candidat.component.html ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -265,10 +155,10 @@ module.exports = "<div class=\"wrapper\">\n    <div class=\"left\">\n        <im
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/profile-employe/profile-employe.component.html":
-/*!*****************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/profile-employe/profile-employe.component.html ***!
-  \*****************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/profile-employe/profile-employe.component.html":
+/*!**********************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/profile-employe/profile-employe.component.html ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -276,10 +166,10 @@ module.exports = "<div class=\"wrapper\">\n  <div class=\"left\"> \n    <img src
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/recruitment/recruitment.component.html":
-/*!*********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/recruitment/recruitment.component.html ***!
-  \*********************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/recruitment/recruitment.component.html":
+/*!**************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/recruitment/recruitment.component.html ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -287,10 +177,10 @@ module.exports = "\n<form>\n  <div class=\"example-container\">\n      <table cl
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/recrutements/recrutements.component.html":
-/*!***********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/recrutements/recrutements.component.html ***!
-  \***********************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/recrutements/recrutements.component.html":
+/*!****************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/recrutements/recrutements.component.html ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -298,10 +188,10 @@ module.exports = "<mat-card-title style=\" padding:1em;\">View Candidate :</mat-
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/update-employe/update-employe.component.html":
-/*!***************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/update-employe/update-employe.component.html ***!
-  \***************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/update-employe/update-employe.component.html":
+/*!********************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/update-employe/update-employe.component.html ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -309,10 +199,10 @@ module.exports = "<div class=\"container\" >\n\n   \n        \n  <div class=\"ro
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/update-photo/update-photo.component.html":
-/*!***********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/update-photo/update-photo.component.html ***!
-  \***********************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/update-photo/update-photo.component.html":
+/*!****************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/update-photo/update-photo.component.html ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -320,10 +210,10 @@ module.exports = "<div class=\"container\" >\n\n   \n        \n    <div class=\"
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/view-applicants/view-applicants.component.html":
-/*!*****************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/view-applicants/view-applicants.component.html ***!
-  \*****************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/view-applicants/view-applicants.component.html":
+/*!**********************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/view-applicants/view-applicants.component.html ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -331,10 +221,10 @@ module.exports = "\n   \n   \n    <mat-card-title style=\" padding:1em;\">View C
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.html":
-/*!***********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.html ***!
-  \***********************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.html":
+/*!****************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.html ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -342,10 +232,10 @@ module.exports = "<p>Applicant</p>\n\n<div>\n<div>\n    <p>First Name: {{data.fi
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.html":
-/*!********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.html ***!
-  \********************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.html":
+/*!*************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.html ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -353,10 +243,10 @@ module.exports = "<h1 mat-dialog-title>Job Info</h1>\n\n<div mat-dialog-content>
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/view-posting/view-posting.component.html":
-/*!***********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/admin-components/view-posting/view-posting.component.html ***!
-  \***********************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/view-posting/view-posting.component.html":
+/*!****************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/admin-components/view-posting/view-posting.component.html ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -364,10 +254,10 @@ module.exports = "\n<mat-card-title style=\" padding:1em;\">View Posted Jobs :</
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/candidate-components/info-candidate/info-candidate.component.html":
-/*!*******************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/candidate-components/info-candidate/info-candidate.component.html ***!
-  \*******************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/candidate-components/info-candidate/info-candidate.component.html":
+/*!************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/candidate-components/info-candidate/info-candidate.component.html ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -375,10 +265,10 @@ module.exports = "\n<div class=\"row mt\" style=\"padding-top: 5%\">\n    \n    
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/candidate-components/response/response.component.html":
-/*!*******************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/candidate-components/response/response.component.html ***!
-  \*******************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/candidate-components/response/response.component.html":
+/*!************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/candidate-components/response/response.component.html ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -386,21 +276,10 @@ module.exports = "\n<div class=\"container pt-10\" style=\"margin-top: 20%;margi
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/cards/cards.component.html":
-/*!****************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/cards/cards.component.html ***!
-  \****************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"info-box\">\n    <!-- Apply any bg-* class to to the icon to color it -->\n    <span class=\"info-box-icon bg-red\"><i class=\"fa fa-star-o\"></i></span>\n    <div class=\"info-box-content\">\n      <span class=\"info-box-text\">Likes</span>\n      <span class=\"info-box-number\">93,139</span>\n    </div>\n    <!-- /.info-box-content -->\n  </div>\n"
-
-/***/ }),
-
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/dashboard/dashboard.component.html":
-/*!************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/dashboard/dashboard.component.html ***!
-  \************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/dashboard/dashboard.component.html":
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/dashboard/dashboard.component.html ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -408,10 +287,10 @@ module.exports = "\n\n<div fxLayout=\"row\" fxLayoutAlign=\"space-between center
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/applications/applications-popup/applications-popup.component.html":
-/*!**************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/applications/applications-popup/applications-popup.component.html ***!
-  \**************************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/applications/applications-popup/applications-popup.component.html":
+/*!*******************************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/applications/applications-popup/applications-popup.component.html ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -419,10 +298,10 @@ module.exports = "<!--<div mat-dialog-content>\n    <div (ngModel) = \"data\" >\
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/applications/applications.component.html":
-/*!*************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/applications/applications.component.html ***!
-  \*************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/applications/applications.component.html":
+/*!******************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/applications/applications.component.html ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -430,10 +309,10 @@ module.exports = "\n\n   <mat-toolbar-row style=\"padding: 0 5px;\">\n    <span>
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/cand-profile/cand-profile.component.html":
-/*!*************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/cand-profile/cand-profile.component.html ***!
-  \*************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/cand-profile/cand-profile.component.html":
+/*!******************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/cand-profile/cand-profile.component.html ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -441,10 +320,10 @@ module.exports = "<div class=\"wrapper\">\n  <div class=\"left\"> \n    <img src
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.html":
-/*!********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.html ***!
-  \********************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.html":
+/*!*************************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.html ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -452,21 +331,21 @@ module.exports = "<p>Saved!</p>\n\n<div>\n    <button mat-raised-button style=\"
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/candidate-form/candidate-form.component.html":
-/*!*****************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/candidate-form/candidate-form.component.html ***!
-  \*****************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/candidate-form/candidate-form.component.html":
+/*!**********************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/candidate-form/candidate-form.component.html ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n \n   <mat-toolbar-row style=\"padding: 0 5px;\">\n     <span><h2>Edit Profile</h2></span>\n   </mat-toolbar-row>\n\n   \n  \n<!-- NAVBAR ENDS HERE -->\n<body>\n  <mat-card-content>\t\n      <div>\n    <img src=\"{{pic}}\" alt=\"Card image\" class=\"pro_photo\" style=\"height:100px; width: 100px; outline: 1px\">\n    <br><br>\n    <div style=\"display:inline;\">\n      <input type=\"file\" style=\"display: none\" (change)=\"selectFile($event)\" #fileInput>\n      <button style=\"display:inline-block\" type=\"button\" (click)=\"fileInput.click()\">Pick File</button>\n      <span style=\"margin-left: 2em\"></span>\n      <button style=\"display:inline-block\" type=\"button\" (click)=\"uploadBotton()\">Upload File</button>\n    </div>\n  </div>\n  </mat-card-content>\t\n\n  </body>\n\n<br>\n\n\n<div style=\"width: 70%; margin-left: 15%\">\n\n<mat-horizontal-stepper linear #stepper style=\" display:inline\">\n  <br>\n\n  \n\n<!--<button (click)=\"uploadBotton()\">Upload File</button>\n<input type=\"file\" (change)=\"selectFile($event)\">\n<br>\n put \"required\" in input-->\n  <!-- <mat-step [stepControl]=\"firstFormGroup\"> -->\n  <mat-step >\n      <!-- <form [formGroup]=\"firstFormGroup\">   -->\n    <form >  \n      <ng-template matStepLabel>Personal Information</ng-template>\n\n      <mat-card>\n        <table class=\"example-full-width\" cellspacing=\"2\">\n          <tr>\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>First name</mat-label>\n                <!-- <input matInput formControlName=\"firstName\" required [ngModel]= \"firstName\"> \n                <input matInput placeholder=\"First name\" (ngModel) = \"firstName\" name=\"fName\"> \n              -->\n              <input matInput placeholder=\"First name\" [(ngModel)] = \"enteredFirstName\" [ngModelOptions]=\"{standalone: true}\"> \n            </mat-form-field>\n            </td>\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>Last Name</mat-label>\n<!--\n                <input matInput formControlName=\"lastName\" required [ngModel]= \"lastName\"> \n                <input matInput placeholder=\"Last name\"  (ngModel) = \"lastName\" name=\"lName\">-->\n                <input matInput placeholder=\"Last name\"  [(ngModel)] = \"enteredLastName\" [ngModelOptions]=\"{standalone: true}\">\n              </mat-form-field>\n            </td>\n          </tr>\n        </table>\n\n        <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n          <mat-label>Telephone</mat-label>\n          <span matPrefix>+1 &nbsp;</span>\n      <!--    <input type=\"tel\" matInput placeholder=\"555-555-1234\" formControlName=\"phone\" required [ngModel]= \"phone\"> \n      \n          <input type=\"tel\" matInput placeholder=\"555-555-1234\" (ngModel) = \"telephone\" name=\"telephone\">-->\n          <input type=\"tel\" matInput placeholder=\"555-555-1234\" [(ngModel)] = \"enteredTelephone\" [ngModelOptions]=\"{standalone: true}\">\n        </mat-form-field>\n\n        <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n          <mat-label>Email</mat-label>\n          <!--<input matInput placeholder=\"Email\"  (ngModel) = \"email\" name=\"email\">-->\n          <input matInput placeholder=\"Email\"  [(ngModel)] = \"enteredEmail\" [ngModelOptions]=\"{standalone: true}\">\n        </mat-form-field>\n<!--  \n        <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n          <mat-label>Address</mat-label>\n          <input matInput placeholder=\"Address\" required >\n          <input matInput placeholder=\"Address\"  (ngModel) = \"enteredAddress\" name=\"address\">\n          <input matInput placeholder=\"Address\"  [(ngModel)] = \"enteredAddress\" name=\"address\">\n        </mat-form-field>\n\n     <mat-form-field class=\"example-full-width\">\n          <mat-label>Title at Work</mat-label>\n          <input matInput placeholder=\"Software Engineer\">\n        </mat-form-field>  -->\n\n      </mat-card>\n      <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n        <button mat-raised-button color=\"primary\" matStepperNext>Next</button>\n      </div>-->\n      <br>\n      <div class = \"example-button\">\n        <button mat-raised-button color=\"warn\" matStepperNext>Next</button>\n      </div>\n    </form>\n  </mat-step>\n\n <!-- <mat-step [stepControl]=\"secondFormGroup\" errorMessage=\"Missing required fields.\"> -->\n    <mat-step>\n      <!-- <form [formGroup]=\"secondFormGroup\"> -->\n      <form>\n      <ng-template matStepLabel>Work Experience</ng-template>\n      <mat-card>\n        <table class=\"example-full-width\" cellspacing=\"2\">\n          <tr>\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>Job Title</mat-label>\n                <!--<input matInput formControlName=\"jobTitle\">\n                <input matInput placeholder=\"Job Title\"  (ngModel) = \"job\" [ngModelOptions]=\"{standalone: true}\"> -->\n                <input matInput placeholder=\"Job Title\"  [(ngModel)] = \"enteredJob\" [ngModelOptions]=\"{standalone: true}\"> \n              </mat-form-field>\n            </td>\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>Company</mat-label>\n               <!-- <input matInput formControlName=\"comanyExp\">\n                  <input matInput placeholder=\"Company\"  (ngModel) = \"company\" [ngModelOptions]=\"{standalone: true}\"> -->\n                  <input matInput placeholder=\"Company\"  [(ngModel)] = \"enteredCompany\" [ngModelOptions]=\"{standalone: true}\"> \n              </mat-form-field>\n            </td>\n          </tr>\n        </table>\n        <p>\n          <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n            <mat-label>Location</mat-label>\n           <!-- <textarea matInput matInput formControlName=\"location\"></textarea> \n            <input matInput placeholder=\"Location\" (ngModel) = \"location\" [ngModelOptions]=\"{standalone: true}\"> -->\n            <input matInput placeholder=\"Location\" [(ngModel)] = \"enteredLocation\" [ngModelOptions]=\"{standalone: true}\">\n          </mat-form-field>\n        </p>\n\n        <table class=\"example-full-width\" cellspacing=\"2\">\n          <tr>\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>From Date</mat-label>\n                <!--<input matInput type=\"date\">\n                <input matInput [matDatepicker]=\"picker1\" (ngModel)= \"fromDate\" [ngModelOptions]=\"{standalone: true}\"> -->\n                <input matInput [matDatepicker]=\"picker1\" [(ngModel)]= \"enteredFromDate\" [ngModelOptions]=\"{standalone: true}\"> \n                <mat-datepicker-toggle matSuffix [for]=\"picker1\"></mat-datepicker-toggle>\n                <mat-datepicker #picker1></mat-datepicker>\n              </mat-form-field>\n            </td>\n\n            <td>\n              <mat-checkbox >Currently, I work here</mat-checkbox>\n            </td>\n\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>To Date</mat-label>\n                <!--<input matInput type=\"date\">\n                <input matInput [matDatepicker]=\"picker2\" (ngModel) = \"toDate\" [ngModelOptions]=\"{standalone: true}\">--> \n                <input matInput [matDatepicker]=\"picker2\" [(ngModel)] = \"enteredToDate\" [ngModelOptions]=\"{standalone: true}\"> \n                <mat-datepicker-toggle matSuffix [for]=\"picker2\"></mat-datepicker-toggle>\n                <mat-datepicker #picker2></mat-datepicker>\n              </mat-form-field>\n            </td>\n          </tr>\n        </table>\n\n        <p>\n          <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n            <mat-label>Role Description</mat-label>\n            <!--<textarea matInput></textarea>\n            <textarea matInput placeholder=\"Role Description\" (ngModel) = \"role\" [ngModelOptions]=\"{standalone: true}\" > </textarea>-->\n            <textarea matInput placeholder=\"Role Description\" [(ngModel)] = \"enteredRole\" [ngModelOptions]=\"{standalone: true}\" > </textarea> \n          </mat-form-field>\n        </p>\n\n      </mat-card>\n <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n        <button mat-raised-button color=\"primary\" matStepperPrevious>Back</button>\n        <button mat-raised-button color=\"primary\" matStepperNext>Next</button>\n      </div>-->\n      <br>\n      <div class = \"example-button\">\n        <table style=\"margin-left:auto;margin-right:auto;\">\n          <tr>\n            <td>\n            <button mat-raised-button color=\"warn\" matStepperPrevious>Back</button></td>\n            <td>\n            <button mat-raised-button color=\"warn\" matStepperNext>Next</button></td>\n          </tr>\n        </table>\n      </div>\n    </form>\n  </mat-step>\n\n\n\n  <!--<mat-step [stepControl]=\"thirdFormGroup\" errorMessage=\"Missing required fields.\">-->\n    <mat-step>\n      <!-- <form [formGroup]=\"thirdFormGroup\"> -->\n      <form>\n      <ng-template matStepLabel>Education</ng-template>\n      <mat-card>\n\n        <p>\n          <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n            <mat-label>School Name</mat-label>\n            <!--<textarea matInput></textarea>\n            <input matInput placeholder=\"School Name\" (ngModel) = \"schoolname\" name=\"school\">-->\n            <input matInput placeholder=\"School Name\" [(ngModel)] = \"enteredSchool\" [ngModelOptions]=\"{standalone: true}\">\n          </mat-form-field>\n        </p>\n        <table class=\"example-full-width\" cellspacing=\"2\">\n          <tr>\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>Education level</mat-label>\n                <!--<mat-select (ngModel) = \"educationlevel\">-->\n                  <mat-select [(ngModel)] = \"enteredEducationlevel\" [ngModelOptions]=\"{standalone: true}\">\n                  <mat-option *ngFor=\"let Education of Educations\" [value]=\"Education.value\">\n                    {{Education.viewValue}}\n                  </mat-option>\n                </mat-select>\n                </mat-form-field>\n                </td>\n                <td>\n                  <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                    <mat-label>Major</mat-label>\n                    <!-- <input matInput placeholder=\"Major\" formControlName=\"thirdCtrl\" (ngModel) = \"enteredMajor\"> \n                    <input matInput placeholder=\"Major\" (ngModel) = \"major\" name=\"majoy\">-->\n                    <input matInput placeholder=\"Major\" [(ngModel)] = \"enteredMajor\" [ngModelOptions]=\"{standalone: true}\">\n                    </mat-form-field>\n                </td>\n                </tr>\n                </table>\n        <!--<p>\n          <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n            <mat-label>From</mat-label>\n            <textarea matInput></textarea>\n          </mat-form-field>\n        </p>\n\n\n        <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n          <mat-label>Date</mat-label>\n          <input matInput formControlName=\"educationDate\" type=\"date\">\n        </mat-form-field>-->\n\n        <table class=\"example-full-width\" cellspacing=\"2\">\n          <tr>\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>Start Date</mat-label>\n                <!--<input matInput [matDatepicker]=\"picker3\" (ngModel) = \"startdate\" [ngModelOptions]=\"{standalone: true}\">-->\n                <input matInput [matDatepicker]=\"picker3\" [(ngModel)] = \"enteredStartDate\" [ngModelOptions]=\"{standalone: true}\">\n                <mat-datepicker-toggle matSuffix [for]=\"picker3\"></mat-datepicker-toggle>\n                <mat-datepicker #picker3></mat-datepicker>\n                </mat-form-field>\n            </td>\n\n            <td>\n              <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                <mat-label>End Date (Actual or Expected)</mat-label>\n                <!--<input matInput [matDatepicker]=\"picker4\" (ngModel) = \"enddate\" [ngModelOptions]=\"{standalone: true}\">-->\n                <input matInput [matDatepicker]=\"picker4\" [(ngModel)] = \"enteredEndDate\" [ngModelOptions]=\"{standalone: true}\"> \n                <mat-datepicker-toggle matSuffix [for]=\"picker4\"></mat-datepicker-toggle>\n                <mat-datepicker #picker4></mat-datepicker>\n                </mat-form-field>\n            </td>\n          </tr>\n        </table>\n\n      </mat-card>\n       <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n        <button mat-raised-button color=\"primary\" matStepperPrevious>Back</button>\n        <button mat-raised-button color=\"primary\" matStepperNext>Next</button>\n      </div>-->\n      <br>\n      <div class = \"example-button\">\n        <table style=\"margin-left:auto;margin-right:auto;\">\n          <tr>\n            <td>\n            <button mat-raised-button color=\"warn\" matStepperPrevious>Back</button></td>\n            <td>\n            <button mat-raised-button color=\"warn\" matStepperNext>Next</button></td>\n          </tr>\n        </table>\n      </div>\n    </form>\n  </mat-step>\n\n\n  <!--<mat-step [stepControl]=\"forthFormGroup\" errorMessage=\"Missing required fields.\">\n    <form [formGroup]=\"forthFormGroup\">-->\n  <mat-step>     \n    <form>\n      <ng-template matStepLabel>Certificates</ng-template>\n      <mat-card>\n\n        <p>\n          <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n            <mat-label>Certificate Name</mat-label>\n            <!--<textarea matInput></textarea>\n            <input matInput placeholder=\"Certificate Name\" (ngModel) = \"certificate\" name=\"certificate\">-->\n            <input matInput placeholder=\"Certificate Name\" [(ngModel)] = \"enteredCertificate\" name=\"certificate\">\n          </mat-form-field>\n        </p>\n        <p>\n          <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n            <mat-label>From</mat-label>\n            <!--<textarea matInput></textarea>\n            <input matInput placeholder=\"From\" (ngModel) = \"certificatefrom\" name=\"from\">-->\n\n          <input matInput placeholder=\"From\" [(ngModel)] = \"enteredCertificateFrom\" [ngModelOptions]=\"{standalone: true}\">\n            \n          </mat-form-field>\n        </p>\n\n\n        <mat-form-field class=\"example-full-width\" appearance=\"outline\"> \n          <mat-label>Expiration Date</mat-label>\n          <!--<input matInput formControlName=\"date\" type=\"date\">\n          <input matInput [matDatepicker]=\"picker5\" (ngModel) = \"expirationDate\" [ngModelOptions]=\"{standalone: true}\"> -->\n          <input matInput [matDatepicker]=\"picker5\" [(ngModel)] = \"enteredExpirationDate\" [ngModelOptions]=\"{standalone: true}\"> \n          <mat-datepicker-toggle matSuffix [for]=\"picker5\"></mat-datepicker-toggle>\n          <mat-datepicker #picker5></mat-datepicker>\n        </mat-form-field>\n\n      </mat-card>\n      <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n        <button mat-raised-button color=\"primary\" matStepperPrevious>Back</button>\n        <button mat-raised-button color=\"primary\" matStepperNext>Next</button>\n      </div>-->\n      <br>\n      <div class = \"example-button\">\n        <table style=\"margin-left:auto;margin-right:auto;\">\n          <tr>\n            <td>\n            <button mat-raised-button color=\"warn\" matStepperPrevious>Back</button></td>\n            <td>\n            <button mat-raised-button color=\"warn\" matStepperNext>Next</button></td>\n          </tr>\n        </table>\n      </div>\n    </form>\n  </mat-step>\n\n\n  <mat-step>\n    <ng-template matStepLabel>Done</ng-template>\n    <p>You are now done!</p>\n    <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n      <button mat-raised-button color=\"primary\" matStepperPrevious>Back</button>\n      <button mat-raised-button color=\"primary\" (click)=\"SaveUpdate()\">Save</button>\n    </div>-->\n    <br>\n    <div class = \"example-button\">\n      <table style=\"margin-left:auto;margin-right:auto;\">\n        <tr>\n          <td>\n          <button mat-raised-button color=\"warn\" matStepperPrevious>Back</button></td>\n          <td>\n          <button mat-raised-button color=\"warn\" (click)=\"SaveUpdate()\" >Submit</button></td>\n        </tr>\n      </table>\n    </div>\n  </mat-step>\n\n\n</mat-horizontal-stepper>\n\n</div>"
+module.exports = "\n \n   <mat-toolbar-row style=\"padding: 0 5px;\">\n    <span><h2>Edit Profile</h2></span>\n  </mat-toolbar-row>\n\n  \n \n<!-- NAVBAR ENDS HERE -->\n<body>\n <mat-card-content>\t\n     <div>\n   <img src=\"{{pic}}\" alt=\"Card image\" class=\"pro_photo\" style=\"height:100px; width: 100px; outline: 1px\">\n   <br><br>\n   <div style=\"display:inline;\">\n     <input type=\"file\" style=\"display: none\" (change)=\"selectFile($event)\" #fileInput>\n     <button style=\"display:inline-block\" type=\"button\" (click)=\"fileInput.click()\">Pick File</button>\n     <span style=\"margin-left: 2em\"></span>\n     <button style=\"display:inline-block\" type=\"button\" (click)=\"uploadBotton()\">Upload File</button>\n   </div>\n </div>\n </mat-card-content>\t\n\n </body>\n\n<br>\n\n\n<div style=\"width: 70%; margin-left: 15%\">\n\n<mat-horizontal-stepper linear #stepper style=\" display:inline\">\n <br>\n\n \n\n<!--<button (click)=\"uploadBotton()\">Upload File</button>\n<input type=\"file\" (change)=\"selectFile($event)\">\n<br>\nput \"required\" in input-->\n <!-- <mat-step [stepControl]=\"firstFormGroup\"> -->\n <mat-step >\n     <!-- <form [formGroup]=\"firstFormGroup\">   -->\n   <form >  \n     <ng-template matStepLabel>Personal Information</ng-template>\n\n     <mat-card>\n       <table class=\"example-full-width\" cellspacing=\"2\">\n         <tr>\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>First name</mat-label>\n               <!-- <input matInput formControlName=\"firstName\" required [ngModel]= \"firstName\"> \n               <input matInput placeholder=\"First name\" (ngModel) = \"firstName\" name=\"fName\"> \n             -->\n             <input matInput placeholder=\"First name\" [(ngModel)] = \"enteredFirstName\" [ngModelOptions]=\"{standalone: true}\"> \n           </mat-form-field>\n           </td>\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>Last Name</mat-label>\n<!--\n               <input matInput formControlName=\"lastName\" required [ngModel]= \"lastName\"> \n               <input matInput placeholder=\"Last name\"  (ngModel) = \"lastName\" name=\"lName\">-->\n               <input matInput placeholder=\"Last name\"  [(ngModel)] = \"enteredLastName\" [ngModelOptions]=\"{standalone: true}\">\n             </mat-form-field>\n           </td>\n         </tr>\n       </table>\n\n       <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n         <mat-label>Telephone</mat-label>\n         <span matPrefix>+1 &nbsp;</span>\n     <!--    <input type=\"tel\" matInput placeholder=\"555-555-1234\" formControlName=\"phone\" required [ngModel]= \"phone\"> \n     \n         <input type=\"tel\" matInput placeholder=\"555-555-1234\" (ngModel) = \"telephone\" name=\"telephone\">-->\n         <input type=\"tel\" matInput placeholder=\"555-555-1234\" [(ngModel)] = \"enteredTelephone\" [ngModelOptions]=\"{standalone: true}\">\n       </mat-form-field>\n\n       <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n         <mat-label>Email</mat-label>\n         <!--<input matInput placeholder=\"Email\"  (ngModel) = \"email\" name=\"email\">-->\n         <input matInput placeholder=\"Email\"  [(ngModel)] = \"enteredEmail\" [ngModelOptions]=\"{standalone: true}\">\n       </mat-form-field>\n<!--  \n       <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n         <mat-label>Address</mat-label>\n         <input matInput placeholder=\"Address\" required >\n         <input matInput placeholder=\"Address\"  (ngModel) = \"enteredAddress\" name=\"address\">\n         <input matInput placeholder=\"Address\"  [(ngModel)] = \"enteredAddress\" name=\"address\">\n       </mat-form-field>\n\n    <mat-form-field class=\"example-full-width\">\n         <mat-label>Title at Work</mat-label>\n         <input matInput placeholder=\"Software Engineer\">\n       </mat-form-field>  -->\n\n     </mat-card>\n     <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n       <button mat-raised-button color=\"primary\" matStepperNext>Next</button>\n     </div>-->\n     <br>\n     <div class = \"example-button\">\n       <button mat-raised-button color=\"warn\" matStepperNext>Next</button>\n     </div>\n   </form>\n </mat-step>\n\n<!-- <mat-step [stepControl]=\"secondFormGroup\" errorMessage=\"Missing required fields.\"> -->\n   <mat-step>\n     <!-- <form [formGroup]=\"secondFormGroup\"> -->\n     <form>\n     <ng-template matStepLabel>Work Experience</ng-template>\n     <mat-card>\n       <table class=\"example-full-width\" cellspacing=\"2\">\n         <tr>\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>Job Title</mat-label>\n               <!--<input matInput formControlName=\"jobTitle\">\n               <input matInput placeholder=\"Job Title\"  (ngModel) = \"job\" [ngModelOptions]=\"{standalone: true}\"> -->\n               <input matInput placeholder=\"Job Title\"  [(ngModel)] = \"enteredJob\" [ngModelOptions]=\"{standalone: true}\"> \n             </mat-form-field>\n           </td>\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>Company</mat-label>\n              <!-- <input matInput formControlName=\"comanyExp\">\n                 <input matInput placeholder=\"Company\"  (ngModel) = \"company\" [ngModelOptions]=\"{standalone: true}\"> -->\n                 <input matInput placeholder=\"Company\"  [(ngModel)] = \"enteredCompany\" [ngModelOptions]=\"{standalone: true}\"> \n             </mat-form-field>\n           </td>\n         </tr>\n       </table>\n       <p>\n         <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n           <mat-label>Location</mat-label>\n          <!-- <textarea matInput matInput formControlName=\"location\"></textarea> \n           <input matInput placeholder=\"Location\" (ngModel) = \"location\" [ngModelOptions]=\"{standalone: true}\"> -->\n           <input matInput placeholder=\"Location\" [(ngModel)] = \"enteredLocation\" [ngModelOptions]=\"{standalone: true}\">\n         </mat-form-field>\n       </p>\n\n       <table class=\"example-full-width\" cellspacing=\"2\">\n         <tr>\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>From Date</mat-label>\n               <!--<input matInput type=\"date\">\n               <input matInput [matDatepicker]=\"picker1\" (ngModel)= \"fromDate\" [ngModelOptions]=\"{standalone: true}\"> -->\n               <input matInput [matDatepicker]=\"picker1\" [(ngModel)]= \"enteredFromDate\" [ngModelOptions]=\"{standalone: true}\"> \n               <mat-datepicker-toggle matSuffix [for]=\"picker1\"></mat-datepicker-toggle>\n               <mat-datepicker #picker1></mat-datepicker>\n             </mat-form-field>\n           </td>\n\n           <td>\n             <mat-checkbox >Currently, I work here</mat-checkbox>\n           </td>\n\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>To Date</mat-label>\n               <!--<input matInput type=\"date\">\n               <input matInput [matDatepicker]=\"picker2\" (ngModel) = \"toDate\" [ngModelOptions]=\"{standalone: true}\">--> \n               <input matInput [matDatepicker]=\"picker2\" [(ngModel)] = \"enteredToDate\" [ngModelOptions]=\"{standalone: true}\"> \n               <mat-datepicker-toggle matSuffix [for]=\"picker2\"></mat-datepicker-toggle>\n               <mat-datepicker #picker2></mat-datepicker>\n             </mat-form-field>\n           </td>\n         </tr>\n       </table>\n\n       <p>\n         <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n           <mat-label>Role Description</mat-label>\n           <!--<textarea matInput></textarea>\n           <textarea matInput placeholder=\"Role Description\" (ngModel) = \"role\" [ngModelOptions]=\"{standalone: true}\" > </textarea>-->\n           <textarea matInput placeholder=\"Role Description\" [(ngModel)] = \"enteredRole\" [ngModelOptions]=\"{standalone: true}\" > </textarea> \n         </mat-form-field>\n       </p>\n\n     </mat-card>\n<!--<div style=\"margin-left: 8em; margin-top: 1em\">\n       <button mat-raised-button color=\"primary\" matStepperPrevious>Back</button>\n       <button mat-raised-button color=\"primary\" matStepperNext>Next</button>\n     </div>-->\n     <br>\n     <div class = \"example-button\">\n       <table style=\"margin-left:auto;margin-right:auto;\">\n         <tr>\n           <td>\n           <button mat-raised-button color=\"warn\" matStepperPrevious>Back</button></td>\n           <td>\n           <button mat-raised-button color=\"warn\" matStepperNext>Next</button></td>\n         </tr>\n       </table>\n     </div>\n   </form>\n </mat-step>\n\n\n\n <!--<mat-step [stepControl]=\"thirdFormGroup\" errorMessage=\"Missing required fields.\">-->\n   <mat-step>\n     <!-- <form [formGroup]=\"thirdFormGroup\"> -->\n     <form>\n     <ng-template matStepLabel>Education</ng-template>\n     <mat-card>\n\n       <p>\n         <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n           <mat-label>School Name</mat-label>\n           <!--<textarea matInput></textarea>\n           <input matInput placeholder=\"School Name\" (ngModel) = \"schoolname\" name=\"school\">-->\n           <input matInput placeholder=\"School Name\" [(ngModel)] = \"enteredSchool\" [ngModelOptions]=\"{standalone: true}\">\n         </mat-form-field>\n       </p>\n       <table class=\"example-full-width\" cellspacing=\"2\">\n         <tr>\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>Education level</mat-label>\n               <!--<mat-select (ngModel) = \"educationlevel\">-->\n                 <mat-select [(ngModel)] = \"enteredEducationlevel\" [ngModelOptions]=\"{standalone: true}\">\n                 <mat-option *ngFor=\"let Education of Educations\" [value]=\"Education.value\">\n                   {{Education.viewValue}}\n                 </mat-option>\n               </mat-select>\n               </mat-form-field>\n               </td>\n               <td>\n                 <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n                   <mat-label>Major</mat-label>\n                   <!-- <input matInput placeholder=\"Major\" formControlName=\"thirdCtrl\" (ngModel) = \"enteredMajor\"> \n                   <input matInput placeholder=\"Major\" (ngModel) = \"major\" name=\"majoy\">-->\n                   <input matInput placeholder=\"Major\" [(ngModel)] = \"enteredMajor\" [ngModelOptions]=\"{standalone: true}\">\n                   </mat-form-field>\n               </td>\n               </tr>\n               </table>\n       <!--<p>\n         <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n           <mat-label>From</mat-label>\n           <textarea matInput></textarea>\n         </mat-form-field>\n       </p>\n\n\n       <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n         <mat-label>Date</mat-label>\n         <input matInput formControlName=\"educationDate\" type=\"date\">\n       </mat-form-field>-->\n\n       <table class=\"example-full-width\" cellspacing=\"2\">\n         <tr>\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>Start Date</mat-label>\n               <!--<input matInput [matDatepicker]=\"picker3\" (ngModel) = \"startdate\" [ngModelOptions]=\"{standalone: true}\">-->\n               <input matInput [matDatepicker]=\"picker3\" [(ngModel)] = \"enteredStartDate\" [ngModelOptions]=\"{standalone: true}\">\n               <mat-datepicker-toggle matSuffix [for]=\"picker3\"></mat-datepicker-toggle>\n               <mat-datepicker #picker3></mat-datepicker>\n               </mat-form-field>\n           </td>\n\n           <td>\n             <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n               <mat-label>End Date (Actual or Expected)</mat-label>\n               <!--<input matInput [matDatepicker]=\"picker4\" (ngModel) = \"enddate\" [ngModelOptions]=\"{standalone: true}\">-->\n               <input matInput [matDatepicker]=\"picker4\" [(ngModel)] = \"enteredEndDate\" [ngModelOptions]=\"{standalone: true}\"> \n               <mat-datepicker-toggle matSuffix [for]=\"picker4\"></mat-datepicker-toggle>\n               <mat-datepicker #picker4></mat-datepicker>\n               </mat-form-field>\n           </td>\n         </tr>\n       </table>\n\n     </mat-card>\n      <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n       <button mat-raised-button color=\"primary\" matStepperPrevious>Back</button>\n       <button mat-raised-button color=\"primary\" matStepperNext>Next</button>\n     </div>-->\n     <br>\n     <div class = \"example-button\">\n       <table style=\"margin-left:auto;margin-right:auto;\">\n         <tr>\n           <td>\n           <button mat-raised-button color=\"warn\" matStepperPrevious>Back</button></td>\n           <td>\n           <button mat-raised-button color=\"warn\" matStepperNext>Next</button></td>\n         </tr>\n       </table>\n     </div>\n   </form>\n </mat-step>\n\n\n <!--<mat-step [stepControl]=\"forthFormGroup\" errorMessage=\"Missing required fields.\">\n   <form [formGroup]=\"forthFormGroup\">-->\n <mat-step>     \n   <form>\n     <ng-template matStepLabel>Certificates</ng-template>\n     <mat-card>\n\n       <p>\n         <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n           <mat-label>Certificate Name</mat-label>\n           <!--<textarea matInput></textarea>\n           <input matInput placeholder=\"Certificate Name\" (ngModel) = \"certificate\" name=\"certificate\">-->\n           <input matInput placeholder=\"Certificate Name\" [(ngModel)] = \"enteredCertificate\" name=\"certificate\">\n         </mat-form-field>\n       </p>\n       <p>\n         <mat-form-field class=\"example-full-width\" appearance=\"outline\">\n           <mat-label>From</mat-label>\n           <!--<textarea matInput></textarea>\n           <input matInput placeholder=\"From\" (ngModel) = \"certificatefrom\" name=\"from\">-->\n\n         <input matInput placeholder=\"From\" [(ngModel)] = \"enteredCertificateFrom\" [ngModelOptions]=\"{standalone: true}\">\n           \n         </mat-form-field>\n       </p>\n\n\n       <mat-form-field class=\"example-full-width\" appearance=\"outline\"> \n         <mat-label>Expiration Date</mat-label>\n         <!--<input matInput formControlName=\"date\" type=\"date\">\n         <input matInput [matDatepicker]=\"picker5\" (ngModel) = \"expirationDate\" [ngModelOptions]=\"{standalone: true}\"> -->\n         <input matInput [matDatepicker]=\"picker5\" [(ngModel)] = \"enteredExpirationDate\" [ngModelOptions]=\"{standalone: true}\"> \n         <mat-datepicker-toggle matSuffix [for]=\"picker5\"></mat-datepicker-toggle>\n         <mat-datepicker #picker5></mat-datepicker>\n       </mat-form-field>\n\n     </mat-card>\n     <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n       <button mat-raised-button color=\"primary\" matStepperPrevious>Back</button>\n       <button mat-raised-button color=\"primary\" matStepperNext>Next</button>\n     </div>-->\n     <br>\n     <div class = \"example-button\">\n       <table style=\"margin-left:auto;margin-right:auto;\">\n         <tr>\n           <td>\n           <button mat-raised-button color=\"warn\" matStepperPrevious>Back</button></td>\n           <td>\n           <button mat-raised-button color=\"warn\" matStepperNext>Next</button></td>\n         </tr>\n       </table>\n     </div>\n   </form>\n </mat-step>\n\n\n <mat-step>\n   <ng-template matStepLabel>Done</ng-template>\n   <p>You are now done!</p>\n   <!--<div style=\"margin-left: 8em; margin-top: 1em\">\n     <button mat-raised-button color=\"primary\" matStepperPrevious>Back</button>\n     <button mat-raised-button color=\"primary\" (click)=\"SaveUpdate()\">Save</button>\n   </div>-->\n   <br>\n   <div class = \"example-button\">\n     <table style=\"margin-left:auto;margin-right:auto;\">\n       <tr>\n         <td>\n         <button mat-raised-button color=\"warn\" matStepperPrevious>Back</button></td>\n         <td>\n         <button mat-raised-button color=\"warn\" (click)=\"SaveUpdate()\" >Submit</button></td>\n       </tr>\n     </table>\n   </div>\n </mat-step>\n\n\n</mat-horizontal-stepper>\n\n</div>"
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/candidature/candidature.component.html":
-/*!***********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/candidature/candidature.component.html ***!
-  \***********************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/candidature/candidature.component.html":
+/*!****************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/candidature/candidature.component.html ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -474,10 +353,10 @@ module.exports = "<div class=\"row mt\" style=\"padding-top: 5%\">\n    \n    \n
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/info-employe/info-employe.component.html":
-/*!*************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/info-employe/info-employe.component.html ***!
-  \*************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/info-employe/info-employe.component.html":
+/*!******************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/info-employe/info-employe.component.html ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -485,10 +364,10 @@ module.exports = "<div class=\"wrapper\">\n  <div class=\"left\"> \n    <img src
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.html":
-/*!*************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.html ***!
-  \*************************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.html":
+/*!******************************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.html ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -496,10 +375,10 @@ module.exports = "\n  \n     <mat-toolbar-row style=\"padding: 0 5px;\">\n      
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.html":
-/*!*************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.html ***!
-  \*************************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.html":
+/*!******************************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.html ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -507,10 +386,10 @@ module.exports = "<!--<mat-accordion> \n    <mat-expansion-panel *ngFor = \"let 
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form.component.html":
-/*!***********************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/jobapp-form/jobapp-form.component.html ***!
-  \***********************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form.component.html":
+/*!****************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/jobapp-form/jobapp-form.component.html ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -518,10 +397,10 @@ module.exports = "<main>\n    <app-jobapp-form-create (jobappCreated)=\"onJobapp
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.html":
-/*!**************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.html ***!
-  \**************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.html":
+/*!*******************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.html ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -529,10 +408,10 @@ module.exports = "<div mat-dialog-content>\n      <div (ngModel) = \"data\" >\n 
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobspage/jobspage.component.html":
-/*!*****************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/jobspage/jobspage.component.html ***!
-  \*****************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobspage/jobspage.component.html":
+/*!**********************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/jobspage/jobspage.component.html ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -540,10 +419,10 @@ module.exports = "\n<form (submit)=\"searchJob(searchForm)\" #searchForm=\"ngFor
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.html":
-/*!**************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.html ***!
-  \**************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.html":
+/*!*******************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.html ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -551,10 +430,10 @@ module.exports = "<div mat-dialog-content>\n    <div >\n        <h3>{{title}}</h
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/myfavjob/myfavjob.component.html":
-/*!*****************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/myfavjob/myfavjob.component.html ***!
-  \*****************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/myfavjob/myfavjob.component.html":
+/*!**********************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/myfavjob/myfavjob.component.html ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -562,10 +441,10 @@ module.exports = "\n\n  <mat-toolbar-row style=\"padding: 0 5px;\">\n    <span><
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.html":
-/*!*********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.html ***!
-  \*********************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.html":
+/*!**************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.html ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -573,10 +452,10 @@ module.exports = "<div class=\"row mt\">\n  <div class=\"col-md-12\">\n    <div 
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/update-info-employe/update-info-employe.component.html":
-/*!***************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/employe-components/update-info-employe/update-info-employe.component.html ***!
-  \***************************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/update-info-employe/update-info-employe.component.html":
+/*!********************************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/employe-components/update-info-employe/update-info-employe.component.html ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -584,10 +463,10 @@ module.exports = "<div class=\"container\" >\n\n   \n        \n    <div class=\"
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/footer/footer.component.html":
-/*!******************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/footer/footer.component.html ***!
-  \******************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/footer/footer.component.html":
+/*!***********************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/footer/footer.component.html ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -595,10 +474,10 @@ module.exports = ""
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/home/home.component.html":
-/*!**************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/home/home.component.html ***!
-  \**************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/home/home.component.html":
+/*!*******************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/home/home.component.html ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -606,10 +485,10 @@ module.exports = "<div class=\"container pt-10\" style=\"margin-top: 8%\">\n  <d
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/login/login.component.html":
-/*!****************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/login/login.component.html ***!
-  \****************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/login/login.component.html":
+/*!*********************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/login/login.component.html ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -617,10 +496,10 @@ module.exports = "<form class=\"form-login\">\n  <div class=\"card card-containe
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/register/register.component.html":
-/*!**********************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/register/register.component.html ***!
-  \**********************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/register/register.component.html":
+/*!***************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/register/register.component.html ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -628,21 +507,21 @@ module.exports = "<form class=\"form-login\">\n  <div class=\"card card-containe
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/sidebar/sidebar.component.html":
-/*!********************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/sidebar/sidebar.component.html ***!
-  \********************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/sidebar/sidebar.component.html":
+/*!*************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/sidebar/sidebar.component.html ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "  \n  <div>\n    <section id=\"container\">\n     \n    <app-navbar></app-navbar>\n\n  <aside *ngIf=\"isLoggedIn\">\n    \n    <div id=\"sidebar\" class=\"nav-collapse nicescroll-rails\" tabindex=\"5000\" style=\"overflow-y: scroll;  \n    outline: none; margin-left: 0px;\n    z-index: 1;\n    /* overflow-x: hidden; */\n    \n    \" > <!-- *ngIf=\"isLoggedIn\";-->\n      \n      <!-- sidebar menu start-->\n      <ul class=\"sidebar-menu\" id=\"nav-accordion\">\n        <p class=\"centered\"><a><img src=\"{{pic}}\" class=\"img-circle\" width=\"50\"  *ngIf=\"img\"></a>\n          <a><img src=\"../../../assets/img/avatar.jpg\" class=\"img-circle\" width=\"50\"  *ngIf=\"!img\"></a></p>\n        <h5 class=\"centered\"><h2>{{username}}</h2></h5>\n\n        <li class=\"mt\">\n          <a routerLink =\"/dashboard\" >\n            <i class=\"fa fa-tachometer\" aria-hidden=\"true\"></i>\n            <span>Dashboard</span>\n            </a>\n        </li>\n\n       \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showUserBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-user\"></i>\n            <span routerLink=\"/cand-profile\"> profile</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showUserBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-cogs\"></i>\n            <span routerLink =\"/cand-form\">Settings\n            </span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n        \n\n        <mat-accordion class=\"sidebar\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\" >\n          <mat-expansion-panel>\n            <mat-expansion-panel-header>\n              <mat-panel-title style=\"margin-left: -7%;margin-bottom: -3px;width: 30px;\">\n                <i class=\"fa fa-group\"></i>  <span style=\"margin-left: 7px;\">Recruiters</span>\n              </mat-panel-title>\n            </mat-expansion-panel-header>\n        \n            <div class=\"vacation-sub-menu\">\n              <li><a style= \"margin-bottom:-10px\"routerLink =\"/listEmployes\"><i class=\"fa fa-book\"></i> List of Recruiters</a></li>\n              <li><a routerLink =\"/addEmploye\"><i class=\"fa fa-group\"></i>Add Recruiters</a></li>\n            </div>\n          </mat-expansion-panel>\n        </mat-accordion>\n        <mat-accordion class=\"sidebar\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\" >\n          <mat-expansion-panel>\n            <mat-expansion-panel-header>\n              <mat-panel-title style=\"margin-left: -7%;margin-bottom: -3px;width: 30px;\">\n                <i class=\"fa fa-desktop\"></i>  <span style=\"margin-left: 7px;\">Jobs</span>\n              </mat-panel-title>\n            </mat-expansion-panel-header>\n        \n            <div class=\"vacation-sub-menu\">\n              <li><a style= \"margin-bottom:-10px\"routerLink =\"/post-job\"><i class=\"fa fa-book\"></i> Post job </a></li>\n              <li><a routerLink =\"/view-posting\"><i class=\"fa fa-group\"></i>View Posting</a></li>\n            </div>\n          </mat-expansion-panel>\n        </mat-accordion>\n\n      \n\n       \n\n        \n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\"> <!--*ngIf=\"showAdminBoard\"-->\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-group\"></i>\n            <span routerLink =\"/view-applicants\">View Candidate</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\">\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-briefcase\"></i>\n            <span routerLink =\"/recrutement\" >Recruitment</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        \n      \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\">\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-tasks\"></i>\n            <span routerLink =\"/todoList\">Todo List</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n\n      \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\">\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-calendar-o\"></i>\n            <span routerLink =\"/presence\">Timetracking</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        \n\n\n\n        <mat-accordion class=\"sidebar\" routerLinkActive = \"active\" *ngIf=\"showUserBoard\" >\n          <mat-expansion-panel>\n            <mat-expansion-panel-header>\n              <mat-panel-title style=\"margin-left: -7%;margin-bottom: -3px;\">\n                <i class=\"fa fa-desktop\"></i> <span style=\"margin-left: 7px;\">offers and requests</span> \n              </mat-panel-title>\n            </mat-expansion-panel-header>\n        \n            <div class=\"vacation-sub-menu\">\n              <li><a routerLink =\"/jobspage\">Current offers</a></li>\n              <li><a routerLink =\"/myfavjob\">My Favorite Job</a></li>\n              <li><a routerLink =\"/applications\">Status</a></li>\n\n            </div>\n          </mat-expansion-panel>\n        </mat-accordion>\n\n        \n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showUserBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-calendar-o\"></i>\n            <span [routerLink] =\"['/presence-calendar', id]\">Timetracking</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n        \n\n        \n\n       \n\n       \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-cogs\"></i>\n            <span routerLink =\"/hr-form\">Settings\n            </span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-user\"></i>\n            <span [routerLink] =\"['/info-employe', id]\"> profile</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\">\n          <a href=\"javascript:;\"  >\n            <i class=\"fa fa-bell\"></i>\n            <span routerLink =\"/recrutement\">View Candidate</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\">\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-briefcase\"></i>\n            <span routerLink =\"/recruitment\" >Recruitment</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n         \n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-calendar-o\"></i>\n            <span [routerLink] =\"['/presence-calendar', id]\">Timetracking</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n\n        \n\n        \n      </ul>\n      <!-- sidebar menu end-->\n    </div>\n  </aside>\n  <!--sidebar end-->\n\n  <section id=\"main-content\">\n    <section class=\"wrapper\">\n\n        <div class=\"container-fluid\">\n          <router-outlet></router-outlet>\n        </div>\n      </section>\n      </section>\n\n  </section>\n\n  </div>\n\n\n  "
+module.exports = "  \n  <div>\n    <section id=\"container\">\n     \n    <app-navbar></app-navbar>\n\n  <aside *ngIf=\"isLoggedIn\">\n    \n    <div id=\"sidebar\" class=\"nav-collapse nicescroll-rails\" tabindex=\"5000\" style=\"overflow-y: scroll;  \n    outline: none; margin-left: 0px;\n    z-index: 1;\n    /* overflow-x: hidden; */\n    \n    \" > <!-- *ngIf=\"isLoggedIn\";-->\n      \n      <!-- sidebar menu start-->\n      <ul class=\"sidebar-menu\" id=\"nav-accordion\">\n        <p class=\"centered\"><a><img src=\"{{pic}}\" class=\"img-circle\" width=\"50\"  *ngIf=\"img\"></a>\n          <a><img src=\"../../../assets/img/avatar.jpg\" class=\"img-circle\" width=\"50\"  *ngIf=\"!img\"></a></p>\n        <h5 class=\"centered\"><h2>{{username}}</h2></h5>\n\n        <li class=\"mt\">\n          <a routerLink =\"/dashboard\" >\n            <i class=\"fa fa-tachometer\" aria-hidden=\"true\"></i>\n            <span>Dashboard</span>\n            </a>\n        </li>\n\n       \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showUserBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-user\"></i>\n            <span routerLink=\"/cand-profile\"> profile</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showUserBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-cogs\"></i>\n            <span routerLink =\"/cand-form\">Settings\n            </span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n        \n\n        <mat-accordion class=\"sidebar\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\" >\n          <mat-expansion-panel>\n            <mat-expansion-panel-header>\n              <mat-panel-title style=\"margin-left: -7%;margin-bottom: -3px;width: 30px;\">\n                <i class=\"fa fa-group\"></i>  <span style=\"margin-left: 7px;\">Recruiters</span>\n              </mat-panel-title>\n            </mat-expansion-panel-header>\n        \n            <div class=\"vacation-sub-menu\">\n              <li><a style= \"margin-bottom:-10px\"routerLink =\"/listEmployes\"><i class=\"fa fa-book\"></i> List of Recruiters</a></li>\n              <li><a routerLink =\"/addEmploye\"><i class=\"fa fa-group\"></i>Add Recruiters</a></li>\n            </div>\n          </mat-expansion-panel>\n        </mat-accordion>\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-user\"></i>\n            <span [routerLink] =\"['/info-employe', id]\"> profile</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n        <mat-accordion class=\"sidebar\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\" >\n          <mat-expansion-panel>\n            <mat-expansion-panel-header>\n              <mat-panel-title style=\"margin-left: -7%;margin-bottom: -3px;width: 30px;\">\n                <i class=\"fa fa-desktop\"></i>  <span style=\"margin-left: 7px;\">Jobs</span>\n              </mat-panel-title>\n            </mat-expansion-panel-header>\n        \n            <div class=\"vacation-sub-menu\">\n              <li><a style= \"margin-bottom:-10px\"routerLink =\"/post-job\"><i class=\"fa fa-book\"></i> Post job </a></li>\n              <li><a routerLink =\"/view-posting\"><i class=\"fa fa-group\"></i>View Posting</a></li>\n            </div>\n          </mat-expansion-panel>\n        </mat-accordion>\n\n      \n\n       \n\n        \n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\"> <!--*ngIf=\"showAdminBoard\"-->\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-group\"></i>\n            <span routerLink =\"/view-applicants\">View Candidate</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\">\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-briefcase\"></i>\n            <span routerLink =\"/recrutement\" >Recruitment</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        \n      \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\">\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-tasks\"></i>\n            <span routerLink =\"/todoList\">Todo List</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n\n      \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\">\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-calendar-o\"></i>\n            <span routerLink =\"/presence\">Timetracking</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        \n\n\n\n        <mat-accordion class=\"sidebar\" routerLinkActive = \"active\" *ngIf=\"showUserBoard\" >\n          <mat-expansion-panel>\n            <mat-expansion-panel-header>\n              <mat-panel-title style=\"margin-left: -7%;margin-bottom: -3px;\">\n                <i class=\"fa fa-desktop\"></i> <span style=\"margin-left: 7px;\">offers and requests</span> \n              </mat-panel-title>\n            </mat-expansion-panel-header>\n        \n            <div class=\"vacation-sub-menu\">\n              <li><a routerLink =\"/jobspage\">Current offers</a></li>\n              <li><a routerLink =\"/myfavjob\">My Favorite Job</a></li>\n              <li><a routerLink =\"/applications\">Status</a></li>\n\n            </div>\n          </mat-expansion-panel>\n        </mat-accordion>\n\n        \n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showUserBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-calendar-o\"></i>\n            <span [routerLink] =\"['/presence-calendar', id]\">Timetracking</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n        \n\n        \n\n       \n\n       \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showAdminBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-cogs\"></i>\n            <span routerLink =\"/hr-form\">Settings\n            </span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n       \n\n        \n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\">\n          <a href=\"javascript:;\"  >\n            <i class=\"fa fa-bell\"></i>\n            <span routerLink =\"/recrutement\">View Candidate</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\">\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-briefcase\"></i>\n            <span routerLink =\"/recruitment\" >Recruitment</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n         \n        <li class=\"sub-menu dcjq-parent-li\" routerLinkActive = \"active\" *ngIf=\"showModeratorBoard\" >\n          <a href=\"javascript:;\">\n            <i class=\"fa fa-calendar-o\"></i>\n            <span [routerLink] =\"['/presence-calendar', id]\">Timetracking</span>\n            <span class=\"dcjq-icon\"></span></a>\n    \n        </li>\n\n\n        \n\n        \n      </ul>\n      <!-- sidebar menu end-->\n    </div>\n  </aside>\n  <!--sidebar end-->\n\n  <section id=\"main-content\">\n    <section class=\"wrapper\">\n\n        <div class=\"container-fluid\">\n          <router-outlet></router-outlet>\n        </div>\n      </section>\n      </section>\n\n  </section>\n\n  </div>\n\n\n  "
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/update-profil/update-profil.component.html":
-/*!********************************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/components/update-profil/update-profil.component.html ***!
-  \********************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/components/update-profil/update-profil.component.html":
+/*!*************************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/components/update-profil/update-profil.component.html ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -650,10 +529,10 @@ module.exports = "<div class=\"container\" >\n\n   \n        \n    <div class=\"
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/navbar/navbar.component.html":
-/*!*******************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/navbar/navbar.component.html ***!
-  \*******************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/navbar/navbar.component.html":
+/*!************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/navbar/navbar.component.html ***!
+  \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -661,10 +540,10 @@ module.exports = "\n <!--header start-->\n <header class=\"header black-bg\">\n 
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/profil/profil.component.html":
-/*!*******************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/profil/profil.component.html ***!
-  \*******************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/profil/profil.component.html":
+/*!************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/profil/profil.component.html ***!
+  \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -672,10 +551,10 @@ module.exports = "<div class=\"container\" *ngIf=\"currentUser; else loggedOut\"
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/public-layout/public-layout.component.html":
-/*!*********************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/public-layout/public-layout.component.html ***!
-  \*********************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/public-layout/public-layout.component.html":
+/*!**************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/public-layout/public-layout.component.html ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -683,10 +562,10 @@ module.exports = "<app-navbar></app-navbar>\n\n<div>\n    <div class=\"container
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/shared/widgets/line/line.component.html":
-/*!******************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/shared/widgets/line/line.component.html ***!
-  \******************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/shared/widgets/line/line.component.html":
+/*!***********************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/shared/widgets/line/line.component.html ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -694,10 +573,10 @@ module.exports = "\n<highcharts-chart\n[Highcharts] = \"highcharts\" \n[options]
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/shared/widgets/pie/pie.component.html":
-/*!****************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/shared/widgets/pie/pie.component.html ***!
-  \****************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/shared/widgets/pie/pie.component.html":
+/*!*********************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/shared/widgets/pie/pie.component.html ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -705,10 +584,10 @@ module.exports = "\n<highcharts-chart [Highcharts]=\"highcharts\" [options]=\"ch
 
 /***/ }),
 
-/***/ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/shared/widgets/pie2/pie2.component.html":
-/*!******************************************************************************************************************************!*\
-  !*** ./node_modules/@angular-devkit/build-angular/node_modules/raw-loader!./src/app/shared/widgets/pie2/pie2.component.html ***!
-  \******************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/index.js!./src/app/shared/widgets/pie2/pie2.component.html":
+/*!***********************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/shared/widgets/pie2/pie2.component.html ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -3845,53 +3724,40 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_admin_components_list_employes_list_employes_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/admin-components/list-employes/list-employes.component */ "./src/app/components/admin-components/list-employes/list-employes.component.ts");
 /* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm2015/forms.js");
 /* harmony import */ var _components_admin_components_profile_employe_profile_employe_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/admin-components/profile-employe/profile-employe.component */ "./src/app/components/admin-components/profile-employe/profile-employe.component.ts");
-/* harmony import */ var _components_admin_components_notes_notes_internes_notes_internes_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/admin-components/notes/notes-internes/notes-internes.component */ "./src/app/components/admin-components/notes/notes-internes/notes-internes.component.ts");
-/* harmony import */ var _components_admin_components_recrutements_recrutements_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/admin-components/recrutements/recrutements.component */ "./src/app/components/admin-components/recrutements/recrutements.component.ts");
-/* harmony import */ var _components_admin_components_meetings_list_meeting_list_meeting_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/admin-components/meetings/list-meeting/list-meeting.component */ "./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.ts");
-/* harmony import */ var _components_login_login_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./components/login/login.component */ "./src/app/components/login/login.component.ts");
-/* harmony import */ var _components_register_register_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./components/register/register.component */ "./src/app/components/register/register.component.ts");
-/* harmony import */ var _components_sidebar_sidebar_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./components/sidebar/sidebar.component */ "./src/app/components/sidebar/sidebar.component.ts");
-/* harmony import */ var _components_home_home_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./components/home/home.component */ "./src/app/components/home/home.component.ts");
-/* harmony import */ var _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./components/footer/footer.component */ "./src/app/components/footer/footer.component.ts");
-/* harmony import */ var _components_employe_components_info_employe_info_employe_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./components/employe-components/info-employe/info-employe.component */ "./src/app/components/employe-components/info-employe/info-employe.component.ts");
-/* harmony import */ var _components_admin_components_profil_candidat_profil_candidat_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./components/admin-components/profil-candidat/profil-candidat.component */ "./src/app/components/admin-components/profil-candidat/profil-candidat.component.ts");
-/* harmony import */ var _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./components/dashboard/dashboard.component */ "./src/app/components/dashboard/dashboard.component.ts");
-/* harmony import */ var _public_layout_public_layout_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./public-layout/public-layout.component */ "./src/app/public-layout/public-layout.component.ts");
-/* harmony import */ var _components_admin_components_update_employe_update_employe_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./components/admin-components/update-employe/update-employe.component */ "./src/app/components/admin-components/update-employe/update-employe.component.ts");
-/* harmony import */ var _components_employe_components_update_info_employe_update_info_employe_component__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./components/employe-components/update-info-employe/update-info-employe.component */ "./src/app/components/employe-components/update-info-employe/update-info-employe.component.ts");
-/* harmony import */ var _components_admin_components_meetings_update_meeting_update_meeting_component__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./components/admin-components/meetings/update-meeting/update-meeting.component */ "./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.ts");
-/* harmony import */ var _components_admin_components_notes_update_note_update_note_component__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./components/admin-components/notes/update-note/update-note.component */ "./src/app/components/admin-components/notes/update-note/update-note.component.ts");
-/* harmony import */ var _components_admin_components_notes_ajout_note_ajout_note_component__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./components/admin-components/notes/ajout-note/ajout-note.component */ "./src/app/components/admin-components/notes/ajout-note/ajout-note.component.ts");
-/* harmony import */ var _components_admin_components_update_photo_update_photo_component__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./components/admin-components/update-photo/update-photo.component */ "./src/app/components/admin-components/update-photo/update-photo.component.ts");
-/* harmony import */ var _components_candidate_components_response_response_component__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./components/candidate-components/response/response.component */ "./src/app/components/candidate-components/response/response.component.ts");
-/* harmony import */ var _components_update_profil_update_profil_component__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./components/update-profil/update-profil.component */ "./src/app/components/update-profil/update-profil.component.ts");
-/* harmony import */ var _board_user_board_user_component__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./board-user/board-user.component */ "./src/app/board-user/board-user.component.ts");
-/* harmony import */ var _board_moderator_board_moderator_component__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./board-moderator/board-moderator.component */ "./src/app/board-moderator/board-moderator.component.ts");
-/* harmony import */ var _board_admin_board_admin_component__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./board-admin/board-admin.component */ "./src/app/board-admin/board-admin.component.ts");
-/* harmony import */ var _components_employe_components_candidature_candidature_component__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./components/employe-components/candidature/candidature.component */ "./src/app/components/employe-components/candidature/candidature.component.ts");
-/* harmony import */ var _components_employe_components_offres_actuelles_offres_actuelles_component__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./components/employe-components/offres-actuelles/offres-actuelles.component */ "./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.ts");
-/* harmony import */ var _components_admin_components_notes_book_detail_book_detail_component__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./components/admin-components/notes/book-detail/book-detail.component */ "./src/app/components/admin-components/notes/book-detail/book-detail.component.ts");
-/* harmony import */ var _components_admin_components_notes_book_create_book_create_component__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./components/admin-components/notes/book-create/book-create.component */ "./src/app/components/admin-components/notes/book-create/book-create.component.ts");
-/* harmony import */ var _components_admin_components_notes_book_edit_book_edit_component__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./components/admin-components/notes/book-edit/book-edit.component */ "./src/app/components/admin-components/notes/book-edit/book-edit.component.ts");
-/* harmony import */ var _components_admin_components_post_job_post_job_component__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./components/admin-components/post-job/post-job.component */ "./src/app/components/admin-components/post-job/post-job.component.ts");
-/* harmony import */ var _components_employe_components_jobspage_jobspage_component__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./components/employe-components/jobspage/jobspage.component */ "./src/app/components/employe-components/jobspage/jobspage.component.ts");
-/* harmony import */ var _components_employe_components_myfavjob_myfavjob_component__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./components/employe-components/myfavjob/myfavjob.component */ "./src/app/components/employe-components/myfavjob/myfavjob.component.ts");
-/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_component__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form.component.ts");
-/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_create_jobapp_form_create_component__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.ts");
-/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_review_jobapp_form_review_component__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.ts");
-/* harmony import */ var _components_employe_components_cand_profile_cand_profile_component__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./components/employe-components/cand-profile/cand-profile.component */ "./src/app/components/employe-components/cand-profile/cand-profile.component.ts");
-/* harmony import */ var _components_employe_components_applications_applications_component__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./components/employe-components/applications/applications.component */ "./src/app/components/employe-components/applications/applications.component.ts");
-/* harmony import */ var _components_employe_components_candidate_form_candidate_form_component__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./components/employe-components/candidate-form/candidate-form.component */ "./src/app/components/employe-components/candidate-form/candidate-form.component.ts");
-/* harmony import */ var _components_admin_components_view_posting_view_posting_component__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./components/admin-components/view-posting/view-posting.component */ "./src/app/components/admin-components/view-posting/view-posting.component.ts");
-/* harmony import */ var _components_admin_components_view_applicants_view_applicants_component__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./components/admin-components/view-applicants/view-applicants.component */ "./src/app/components/admin-components/view-applicants/view-applicants.component.ts");
-/* harmony import */ var _components_admin_components_hr_profile_hr_profile_component__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./components/admin-components/hr-profile/hr-profile.component */ "./src/app/components/admin-components/hr-profile/hr-profile.component.ts");
-/* harmony import */ var _components_admin_components_hr_form_hr_form_component__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./components/admin-components/hr-form/hr-form.component */ "./src/app/components/admin-components/hr-form/hr-form.component.ts");
-/* harmony import */ var _components_admin_components_recruitment_recruitment_component__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./components/admin-components/recruitment/recruitment.component */ "./src/app/components/admin-components/recruitment/recruitment.component.ts");
-
-
-
-
-
+/* harmony import */ var _components_admin_components_recrutements_recrutements_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/admin-components/recrutements/recrutements.component */ "./src/app/components/admin-components/recrutements/recrutements.component.ts");
+/* harmony import */ var _components_login_login_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/login/login.component */ "./src/app/components/login/login.component.ts");
+/* harmony import */ var _components_register_register_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/register/register.component */ "./src/app/components/register/register.component.ts");
+/* harmony import */ var _components_sidebar_sidebar_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./components/sidebar/sidebar.component */ "./src/app/components/sidebar/sidebar.component.ts");
+/* harmony import */ var _components_home_home_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./components/home/home.component */ "./src/app/components/home/home.component.ts");
+/* harmony import */ var _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./components/footer/footer.component */ "./src/app/components/footer/footer.component.ts");
+/* harmony import */ var _components_employe_components_info_employe_info_employe_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./components/employe-components/info-employe/info-employe.component */ "./src/app/components/employe-components/info-employe/info-employe.component.ts");
+/* harmony import */ var _components_admin_components_profil_candidat_profil_candidat_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./components/admin-components/profil-candidat/profil-candidat.component */ "./src/app/components/admin-components/profil-candidat/profil-candidat.component.ts");
+/* harmony import */ var _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./components/dashboard/dashboard.component */ "./src/app/components/dashboard/dashboard.component.ts");
+/* harmony import */ var _public_layout_public_layout_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./public-layout/public-layout.component */ "./src/app/public-layout/public-layout.component.ts");
+/* harmony import */ var _components_admin_components_update_employe_update_employe_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./components/admin-components/update-employe/update-employe.component */ "./src/app/components/admin-components/update-employe/update-employe.component.ts");
+/* harmony import */ var _components_employe_components_update_info_employe_update_info_employe_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./components/employe-components/update-info-employe/update-info-employe.component */ "./src/app/components/employe-components/update-info-employe/update-info-employe.component.ts");
+/* harmony import */ var _components_admin_components_update_photo_update_photo_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./components/admin-components/update-photo/update-photo.component */ "./src/app/components/admin-components/update-photo/update-photo.component.ts");
+/* harmony import */ var _components_candidate_components_response_response_component__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./components/candidate-components/response/response.component */ "./src/app/components/candidate-components/response/response.component.ts");
+/* harmony import */ var _components_update_profil_update_profil_component__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./components/update-profil/update-profil.component */ "./src/app/components/update-profil/update-profil.component.ts");
+/* harmony import */ var _board_user_board_user_component__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./board-user/board-user.component */ "./src/app/board-user/board-user.component.ts");
+/* harmony import */ var _board_moderator_board_moderator_component__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./board-moderator/board-moderator.component */ "./src/app/board-moderator/board-moderator.component.ts");
+/* harmony import */ var _board_admin_board_admin_component__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./board-admin/board-admin.component */ "./src/app/board-admin/board-admin.component.ts");
+/* harmony import */ var _components_employe_components_candidature_candidature_component__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./components/employe-components/candidature/candidature.component */ "./src/app/components/employe-components/candidature/candidature.component.ts");
+/* harmony import */ var _components_employe_components_offres_actuelles_offres_actuelles_component__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./components/employe-components/offres-actuelles/offres-actuelles.component */ "./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.ts");
+/* harmony import */ var _components_admin_components_post_job_post_job_component__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./components/admin-components/post-job/post-job.component */ "./src/app/components/admin-components/post-job/post-job.component.ts");
+/* harmony import */ var _components_employe_components_jobspage_jobspage_component__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./components/employe-components/jobspage/jobspage.component */ "./src/app/components/employe-components/jobspage/jobspage.component.ts");
+/* harmony import */ var _components_employe_components_myfavjob_myfavjob_component__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./components/employe-components/myfavjob/myfavjob.component */ "./src/app/components/employe-components/myfavjob/myfavjob.component.ts");
+/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_component__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form.component.ts");
+/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_create_jobapp_form_create_component__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.ts");
+/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_review_jobapp_form_review_component__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.ts");
+/* harmony import */ var _components_employe_components_cand_profile_cand_profile_component__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./components/employe-components/cand-profile/cand-profile.component */ "./src/app/components/employe-components/cand-profile/cand-profile.component.ts");
+/* harmony import */ var _components_employe_components_applications_applications_component__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./components/employe-components/applications/applications.component */ "./src/app/components/employe-components/applications/applications.component.ts");
+/* harmony import */ var _components_employe_components_candidate_form_candidate_form_component__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./components/employe-components/candidate-form/candidate-form.component */ "./src/app/components/employe-components/candidate-form/candidate-form.component.ts");
+/* harmony import */ var _components_admin_components_view_posting_view_posting_component__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./components/admin-components/view-posting/view-posting.component */ "./src/app/components/admin-components/view-posting/view-posting.component.ts");
+/* harmony import */ var _components_admin_components_view_applicants_view_applicants_component__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./components/admin-components/view-applicants/view-applicants.component */ "./src/app/components/admin-components/view-applicants/view-applicants.component.ts");
+/* harmony import */ var _components_admin_components_hr_profile_hr_profile_component__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./components/admin-components/hr-profile/hr-profile.component */ "./src/app/components/admin-components/hr-profile/hr-profile.component.ts");
+/* harmony import */ var _components_admin_components_hr_form_hr_form_component__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./components/admin-components/hr-form/hr-form.component */ "./src/app/components/admin-components/hr-form/hr-form.component.ts");
+/* harmony import */ var _components_admin_components_recruitment_recruitment_component__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./components/admin-components/recruitment/recruitment.component */ "./src/app/components/admin-components/recruitment/recruitment.component.ts");
 
 
 
@@ -3935,62 +3801,51 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-
-
-
 const routes = [
     {
-        path: '', component: _public_layout_public_layout_component__WEBPACK_IMPORTED_MODULE_18__["PublicLayoutComponent"], children: [
+        path: '', component: _public_layout_public_layout_component__WEBPACK_IMPORTED_MODULE_16__["PublicLayoutComponent"], children: [
             { path: '', redirectTo: 'home', pathMatch: 'full' },
-            { path: 'home', component: _components_home_home_component__WEBPACK_IMPORTED_MODULE_13__["HomeComponent"] },
-            { path: 'response', component: _components_candidate_components_response_response_component__WEBPACK_IMPORTED_MODULE_25__["ResponseComponent"] },
-            { path: 'login', component: _components_login_login_component__WEBPACK_IMPORTED_MODULE_10__["LoginComponent"] },
-            { path: 'register', component: _components_register_register_component__WEBPACK_IMPORTED_MODULE_11__["RegisterComponent"] },
-            { path: 'user', component: _board_user_board_user_component__WEBPACK_IMPORTED_MODULE_27__["BoardUserComponent"] },
-            { path: 'mod', component: _board_moderator_board_moderator_component__WEBPACK_IMPORTED_MODULE_28__["BoardModeratorComponent"] },
-            { path: 'admin', component: _board_admin_board_admin_component__WEBPACK_IMPORTED_MODULE_29__["BoardAdminComponent"] },
+            { path: 'home', component: _components_home_home_component__WEBPACK_IMPORTED_MODULE_11__["HomeComponent"] },
+            { path: 'response', component: _components_candidate_components_response_response_component__WEBPACK_IMPORTED_MODULE_20__["ResponseComponent"] },
+            { path: 'login', component: _components_login_login_component__WEBPACK_IMPORTED_MODULE_8__["LoginComponent"] },
+            { path: 'register', component: _components_register_register_component__WEBPACK_IMPORTED_MODULE_9__["RegisterComponent"] },
+            { path: 'user', component: _board_user_board_user_component__WEBPACK_IMPORTED_MODULE_22__["BoardUserComponent"] },
+            { path: 'mod', component: _board_moderator_board_moderator_component__WEBPACK_IMPORTED_MODULE_23__["BoardModeratorComponent"] },
+            { path: 'admin', component: _board_admin_board_admin_component__WEBPACK_IMPORTED_MODULE_24__["BoardAdminComponent"] },
         ]
     },
-    { path: '', component: _components_sidebar_sidebar_component__WEBPACK_IMPORTED_MODULE_12__["SidebarComponent"], children: [
+    { path: '', component: _components_sidebar_sidebar_component__WEBPACK_IMPORTED_MODULE_10__["SidebarComponent"], children: [
             { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
-            { path: 'dashboard', component: _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_17__["DashboardComponent"] },
-            { path: 'profil', component: _components_update_profil_update_profil_component__WEBPACK_IMPORTED_MODULE_26__["UpdateProfilComponent"] },
+            { path: 'dashboard', component: _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_15__["DashboardComponent"] },
+            { path: 'profil', component: _components_update_profil_update_profil_component__WEBPACK_IMPORTED_MODULE_21__["UpdateProfilComponent"] },
             { path: 'addEmploye', component: _components_admin_components_add_employe_add_employe_component__WEBPACK_IMPORTED_MODULE_3__["AddEmployeComponent"] },
-            { path: 'OffresActuelles', component: _components_employe_components_offres_actuelles_offres_actuelles_component__WEBPACK_IMPORTED_MODULE_31__["OffresActuellesComponent"] },
-            { path: 'candidature', component: _components_employe_components_candidature_candidature_component__WEBPACK_IMPORTED_MODULE_30__["CandidatureComponent"] },
+            { path: 'OffresActuelles', component: _components_employe_components_offres_actuelles_offres_actuelles_component__WEBPACK_IMPORTED_MODULE_26__["OffresActuellesComponent"] },
+            { path: 'candidature', component: _components_employe_components_candidature_candidature_component__WEBPACK_IMPORTED_MODULE_25__["CandidatureComponent"] },
             { path: 'listEmployes', component: _components_admin_components_list_employes_list_employes_component__WEBPACK_IMPORTED_MODULE_4__["ListEmployesComponent"] },
             //{ path: 'listEmployes/profilEmploye/:idUser', component: ProfileEmployeComponent },
             { path: 'profilEmploye/:id', component: _components_admin_components_profile_employe_profile_employe_component__WEBPACK_IMPORTED_MODULE_6__["ProfileEmployeComponent"] },
-            { path: 'updateEmploye', component: _components_admin_components_update_employe_update_employe_component__WEBPACK_IMPORTED_MODULE_19__["UpdateEmployeComponent"] },
-            { path: 'updatePhoto', component: _components_admin_components_update_photo_update_photo_component__WEBPACK_IMPORTED_MODULE_24__["UpdatePhotoComponent"] },
-            { path: 'updateInfoEmploye', component: _components_employe_components_update_info_employe_update_info_employe_component__WEBPACK_IMPORTED_MODULE_20__["UpdateInfoEmployeComponent"] },
-            { path: 'updateMeeting', component: _components_admin_components_meetings_update_meeting_update_meeting_component__WEBPACK_IMPORTED_MODULE_21__["UpdateMeetingComponent"] },
-            { path: 'ajouteNote', component: _components_admin_components_notes_ajout_note_ajout_note_component__WEBPACK_IMPORTED_MODULE_23__["AjoutNoteComponent"] },
-            { path: 'updateNote', component: _components_admin_components_notes_update_note_update_note_component__WEBPACK_IMPORTED_MODULE_22__["UpdateNoteComponent"] },
-            { path: 'profilCandidat/:id', component: _components_admin_components_profil_candidat_profil_candidat_component__WEBPACK_IMPORTED_MODULE_16__["ProfilCandidatComponent"] },
-            { path: 'book-details/:id', component: _components_admin_components_notes_book_detail_book_detail_component__WEBPACK_IMPORTED_MODULE_32__["BookDetailComponent"] },
-            { path: 'book-create', component: _components_admin_components_notes_book_create_book_create_component__WEBPACK_IMPORTED_MODULE_33__["BookCreateComponent"] },
-            { path: 'book-edit/:id', component: _components_admin_components_notes_book_edit_book_edit_component__WEBPACK_IMPORTED_MODULE_34__["BookEditComponent"] },
-            { path: 'post-job', component: _components_admin_components_post_job_post_job_component__WEBPACK_IMPORTED_MODULE_35__["PostJobComponent"] },
-            { path: "jobspage", component: _components_employe_components_jobspage_jobspage_component__WEBPACK_IMPORTED_MODULE_36__["JobspageComponent"] },
-            { path: "myfavjob", component: _components_employe_components_myfavjob_myfavjob_component__WEBPACK_IMPORTED_MODULE_37__["MyfavjobComponent"] },
-            { path: "jobappform", component: _components_employe_components_jobapp_form_jobapp_form_component__WEBPACK_IMPORTED_MODULE_38__["JobappFormComponent"] },
-            { path: "jobappform-create", component: _components_employe_components_jobapp_form_jobapp_form_create_jobapp_form_create_component__WEBPACK_IMPORTED_MODULE_39__["JobappFormCreateComponent"] },
-            { path: "jobappform-review", component: _components_employe_components_jobapp_form_jobapp_form_review_jobapp_form_review_component__WEBPACK_IMPORTED_MODULE_40__["JobappFormReviewComponent"] },
-            { path: "cand-profile", component: _components_employe_components_cand_profile_cand_profile_component__WEBPACK_IMPORTED_MODULE_41__["CandProfileComponent"] },
-            { path: "applications", component: _components_employe_components_applications_applications_component__WEBPACK_IMPORTED_MODULE_42__["ApplicationsComponent"] },
-            { path: "cand-form", component: _components_employe_components_candidate_form_candidate_form_component__WEBPACK_IMPORTED_MODULE_43__["CandidateFormComponent"] },
-            { path: "view-posting", component: _components_admin_components_view_posting_view_posting_component__WEBPACK_IMPORTED_MODULE_44__["ViewPostingComponent"] },
-            { path: "view-applicants", component: _components_admin_components_view_applicants_view_applicants_component__WEBPACK_IMPORTED_MODULE_45__["ViewApplicantsComponent"] },
-            { path: "hr-profile", component: _components_admin_components_hr_profile_hr_profile_component__WEBPACK_IMPORTED_MODULE_46__["HrProfileComponent"] },
-            { path: "hr-form", component: _components_admin_components_hr_form_hr_form_component__WEBPACK_IMPORTED_MODULE_47__["HrFormComponent"] },
-            { path: "recruitment", component: _components_admin_components_recruitment_recruitment_component__WEBPACK_IMPORTED_MODULE_48__["RecruitmentComponent"] },
-            { path: 'info-employe/:id', component: _components_employe_components_info_employe_info_employe_component__WEBPACK_IMPORTED_MODULE_15__["InfoEmployeComponent"] },
-            { path: 'notesInternes', component: _components_admin_components_notes_notes_internes_notes_internes_component__WEBPACK_IMPORTED_MODULE_7__["NotesInternesComponent"] },
-            { path: 'recrutement', component: _components_admin_components_recrutements_recrutements_component__WEBPACK_IMPORTED_MODULE_8__["RecrutementsComponent"] },
-            { path: 'meetings', component: _components_admin_components_meetings_list_meeting_list_meeting_component__WEBPACK_IMPORTED_MODULE_9__["ListMeetingComponent"] },
+            { path: 'updateEmploye', component: _components_admin_components_update_employe_update_employe_component__WEBPACK_IMPORTED_MODULE_17__["UpdateEmployeComponent"] },
+            { path: 'updatePhoto', component: _components_admin_components_update_photo_update_photo_component__WEBPACK_IMPORTED_MODULE_19__["UpdatePhotoComponent"] },
+            { path: 'updateInfoEmploye', component: _components_employe_components_update_info_employe_update_info_employe_component__WEBPACK_IMPORTED_MODULE_18__["UpdateInfoEmployeComponent"] },
+            { path: 'profilCandidat/:id', component: _components_admin_components_profil_candidat_profil_candidat_component__WEBPACK_IMPORTED_MODULE_14__["ProfilCandidatComponent"] },
+            { path: 'post-job', component: _components_admin_components_post_job_post_job_component__WEBPACK_IMPORTED_MODULE_27__["PostJobComponent"] },
+            { path: "jobspage", component: _components_employe_components_jobspage_jobspage_component__WEBPACK_IMPORTED_MODULE_28__["JobspageComponent"] },
+            { path: "myfavjob", component: _components_employe_components_myfavjob_myfavjob_component__WEBPACK_IMPORTED_MODULE_29__["MyfavjobComponent"] },
+            { path: "jobappform", component: _components_employe_components_jobapp_form_jobapp_form_component__WEBPACK_IMPORTED_MODULE_30__["JobappFormComponent"] },
+            { path: "jobappform-create", component: _components_employe_components_jobapp_form_jobapp_form_create_jobapp_form_create_component__WEBPACK_IMPORTED_MODULE_31__["JobappFormCreateComponent"] },
+            { path: "jobappform-review", component: _components_employe_components_jobapp_form_jobapp_form_review_jobapp_form_review_component__WEBPACK_IMPORTED_MODULE_32__["JobappFormReviewComponent"] },
+            { path: "cand-profile", component: _components_employe_components_cand_profile_cand_profile_component__WEBPACK_IMPORTED_MODULE_33__["CandProfileComponent"] },
+            { path: "applications", component: _components_employe_components_applications_applications_component__WEBPACK_IMPORTED_MODULE_34__["ApplicationsComponent"] },
+            { path: "cand-form", component: _components_employe_components_candidate_form_candidate_form_component__WEBPACK_IMPORTED_MODULE_35__["CandidateFormComponent"] },
+            { path: "view-posting", component: _components_admin_components_view_posting_view_posting_component__WEBPACK_IMPORTED_MODULE_36__["ViewPostingComponent"] },
+            { path: "view-applicants", component: _components_admin_components_view_applicants_view_applicants_component__WEBPACK_IMPORTED_MODULE_37__["ViewApplicantsComponent"] },
+            { path: "hr-profile", component: _components_admin_components_hr_profile_hr_profile_component__WEBPACK_IMPORTED_MODULE_38__["HrProfileComponent"] },
+            { path: "hr-form", component: _components_admin_components_hr_form_hr_form_component__WEBPACK_IMPORTED_MODULE_39__["HrFormComponent"] },
+            { path: "recruitment", component: _components_admin_components_recruitment_recruitment_component__WEBPACK_IMPORTED_MODULE_40__["RecruitmentComponent"] },
+            { path: 'info-employe/:id', component: _components_employe_components_info_employe_info_employe_component__WEBPACK_IMPORTED_MODULE_13__["InfoEmployeComponent"] },
+            { path: 'recrutement', component: _components_admin_components_recrutements_recrutements_component__WEBPACK_IMPORTED_MODULE_7__["RecrutementsComponent"] },
         ] },
-    { path: 'footer', component: _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_14__["FooterComponent"] },
+    { path: 'footer', component: _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_12__["FooterComponent"] },
 ];
 let AppRoutingModule = class AppRoutingModule {
 };
@@ -4041,7 +3896,7 @@ let AppComponent = class AppComponent {
 AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-root',
-        template: __webpack_require__(/*! raw-loader!./app.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/app.component.html"),
+        template: __webpack_require__(/*! raw-loader!./app.component.html */ "./node_modules/raw-loader/index.js!./src/app/app.component.html"),
         styles: [__webpack_require__(/*! ./app.component.css */ "./src/app/app.component.css")]
     })
 ], AppComponent);
@@ -4088,109 +3943,83 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ngx_pagination__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ngx-pagination */ "./node_modules/ngx-pagination/dist/ngx-pagination.js");
 /* harmony import */ var _components_admin_components_list_employes_list_employes_component__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./components/admin-components/list-employes/list-employes.component */ "./src/app/components/admin-components/list-employes/list-employes.component.ts");
 /* harmony import */ var _angular_material_dialog__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! @angular/material/dialog */ "./node_modules/@angular/material/esm2015/dialog.js");
-/* harmony import */ var _services_todo_service__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./services/todo.service */ "./src/app/services/todo.service.ts");
-/* harmony import */ var _components_admin_components_profile_employe_profile_employe_component__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./components/admin-components/profile-employe/profile-employe.component */ "./src/app/components/admin-components/profile-employe/profile-employe.component.ts");
-/* harmony import */ var _components_admin_components_update_employe_update_employe_component__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./components/admin-components/update-employe/update-employe.component */ "./src/app/components/admin-components/update-employe/update-employe.component.ts");
-/* harmony import */ var _components_admin_components_recrutements_recrutements_component__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./components/admin-components/recrutements/recrutements.component */ "./src/app/components/admin-components/recrutements/recrutements.component.ts");
-/* harmony import */ var _components_admin_components_notes_notes_internes_notes_internes_component__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./components/admin-components/notes/notes-internes/notes-internes.component */ "./src/app/components/admin-components/notes/notes-internes/notes-internes.component.ts");
-/* harmony import */ var _services_email_service__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./services/email.service */ "./src/app/services/email.service.ts");
-/* harmony import */ var _angular_material__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! @angular/material */ "./node_modules/@angular/material/esm2015/material.js");
-/* harmony import */ var _angular_material_divider__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! @angular/material/divider */ "./node_modules/@angular/material/esm2015/divider.js");
-/* harmony import */ var _angular_material_card__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! @angular/material/card */ "./node_modules/@angular/material/esm2015/card.js");
-/* harmony import */ var _angular_material_form_field__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! @angular/material/form-field */ "./node_modules/@angular/material/esm2015/form-field.js");
-/* harmony import */ var _angular_material_button__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! @angular/material/button */ "./node_modules/@angular/material/esm2015/button.js");
-/* harmony import */ var _angular_material_table__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! @angular/material/table */ "./node_modules/@angular/material/esm2015/table.js");
-/* harmony import */ var _angular_material_select__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! @angular/material/select */ "./node_modules/@angular/material/esm2015/select.js");
-/* harmony import */ var _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! @angular/material/snack-bar */ "./node_modules/@angular/material/esm2015/snack-bar.js");
-/* harmony import */ var _angular_material_toolbar__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! @angular/material/toolbar */ "./node_modules/@angular/material/esm2015/toolbar.js");
-/* harmony import */ var _angular_material_sort__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! @angular/material/sort */ "./node_modules/@angular/material/esm2015/sort.js");
-/* harmony import */ var _angular_material_input__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! @angular/material/input */ "./node_modules/@angular/material/esm2015/input.js");
-/* harmony import */ var _angular_material_icon__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! @angular/material/icon */ "./node_modules/@angular/material/esm2015/icon.js");
-/* harmony import */ var _angular_material_list__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! @angular/material/list */ "./node_modules/@angular/material/esm2015/list.js");
-/* harmony import */ var _angular_material_menu__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! @angular/material/menu */ "./node_modules/@angular/material/esm2015/menu.js");
-/* harmony import */ var _angular_material_datepicker__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! @angular/material/datepicker */ "./node_modules/@angular/material/esm2015/datepicker.js");
-/* harmony import */ var _angular_material_expansion__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! @angular/material/expansion */ "./node_modules/@angular/material/esm2015/expansion.js");
-/* harmony import */ var _angular_material_tooltip__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! @angular/material/tooltip */ "./node_modules/@angular/material/esm2015/tooltip.js");
-/* harmony import */ var _angular_material_progress_spinner__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! @angular/material/progress-spinner */ "./node_modules/@angular/material/esm2015/progress-spinner.js");
-/* harmony import */ var _angular_material_autocomplete__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! @angular/material/autocomplete */ "./node_modules/@angular/material/esm2015/autocomplete.js");
-/* harmony import */ var _angular_material_stepper__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! @angular/material/stepper */ "./node_modules/@angular/material/esm2015/stepper.js");
-/* harmony import */ var _angular_material_radio__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! @angular/material/radio */ "./node_modules/@angular/material/esm2015/radio.js");
-/* harmony import */ var _angular_material_core__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! @angular/material/core */ "./node_modules/@angular/material/esm2015/core.js");
-/* harmony import */ var _components_admin_components_notes_ajout_note_ajout_note_component__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./components/admin-components/notes/ajout-note/ajout-note.component */ "./src/app/components/admin-components/notes/ajout-note/ajout-note.component.ts");
-/* harmony import */ var _syncfusion_ej2_angular_schedule__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! @syncfusion/ej2-angular-schedule */ "./node_modules/@syncfusion/ej2-angular-schedule/@syncfusion/ej2-angular-schedule.js");
-/* harmony import */ var _components_admin_components_meetings_meeting_meeting_component__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./components/admin-components/meetings/meeting/meeting.component */ "./src/app/components/admin-components/meetings/meeting/meeting.component.ts");
-/* harmony import */ var _components_admin_components_meetings_list_meeting_list_meeting_component__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./components/admin-components/meetings/list-meeting/list-meeting.component */ "./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.ts");
-/* harmony import */ var _components_login_login_component__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./components/login/login.component */ "./src/app/components/login/login.component.ts");
-/* harmony import */ var _components_register_register_component__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./components/register/register.component */ "./src/app/components/register/register.component.ts");
-/* harmony import */ var _helpers_auth_interceptor__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! ./_helpers/auth.interceptor */ "./src/app/_helpers/auth.interceptor.ts");
-/* harmony import */ var _components_home_home_component__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./components/home/home.component */ "./src/app/components/home/home.component.ts");
-/* harmony import */ var _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./components/footer/footer.component */ "./src/app/components/footer/footer.component.ts");
-/* harmony import */ var _components_employe_components_info_employe_info_employe_component__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! ./components/employe-components/info-employe/info-employe.component */ "./src/app/components/employe-components/info-employe/info-employe.component.ts");
-/* harmony import */ var _components_admin_components_profil_candidat_profil_candidat_component__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! ./components/admin-components/profil-candidat/profil-candidat.component */ "./src/app/components/admin-components/profil-candidat/profil-candidat.component.ts");
-/* harmony import */ var _syncfusion_ej2_angular_charts__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! @syncfusion/ej2-angular-charts */ "./node_modules/@syncfusion/ej2-angular-charts/@syncfusion/ej2-angular-charts.js");
-/* harmony import */ var _profil_profil_component__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! ./profil/profil.component */ "./src/app/profil/profil.component.ts");
-/* harmony import */ var _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! ./components/dashboard/dashboard.component */ "./src/app/components/dashboard/dashboard.component.ts");
-/* harmony import */ var highcharts_angular__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! highcharts-angular */ "./node_modules/highcharts-angular/fesm2015/highcharts-angular.js");
-/* harmony import */ var _angular_flex_layout__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! @angular/flex-layout */ "./node_modules/@angular/flex-layout/esm2015/flex-layout.js");
-/* harmony import */ var _public_layout_public_layout_component__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! ./public-layout/public-layout.component */ "./src/app/public-layout/public-layout.component.ts");
-/* harmony import */ var _shared_widgets_pie_pie_component__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! ./shared/widgets/pie/pie.component */ "./src/app/shared/widgets/pie/pie.component.ts");
-/* harmony import */ var _shared_widgets_line_line_component__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! ./shared/widgets/line/line.component */ "./src/app/shared/widgets/line/line.component.ts");
-/* harmony import */ var _shared_widgets_pie2_pie2_component__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! ./shared/widgets/pie2/pie2.component */ "./src/app/shared/widgets/pie2/pie2.component.ts");
-/* harmony import */ var _components_employe_components_update_info_employe_update_info_employe_component__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! ./components/employe-components/update-info-employe/update-info-employe.component */ "./src/app/components/employe-components/update-info-employe/update-info-employe.component.ts");
-/* harmony import */ var _components_admin_components_meetings_update_meeting_update_meeting_component__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! ./components/admin-components/meetings/update-meeting/update-meeting.component */ "./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.ts");
-/* harmony import */ var _components_admin_components_notes_update_note_update_note_component__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! ./components/admin-components/notes/update-note/update-note.component */ "./src/app/components/admin-components/notes/update-note/update-note.component.ts");
-/* harmony import */ var _components_admin_components_update_photo_update_photo_component__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! ./components/admin-components/update-photo/update-photo.component */ "./src/app/components/admin-components/update-photo/update-photo.component.ts");
-/* harmony import */ var _components_candidate_components_response_response_component__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! ./components/candidate-components/response/response.component */ "./src/app/components/candidate-components/response/response.component.ts");
-/* harmony import */ var _components_update_profil_update_profil_component__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(/*! ./components/update-profil/update-profil.component */ "./src/app/components/update-profil/update-profil.component.ts");
-/* harmony import */ var _tinymce_tinymce_angular__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(/*! @tinymce/tinymce-angular */ "./node_modules/@tinymce/tinymce-angular/fesm2015/tinymce-tinymce-angular.js");
-/* harmony import */ var _services_token_storage_service__WEBPACK_IMPORTED_MODULE_82__ = __webpack_require__(/*! ./services/token-storage.service */ "./src/app/services/token-storage.service.ts");
-/* harmony import */ var _services_auth_service__WEBPACK_IMPORTED_MODULE_83__ = __webpack_require__(/*! ./services/auth.service */ "./src/app/services/auth.service.ts");
-/* harmony import */ var _board_admin_board_admin_component__WEBPACK_IMPORTED_MODULE_84__ = __webpack_require__(/*! ./board-admin/board-admin.component */ "./src/app/board-admin/board-admin.component.ts");
-/* harmony import */ var _board_user_board_user_component__WEBPACK_IMPORTED_MODULE_85__ = __webpack_require__(/*! ./board-user/board-user.component */ "./src/app/board-user/board-user.component.ts");
-/* harmony import */ var _board_moderator_board_moderator_component__WEBPACK_IMPORTED_MODULE_86__ = __webpack_require__(/*! ./board-moderator/board-moderator.component */ "./src/app/board-moderator/board-moderator.component.ts");
-/* harmony import */ var _components_cards_cards_component__WEBPACK_IMPORTED_MODULE_87__ = __webpack_require__(/*! ./components/cards/cards.component */ "./src/app/components/cards/cards.component.ts");
-/* harmony import */ var _components_employe_components_candidature_candidature_component__WEBPACK_IMPORTED_MODULE_88__ = __webpack_require__(/*! ./components/employe-components/candidature/candidature.component */ "./src/app/components/employe-components/candidature/candidature.component.ts");
-/* harmony import */ var _components_employe_components_offres_actuelles_offres_actuelles_component__WEBPACK_IMPORTED_MODULE_89__ = __webpack_require__(/*! ./components/employe-components/offres-actuelles/offres-actuelles.component */ "./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.ts");
-/* harmony import */ var _components_admin_components_notes_book_book_component__WEBPACK_IMPORTED_MODULE_90__ = __webpack_require__(/*! ./components/admin-components/notes/book/book.component */ "./src/app/components/admin-components/notes/book/book.component.ts");
-/* harmony import */ var _services_book_service__WEBPACK_IMPORTED_MODULE_91__ = __webpack_require__(/*! ./services/book.service */ "./src/app/services/book.service.ts");
-/* harmony import */ var _components_admin_components_notes_book_detail_book_detail_component__WEBPACK_IMPORTED_MODULE_92__ = __webpack_require__(/*! ./components/admin-components/notes/book-detail/book-detail.component */ "./src/app/components/admin-components/notes/book-detail/book-detail.component.ts");
-/* harmony import */ var _components_admin_components_notes_book_create_book_create_component__WEBPACK_IMPORTED_MODULE_93__ = __webpack_require__(/*! ./components/admin-components/notes/book-create/book-create.component */ "./src/app/components/admin-components/notes/book-create/book-create.component.ts");
-/* harmony import */ var _components_admin_components_notes_book_edit_book_edit_component__WEBPACK_IMPORTED_MODULE_94__ = __webpack_require__(/*! ./components/admin-components/notes/book-edit/book-edit.component */ "./src/app/components/admin-components/notes/book-edit/book-edit.component.ts");
-/* harmony import */ var _components_admin_components_post_job_post_job_component__WEBPACK_IMPORTED_MODULE_95__ = __webpack_require__(/*! ./components/admin-components/post-job/post-job.component */ "./src/app/components/admin-components/post-job/post-job.component.ts");
-/* harmony import */ var _components_employe_components_jobspage_jobspage_component__WEBPACK_IMPORTED_MODULE_96__ = __webpack_require__(/*! ./components/employe-components/jobspage/jobspage.component */ "./src/app/components/employe-components/jobspage/jobspage.component.ts");
-/* harmony import */ var _components_employe_components_jobspage_jobspage_popup_jobspage_popup_component__WEBPACK_IMPORTED_MODULE_97__ = __webpack_require__(/*! ./components/employe-components/jobspage/jobspage-popup/jobspage-popup.component */ "./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.ts");
-/* harmony import */ var _components_employe_components_myfavjob_myfavjob_component__WEBPACK_IMPORTED_MODULE_98__ = __webpack_require__(/*! ./components/employe-components/myfavjob/myfavjob.component */ "./src/app/components/employe-components/myfavjob/myfavjob.component.ts");
-/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_component__WEBPACK_IMPORTED_MODULE_99__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form.component.ts");
-/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_create_jobapp_form_create_component__WEBPACK_IMPORTED_MODULE_100__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.ts");
-/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_review_jobapp_form_review_component__WEBPACK_IMPORTED_MODULE_101__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.ts");
-/* harmony import */ var _components_employe_components_applications_applications_component__WEBPACK_IMPORTED_MODULE_102__ = __webpack_require__(/*! ./components/employe-components/applications/applications.component */ "./src/app/components/employe-components/applications/applications.component.ts");
-/* harmony import */ var _components_employe_components_applications_applications_popup_applications_popup_component__WEBPACK_IMPORTED_MODULE_103__ = __webpack_require__(/*! ./components/employe-components/applications/applications-popup/applications-popup.component */ "./src/app/components/employe-components/applications/applications-popup/applications-popup.component.ts");
-/* harmony import */ var _components_employe_components_myfavjob_myfavjob_popup_myfavjob_popup_component__WEBPACK_IMPORTED_MODULE_104__ = __webpack_require__(/*! ./components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component */ "./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.ts");
-/* harmony import */ var _components_admin_components_view_posting_edit_popup_edit_popup_component__WEBPACK_IMPORTED_MODULE_105__ = __webpack_require__(/*! ./components/admin-components/view-posting/edit-popup/edit-popup.component */ "./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.ts");
-/* harmony import */ var _components_admin_components_hr_form_hrprofile_popup_hrprofile_popup_component__WEBPACK_IMPORTED_MODULE_106__ = __webpack_require__(/*! ./components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component */ "./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.ts");
-/* harmony import */ var _components_employe_components_candidate_form_can_form_popup_can_form_popup_component__WEBPACK_IMPORTED_MODULE_107__ = __webpack_require__(/*! ./components/employe-components/candidate-form/can-form-popup/can-form-popup.component */ "./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.ts");
-/* harmony import */ var _components_admin_components_hr_profile_hr_profile_component__WEBPACK_IMPORTED_MODULE_108__ = __webpack_require__(/*! ./components/admin-components/hr-profile/hr-profile.component */ "./src/app/components/admin-components/hr-profile/hr-profile.component.ts");
-/* harmony import */ var _components_employe_components_cand_profile_cand_profile_component__WEBPACK_IMPORTED_MODULE_109__ = __webpack_require__(/*! ./components/employe-components/cand-profile/cand-profile.component */ "./src/app/components/employe-components/cand-profile/cand-profile.component.ts");
-/* harmony import */ var _components_employe_components_candidate_form_candidate_form_component__WEBPACK_IMPORTED_MODULE_110__ = __webpack_require__(/*! ./components/employe-components/candidate-form/candidate-form.component */ "./src/app/components/employe-components/candidate-form/candidate-form.component.ts");
-/* harmony import */ var _components_admin_components_view_posting_view_posting_component__WEBPACK_IMPORTED_MODULE_111__ = __webpack_require__(/*! ./components/admin-components/view-posting/view-posting.component */ "./src/app/components/admin-components/view-posting/view-posting.component.ts");
-/* harmony import */ var _components_admin_components_view_applicants_view_applicants_component__WEBPACK_IMPORTED_MODULE_112__ = __webpack_require__(/*! ./components/admin-components/view-applicants/view-applicants.component */ "./src/app/components/admin-components/view-applicants/view-applicants.component.ts");
-/* harmony import */ var _components_admin_components_view_applicants_view_popup_view_popup_component__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(/*! ./components/admin-components/view-applicants/view-popup/view-popup.component */ "./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.ts");
-/* harmony import */ var _components_admin_components_hr_form_hr_form_component__WEBPACK_IMPORTED_MODULE_114__ = __webpack_require__(/*! ./components/admin-components/hr-form/hr-form.component */ "./src/app/components/admin-components/hr-form/hr-form.component.ts");
-/* harmony import */ var _components_admin_components_list_employes_update_popup_update_popup_component__WEBPACK_IMPORTED_MODULE_115__ = __webpack_require__(/*! ./components/admin-components/list-employes/update-popup/update-popup.component */ "./src/app/components/admin-components/list-employes/update-popup/update-popup.component.ts");
-/* harmony import */ var _components_admin_components_recruitment_recruitment_component__WEBPACK_IMPORTED_MODULE_116__ = __webpack_require__(/*! ./components/admin-components/recruitment/recruitment.component */ "./src/app/components/admin-components/recruitment/recruitment.component.ts");
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* harmony import */ var _components_admin_components_profile_employe_profile_employe_component__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./components/admin-components/profile-employe/profile-employe.component */ "./src/app/components/admin-components/profile-employe/profile-employe.component.ts");
+/* harmony import */ var _components_admin_components_update_employe_update_employe_component__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./components/admin-components/update-employe/update-employe.component */ "./src/app/components/admin-components/update-employe/update-employe.component.ts");
+/* harmony import */ var _components_admin_components_recrutements_recrutements_component__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./components/admin-components/recrutements/recrutements.component */ "./src/app/components/admin-components/recrutements/recrutements.component.ts");
+/* harmony import */ var _services_email_service__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./services/email.service */ "./src/app/services/email.service.ts");
+/* harmony import */ var _angular_material__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! @angular/material */ "./node_modules/@angular/material/esm2015/material.js");
+/* harmony import */ var _angular_material_divider__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! @angular/material/divider */ "./node_modules/@angular/material/esm2015/divider.js");
+/* harmony import */ var _angular_material_card__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! @angular/material/card */ "./node_modules/@angular/material/esm2015/card.js");
+/* harmony import */ var _angular_material_form_field__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! @angular/material/form-field */ "./node_modules/@angular/material/esm2015/form-field.js");
+/* harmony import */ var _angular_material_button__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! @angular/material/button */ "./node_modules/@angular/material/esm2015/button.js");
+/* harmony import */ var _angular_material_table__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! @angular/material/table */ "./node_modules/@angular/material/esm2015/table.js");
+/* harmony import */ var _angular_material_select__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! @angular/material/select */ "./node_modules/@angular/material/esm2015/select.js");
+/* harmony import */ var _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! @angular/material/snack-bar */ "./node_modules/@angular/material/esm2015/snack-bar.js");
+/* harmony import */ var _angular_material_toolbar__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! @angular/material/toolbar */ "./node_modules/@angular/material/esm2015/toolbar.js");
+/* harmony import */ var _angular_material_sort__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! @angular/material/sort */ "./node_modules/@angular/material/esm2015/sort.js");
+/* harmony import */ var _angular_material_input__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! @angular/material/input */ "./node_modules/@angular/material/esm2015/input.js");
+/* harmony import */ var _angular_material_icon__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! @angular/material/icon */ "./node_modules/@angular/material/esm2015/icon.js");
+/* harmony import */ var _angular_material_list__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! @angular/material/list */ "./node_modules/@angular/material/esm2015/list.js");
+/* harmony import */ var _angular_material_menu__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! @angular/material/menu */ "./node_modules/@angular/material/esm2015/menu.js");
+/* harmony import */ var _angular_material_datepicker__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! @angular/material/datepicker */ "./node_modules/@angular/material/esm2015/datepicker.js");
+/* harmony import */ var _angular_material_expansion__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! @angular/material/expansion */ "./node_modules/@angular/material/esm2015/expansion.js");
+/* harmony import */ var _angular_material_tooltip__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! @angular/material/tooltip */ "./node_modules/@angular/material/esm2015/tooltip.js");
+/* harmony import */ var _angular_material_progress_spinner__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! @angular/material/progress-spinner */ "./node_modules/@angular/material/esm2015/progress-spinner.js");
+/* harmony import */ var _angular_material_autocomplete__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! @angular/material/autocomplete */ "./node_modules/@angular/material/esm2015/autocomplete.js");
+/* harmony import */ var _angular_material_stepper__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! @angular/material/stepper */ "./node_modules/@angular/material/esm2015/stepper.js");
+/* harmony import */ var _angular_material_radio__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! @angular/material/radio */ "./node_modules/@angular/material/esm2015/radio.js");
+/* harmony import */ var _angular_material_core__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! @angular/material/core */ "./node_modules/@angular/material/esm2015/core.js");
+/* harmony import */ var _syncfusion_ej2_angular_schedule__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! @syncfusion/ej2-angular-schedule */ "./node_modules/@syncfusion/ej2-angular-schedule/@syncfusion/ej2-angular-schedule.js");
+/* harmony import */ var _components_login_login_component__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./components/login/login.component */ "./src/app/components/login/login.component.ts");
+/* harmony import */ var _components_register_register_component__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./components/register/register.component */ "./src/app/components/register/register.component.ts");
+/* harmony import */ var _helpers_auth_interceptor__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./_helpers/auth.interceptor */ "./src/app/_helpers/auth.interceptor.ts");
+/* harmony import */ var _components_home_home_component__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./components/home/home.component */ "./src/app/components/home/home.component.ts");
+/* harmony import */ var _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./components/footer/footer.component */ "./src/app/components/footer/footer.component.ts");
+/* harmony import */ var _components_employe_components_info_employe_info_employe_component__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./components/employe-components/info-employe/info-employe.component */ "./src/app/components/employe-components/info-employe/info-employe.component.ts");
+/* harmony import */ var _components_admin_components_profil_candidat_profil_candidat_component__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./components/admin-components/profil-candidat/profil-candidat.component */ "./src/app/components/admin-components/profil-candidat/profil-candidat.component.ts");
+/* harmony import */ var _syncfusion_ej2_angular_charts__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! @syncfusion/ej2-angular-charts */ "./node_modules/@syncfusion/ej2-angular-charts/@syncfusion/ej2-angular-charts.js");
+/* harmony import */ var _profil_profil_component__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./profil/profil.component */ "./src/app/profil/profil.component.ts");
+/* harmony import */ var _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./components/dashboard/dashboard.component */ "./src/app/components/dashboard/dashboard.component.ts");
+/* harmony import */ var highcharts_angular__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! highcharts-angular */ "./node_modules/highcharts-angular/fesm2015/highcharts-angular.js");
+/* harmony import */ var _angular_flex_layout__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! @angular/flex-layout */ "./node_modules/@angular/flex-layout/esm2015/flex-layout.js");
+/* harmony import */ var _public_layout_public_layout_component__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! ./public-layout/public-layout.component */ "./src/app/public-layout/public-layout.component.ts");
+/* harmony import */ var _shared_widgets_pie_pie_component__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! ./shared/widgets/pie/pie.component */ "./src/app/shared/widgets/pie/pie.component.ts");
+/* harmony import */ var _shared_widgets_line_line_component__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! ./shared/widgets/line/line.component */ "./src/app/shared/widgets/line/line.component.ts");
+/* harmony import */ var _shared_widgets_pie2_pie2_component__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! ./shared/widgets/pie2/pie2.component */ "./src/app/shared/widgets/pie2/pie2.component.ts");
+/* harmony import */ var _components_employe_components_update_info_employe_update_info_employe_component__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! ./components/employe-components/update-info-employe/update-info-employe.component */ "./src/app/components/employe-components/update-info-employe/update-info-employe.component.ts");
+/* harmony import */ var _components_admin_components_update_photo_update_photo_component__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! ./components/admin-components/update-photo/update-photo.component */ "./src/app/components/admin-components/update-photo/update-photo.component.ts");
+/* harmony import */ var _components_candidate_components_response_response_component__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! ./components/candidate-components/response/response.component */ "./src/app/components/candidate-components/response/response.component.ts");
+/* harmony import */ var _components_update_profil_update_profil_component__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! ./components/update-profil/update-profil.component */ "./src/app/components/update-profil/update-profil.component.ts");
+/* harmony import */ var _tinymce_tinymce_angular__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! @tinymce/tinymce-angular */ "./node_modules/@tinymce/tinymce-angular/fesm2015/tinymce-tinymce-angular.js");
+/* harmony import */ var _services_token_storage_service__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! ./services/token-storage.service */ "./src/app/services/token-storage.service.ts");
+/* harmony import */ var _services_auth_service__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! ./services/auth.service */ "./src/app/services/auth.service.ts");
+/* harmony import */ var _board_admin_board_admin_component__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! ./board-admin/board-admin.component */ "./src/app/board-admin/board-admin.component.ts");
+/* harmony import */ var _board_user_board_user_component__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! ./board-user/board-user.component */ "./src/app/board-user/board-user.component.ts");
+/* harmony import */ var _board_moderator_board_moderator_component__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! ./board-moderator/board-moderator.component */ "./src/app/board-moderator/board-moderator.component.ts");
+/* harmony import */ var _components_employe_components_candidature_candidature_component__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(/*! ./components/employe-components/candidature/candidature.component */ "./src/app/components/employe-components/candidature/candidature.component.ts");
+/* harmony import */ var _components_employe_components_offres_actuelles_offres_actuelles_component__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(/*! ./components/employe-components/offres-actuelles/offres-actuelles.component */ "./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.ts");
+/* harmony import */ var _components_admin_components_post_job_post_job_component__WEBPACK_IMPORTED_MODULE_82__ = __webpack_require__(/*! ./components/admin-components/post-job/post-job.component */ "./src/app/components/admin-components/post-job/post-job.component.ts");
+/* harmony import */ var _components_employe_components_jobspage_jobspage_component__WEBPACK_IMPORTED_MODULE_83__ = __webpack_require__(/*! ./components/employe-components/jobspage/jobspage.component */ "./src/app/components/employe-components/jobspage/jobspage.component.ts");
+/* harmony import */ var _components_employe_components_jobspage_jobspage_popup_jobspage_popup_component__WEBPACK_IMPORTED_MODULE_84__ = __webpack_require__(/*! ./components/employe-components/jobspage/jobspage-popup/jobspage-popup.component */ "./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.ts");
+/* harmony import */ var _components_employe_components_myfavjob_myfavjob_component__WEBPACK_IMPORTED_MODULE_85__ = __webpack_require__(/*! ./components/employe-components/myfavjob/myfavjob.component */ "./src/app/components/employe-components/myfavjob/myfavjob.component.ts");
+/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_component__WEBPACK_IMPORTED_MODULE_86__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form.component.ts");
+/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_create_jobapp_form_create_component__WEBPACK_IMPORTED_MODULE_87__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.ts");
+/* harmony import */ var _components_employe_components_jobapp_form_jobapp_form_review_jobapp_form_review_component__WEBPACK_IMPORTED_MODULE_88__ = __webpack_require__(/*! ./components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component */ "./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.ts");
+/* harmony import */ var _components_employe_components_applications_applications_component__WEBPACK_IMPORTED_MODULE_89__ = __webpack_require__(/*! ./components/employe-components/applications/applications.component */ "./src/app/components/employe-components/applications/applications.component.ts");
+/* harmony import */ var _components_employe_components_applications_applications_popup_applications_popup_component__WEBPACK_IMPORTED_MODULE_90__ = __webpack_require__(/*! ./components/employe-components/applications/applications-popup/applications-popup.component */ "./src/app/components/employe-components/applications/applications-popup/applications-popup.component.ts");
+/* harmony import */ var _components_employe_components_myfavjob_myfavjob_popup_myfavjob_popup_component__WEBPACK_IMPORTED_MODULE_91__ = __webpack_require__(/*! ./components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component */ "./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.ts");
+/* harmony import */ var _components_admin_components_view_posting_edit_popup_edit_popup_component__WEBPACK_IMPORTED_MODULE_92__ = __webpack_require__(/*! ./components/admin-components/view-posting/edit-popup/edit-popup.component */ "./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.ts");
+/* harmony import */ var _components_admin_components_hr_form_hrprofile_popup_hrprofile_popup_component__WEBPACK_IMPORTED_MODULE_93__ = __webpack_require__(/*! ./components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component */ "./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.ts");
+/* harmony import */ var _components_employe_components_candidate_form_can_form_popup_can_form_popup_component__WEBPACK_IMPORTED_MODULE_94__ = __webpack_require__(/*! ./components/employe-components/candidate-form/can-form-popup/can-form-popup.component */ "./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.ts");
+/* harmony import */ var _components_admin_components_hr_profile_hr_profile_component__WEBPACK_IMPORTED_MODULE_95__ = __webpack_require__(/*! ./components/admin-components/hr-profile/hr-profile.component */ "./src/app/components/admin-components/hr-profile/hr-profile.component.ts");
+/* harmony import */ var _components_employe_components_cand_profile_cand_profile_component__WEBPACK_IMPORTED_MODULE_96__ = __webpack_require__(/*! ./components/employe-components/cand-profile/cand-profile.component */ "./src/app/components/employe-components/cand-profile/cand-profile.component.ts");
+/* harmony import */ var _components_employe_components_candidate_form_candidate_form_component__WEBPACK_IMPORTED_MODULE_97__ = __webpack_require__(/*! ./components/employe-components/candidate-form/candidate-form.component */ "./src/app/components/employe-components/candidate-form/candidate-form.component.ts");
+/* harmony import */ var _components_admin_components_view_posting_view_posting_component__WEBPACK_IMPORTED_MODULE_98__ = __webpack_require__(/*! ./components/admin-components/view-posting/view-posting.component */ "./src/app/components/admin-components/view-posting/view-posting.component.ts");
+/* harmony import */ var _components_admin_components_view_applicants_view_applicants_component__WEBPACK_IMPORTED_MODULE_99__ = __webpack_require__(/*! ./components/admin-components/view-applicants/view-applicants.component */ "./src/app/components/admin-components/view-applicants/view-applicants.component.ts");
+/* harmony import */ var _components_admin_components_view_applicants_view_popup_view_popup_component__WEBPACK_IMPORTED_MODULE_100__ = __webpack_require__(/*! ./components/admin-components/view-applicants/view-popup/view-popup.component */ "./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.ts");
+/* harmony import */ var _components_admin_components_hr_form_hr_form_component__WEBPACK_IMPORTED_MODULE_101__ = __webpack_require__(/*! ./components/admin-components/hr-form/hr-form.component */ "./src/app/components/admin-components/hr-form/hr-form.component.ts");
+/* harmony import */ var _components_admin_components_list_employes_update_popup_update_popup_component__WEBPACK_IMPORTED_MODULE_102__ = __webpack_require__(/*! ./components/admin-components/list-employes/update-popup/update-popup.component */ "./src/app/components/admin-components/list-employes/update-popup/update-popup.component.ts");
+/* harmony import */ var _components_admin_components_recruitment_recruitment_component__WEBPACK_IMPORTED_MODULE_103__ = __webpack_require__(/*! ./components/admin-components/recruitment/recruitment.component */ "./src/app/components/admin-components/recruitment/recruitment.component.ts");
 
 
 
@@ -4302,80 +4131,69 @@ let AppModule = class AppModule {
 AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_6__["NgModule"])({
         declarations: [
-            _board_admin_board_admin_component__WEBPACK_IMPORTED_MODULE_84__["BoardAdminComponent"],
-            _board_user_board_user_component__WEBPACK_IMPORTED_MODULE_85__["BoardUserComponent"],
-            _board_moderator_board_moderator_component__WEBPACK_IMPORTED_MODULE_86__["BoardModeratorComponent"],
+            _board_admin_board_admin_component__WEBPACK_IMPORTED_MODULE_77__["BoardAdminComponent"],
+            _board_user_board_user_component__WEBPACK_IMPORTED_MODULE_78__["BoardUserComponent"],
+            _board_moderator_board_moderator_component__WEBPACK_IMPORTED_MODULE_79__["BoardModeratorComponent"],
             _app_component__WEBPACK_IMPORTED_MODULE_9__["AppComponent"],
             _navbar_navbar_component__WEBPACK_IMPORTED_MODULE_10__["NavbarComponent"],
             _components_sidebar_sidebar_component__WEBPACK_IMPORTED_MODULE_11__["SidebarComponent"],
             _components_admin_components_add_employe_add_employe_component__WEBPACK_IMPORTED_MODULE_12__["AddEmployeComponent"],
             _components_candidate_components_info_candidate_info_candidate_component__WEBPACK_IMPORTED_MODULE_15__["InfoCandidateComponent"],
-            _components_admin_components_notes_book_book_component__WEBPACK_IMPORTED_MODULE_90__["BookComponent"],
-            _components_admin_components_notes_book_detail_book_detail_component__WEBPACK_IMPORTED_MODULE_92__["BookDetailComponent"],
-            _components_admin_components_notes_book_create_book_create_component__WEBPACK_IMPORTED_MODULE_93__["BookCreateComponent"],
-            _components_admin_components_notes_book_edit_book_edit_component__WEBPACK_IMPORTED_MODULE_94__["BookEditComponent"],
-            _components_admin_components_post_job_post_job_component__WEBPACK_IMPORTED_MODULE_95__["PostJobComponent"],
-            _components_employe_components_jobspage_jobspage_component__WEBPACK_IMPORTED_MODULE_96__["JobspageComponent"],
-            _components_employe_components_myfavjob_myfavjob_component__WEBPACK_IMPORTED_MODULE_98__["MyfavjobComponent"],
-            _components_employe_components_jobapp_form_jobapp_form_component__WEBPACK_IMPORTED_MODULE_99__["JobappFormComponent"],
-            _components_employe_components_jobapp_form_jobapp_form_create_jobapp_form_create_component__WEBPACK_IMPORTED_MODULE_100__["JobappFormCreateComponent"],
-            _components_employe_components_jobapp_form_jobapp_form_review_jobapp_form_review_component__WEBPACK_IMPORTED_MODULE_101__["JobappFormReviewComponent"],
-            _components_employe_components_cand_profile_cand_profile_component__WEBPACK_IMPORTED_MODULE_109__["CandProfileComponent"],
-            _components_employe_components_candidate_form_candidate_form_component__WEBPACK_IMPORTED_MODULE_110__["CandidateFormComponent"],
-            _components_admin_components_view_posting_view_posting_component__WEBPACK_IMPORTED_MODULE_111__["ViewPostingComponent"],
+            _components_admin_components_post_job_post_job_component__WEBPACK_IMPORTED_MODULE_82__["PostJobComponent"],
+            _components_employe_components_jobspage_jobspage_component__WEBPACK_IMPORTED_MODULE_83__["JobspageComponent"],
+            _components_employe_components_myfavjob_myfavjob_component__WEBPACK_IMPORTED_MODULE_85__["MyfavjobComponent"],
+            _components_employe_components_jobapp_form_jobapp_form_component__WEBPACK_IMPORTED_MODULE_86__["JobappFormComponent"],
+            _components_employe_components_jobapp_form_jobapp_form_create_jobapp_form_create_component__WEBPACK_IMPORTED_MODULE_87__["JobappFormCreateComponent"],
+            _components_employe_components_jobapp_form_jobapp_form_review_jobapp_form_review_component__WEBPACK_IMPORTED_MODULE_88__["JobappFormReviewComponent"],
+            _components_employe_components_cand_profile_cand_profile_component__WEBPACK_IMPORTED_MODULE_96__["CandProfileComponent"],
+            _components_employe_components_candidate_form_candidate_form_component__WEBPACK_IMPORTED_MODULE_97__["CandidateFormComponent"],
+            _components_admin_components_view_posting_view_posting_component__WEBPACK_IMPORTED_MODULE_98__["ViewPostingComponent"],
             //EditPopupComponent,
-            _components_admin_components_view_applicants_view_applicants_component__WEBPACK_IMPORTED_MODULE_112__["ViewApplicantsComponent"],
-            _components_admin_components_hr_profile_hr_profile_component__WEBPACK_IMPORTED_MODULE_108__["HrProfileComponent"],
-            _components_admin_components_hr_form_hr_form_component__WEBPACK_IMPORTED_MODULE_114__["HrFormComponent"],
+            _components_admin_components_view_applicants_view_applicants_component__WEBPACK_IMPORTED_MODULE_99__["ViewApplicantsComponent"],
+            _components_admin_components_hr_profile_hr_profile_component__WEBPACK_IMPORTED_MODULE_95__["HrProfileComponent"],
+            _components_admin_components_hr_form_hr_form_component__WEBPACK_IMPORTED_MODULE_101__["HrFormComponent"],
             _components_admin_components_list_employes_list_employes_component__WEBPACK_IMPORTED_MODULE_25__["ListEmployesComponent"],
-            _components_admin_components_profile_employe_profile_employe_component__WEBPACK_IMPORTED_MODULE_28__["ProfileEmployeComponent"],
-            _components_admin_components_update_employe_update_employe_component__WEBPACK_IMPORTED_MODULE_29__["UpdateEmployeComponent"],
-            _components_admin_components_recrutements_recrutements_component__WEBPACK_IMPORTED_MODULE_30__["RecrutementsComponent"],
-            _components_admin_components_notes_notes_internes_notes_internes_component__WEBPACK_IMPORTED_MODULE_31__["NotesInternesComponent"],
-            _components_admin_components_notes_ajout_note_ajout_note_component__WEBPACK_IMPORTED_MODULE_55__["AjoutNoteComponent"],
-            _components_admin_components_meetings_meeting_meeting_component__WEBPACK_IMPORTED_MODULE_57__["MeetingComponent"],
-            _components_admin_components_meetings_list_meeting_list_meeting_component__WEBPACK_IMPORTED_MODULE_58__["ListMeetingComponent"],
-            _components_login_login_component__WEBPACK_IMPORTED_MODULE_59__["LoginComponent"],
-            _components_register_register_component__WEBPACK_IMPORTED_MODULE_60__["RegisterComponent"],
-            _components_home_home_component__WEBPACK_IMPORTED_MODULE_62__["HomeComponent"],
-            _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_63__["FooterComponent"],
-            _components_employe_components_info_employe_info_employe_component__WEBPACK_IMPORTED_MODULE_64__["InfoEmployeComponent"],
-            _components_admin_components_profil_candidat_profil_candidat_component__WEBPACK_IMPORTED_MODULE_65__["ProfilCandidatComponent"],
-            _profil_profil_component__WEBPACK_IMPORTED_MODULE_67__["ProfilComponent"],
-            _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_68__["DashboardComponent"],
-            _public_layout_public_layout_component__WEBPACK_IMPORTED_MODULE_71__["PublicLayoutComponent"],
-            _shared_widgets_pie_pie_component__WEBPACK_IMPORTED_MODULE_72__["PieComponent"],
-            _shared_widgets_line_line_component__WEBPACK_IMPORTED_MODULE_73__["LineComponent"],
-            _shared_widgets_pie2_pie2_component__WEBPACK_IMPORTED_MODULE_74__["Pie2Component"],
-            _components_employe_components_update_info_employe_update_info_employe_component__WEBPACK_IMPORTED_MODULE_75__["UpdateInfoEmployeComponent"],
-            _components_admin_components_meetings_update_meeting_update_meeting_component__WEBPACK_IMPORTED_MODULE_76__["UpdateMeetingComponent"],
-            _components_admin_components_notes_update_note_update_note_component__WEBPACK_IMPORTED_MODULE_77__["UpdateNoteComponent"],
-            _components_admin_components_update_photo_update_photo_component__WEBPACK_IMPORTED_MODULE_78__["UpdatePhotoComponent"],
-            _components_candidate_components_response_response_component__WEBPACK_IMPORTED_MODULE_79__["ResponseComponent"],
-            _components_update_profil_update_profil_component__WEBPACK_IMPORTED_MODULE_80__["UpdateProfilComponent"],
-            _components_cards_cards_component__WEBPACK_IMPORTED_MODULE_87__["CardsComponent"],
-            _components_employe_components_candidature_candidature_component__WEBPACK_IMPORTED_MODULE_88__["CandidatureComponent"],
-            _components_employe_components_offres_actuelles_offres_actuelles_component__WEBPACK_IMPORTED_MODULE_89__["OffresActuellesComponent"],
-            _components_employe_components_jobspage_jobspage_popup_jobspage_popup_component__WEBPACK_IMPORTED_MODULE_97__["JobspagePopupComponent"],
-            _components_employe_components_applications_applications_popup_applications_popup_component__WEBPACK_IMPORTED_MODULE_103__["ApplicationsPopupComponent"],
-            _components_employe_components_applications_applications_component__WEBPACK_IMPORTED_MODULE_102__["ApplicationsComponent"],
-            _components_employe_components_myfavjob_myfavjob_popup_myfavjob_popup_component__WEBPACK_IMPORTED_MODULE_104__["MyfavjobPopupComponent"],
-            _components_admin_components_view_posting_edit_popup_edit_popup_component__WEBPACK_IMPORTED_MODULE_105__["EditPopupComponent"],
-            _components_admin_components_hr_form_hrprofile_popup_hrprofile_popup_component__WEBPACK_IMPORTED_MODULE_106__["HrprofilePopupComponent"],
-            _components_employe_components_candidate_form_can_form_popup_can_form_popup_component__WEBPACK_IMPORTED_MODULE_107__["CanFormPopupComponent"],
-            _components_admin_components_view_applicants_view_popup_view_popup_component__WEBPACK_IMPORTED_MODULE_113__["ViewPopupComponent"],
-            _components_admin_components_list_employes_update_popup_update_popup_component__WEBPACK_IMPORTED_MODULE_115__["UpdatePopupComponent"],
-            _components_admin_components_recruitment_recruitment_component__WEBPACK_IMPORTED_MODULE_116__["RecruitmentComponent"],
+            _components_admin_components_profile_employe_profile_employe_component__WEBPACK_IMPORTED_MODULE_27__["ProfileEmployeComponent"],
+            _components_admin_components_update_employe_update_employe_component__WEBPACK_IMPORTED_MODULE_28__["UpdateEmployeComponent"],
+            _components_admin_components_recrutements_recrutements_component__WEBPACK_IMPORTED_MODULE_29__["RecrutementsComponent"],
+            _components_login_login_component__WEBPACK_IMPORTED_MODULE_54__["LoginComponent"],
+            _components_register_register_component__WEBPACK_IMPORTED_MODULE_55__["RegisterComponent"],
+            _components_home_home_component__WEBPACK_IMPORTED_MODULE_57__["HomeComponent"],
+            _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_58__["FooterComponent"],
+            _components_employe_components_info_employe_info_employe_component__WEBPACK_IMPORTED_MODULE_59__["InfoEmployeComponent"],
+            _components_admin_components_profil_candidat_profil_candidat_component__WEBPACK_IMPORTED_MODULE_60__["ProfilCandidatComponent"],
+            _profil_profil_component__WEBPACK_IMPORTED_MODULE_62__["ProfilComponent"],
+            _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_63__["DashboardComponent"],
+            _public_layout_public_layout_component__WEBPACK_IMPORTED_MODULE_66__["PublicLayoutComponent"],
+            _shared_widgets_pie_pie_component__WEBPACK_IMPORTED_MODULE_67__["PieComponent"],
+            _shared_widgets_line_line_component__WEBPACK_IMPORTED_MODULE_68__["LineComponent"],
+            _shared_widgets_pie2_pie2_component__WEBPACK_IMPORTED_MODULE_69__["Pie2Component"],
+            _components_employe_components_update_info_employe_update_info_employe_component__WEBPACK_IMPORTED_MODULE_70__["UpdateInfoEmployeComponent"],
+            _components_admin_components_update_photo_update_photo_component__WEBPACK_IMPORTED_MODULE_71__["UpdatePhotoComponent"],
+            _components_candidate_components_response_response_component__WEBPACK_IMPORTED_MODULE_72__["ResponseComponent"],
+            _components_update_profil_update_profil_component__WEBPACK_IMPORTED_MODULE_73__["UpdateProfilComponent"],
+            _components_employe_components_candidature_candidature_component__WEBPACK_IMPORTED_MODULE_80__["CandidatureComponent"],
+            _components_employe_components_offres_actuelles_offres_actuelles_component__WEBPACK_IMPORTED_MODULE_81__["OffresActuellesComponent"],
+            _components_employe_components_jobspage_jobspage_popup_jobspage_popup_component__WEBPACK_IMPORTED_MODULE_84__["JobspagePopupComponent"],
+            _components_employe_components_applications_applications_popup_applications_popup_component__WEBPACK_IMPORTED_MODULE_90__["ApplicationsPopupComponent"],
+            _components_employe_components_applications_applications_component__WEBPACK_IMPORTED_MODULE_89__["ApplicationsComponent"],
+            _components_employe_components_myfavjob_myfavjob_popup_myfavjob_popup_component__WEBPACK_IMPORTED_MODULE_91__["MyfavjobPopupComponent"],
+            _components_admin_components_view_posting_edit_popup_edit_popup_component__WEBPACK_IMPORTED_MODULE_92__["EditPopupComponent"],
+            _components_admin_components_hr_form_hrprofile_popup_hrprofile_popup_component__WEBPACK_IMPORTED_MODULE_93__["HrprofilePopupComponent"],
+            _components_employe_components_candidate_form_can_form_popup_can_form_popup_component__WEBPACK_IMPORTED_MODULE_94__["CanFormPopupComponent"],
+            _components_admin_components_view_applicants_view_popup_view_popup_component__WEBPACK_IMPORTED_MODULE_100__["ViewPopupComponent"],
+            _components_admin_components_list_employes_update_popup_update_popup_component__WEBPACK_IMPORTED_MODULE_102__["UpdatePopupComponent"],
+            _components_admin_components_recruitment_recruitment_component__WEBPACK_IMPORTED_MODULE_103__["RecruitmentComponent"],
         ],
         imports: [
             ngx_toastr__WEBPACK_IMPORTED_MODULE_5__["ToastrModule"].forRoot(),
-            _angular_material_core__WEBPACK_IMPORTED_MODULE_54__["MatNativeDateModule"],
-            _angular_material_core__WEBPACK_IMPORTED_MODULE_54__["MatRippleModule"],
-            _angular_material_radio__WEBPACK_IMPORTED_MODULE_53__["MatRadioModule"],
-            _angular_material_stepper__WEBPACK_IMPORTED_MODULE_52__["MatStepperModule"],
-            _angular_material_autocomplete__WEBPACK_IMPORTED_MODULE_51__["MatAutocompleteModule"],
+            _angular_material_core__WEBPACK_IMPORTED_MODULE_52__["MatNativeDateModule"],
+            _angular_material_core__WEBPACK_IMPORTED_MODULE_52__["MatRippleModule"],
+            _angular_material_radio__WEBPACK_IMPORTED_MODULE_51__["MatRadioModule"],
+            _angular_material_stepper__WEBPACK_IMPORTED_MODULE_50__["MatStepperModule"],
+            _angular_material_autocomplete__WEBPACK_IMPORTED_MODULE_49__["MatAutocompleteModule"],
             _angular_material_dialog__WEBPACK_IMPORTED_MODULE_26__["MatDialogModule"],
-            _syncfusion_ej2_angular_schedule__WEBPACK_IMPORTED_MODULE_56__["ScheduleModule"],
+            _syncfusion_ej2_angular_schedule__WEBPACK_IMPORTED_MODULE_53__["ScheduleModule"],
             _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
             _app_routing_module__WEBPACK_IMPORTED_MODULE_8__["AppRoutingModule"],
             _angular_common_http__WEBPACK_IMPORTED_MODULE_3__["HttpClientModule"],
@@ -4391,78 +4209,78 @@ AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
                 provide: angular_calendar__WEBPACK_IMPORTED_MODULE_17__["DateAdapter"],
                 useFactory: angular_calendar_date_adapters_date_fns__WEBPACK_IMPORTED_MODULE_18__["adapterFactory"]
             }),
-            _angular_material_button__WEBPACK_IMPORTED_MODULE_37__["MatButtonModule"],
-            _angular_material_icon__WEBPACK_IMPORTED_MODULE_44__["MatIconModule"],
-            _angular_material_toolbar__WEBPACK_IMPORTED_MODULE_41__["MatToolbarModule"],
-            _angular_material_button__WEBPACK_IMPORTED_MODULE_37__["MatButtonModule"],
-            _angular_material_icon__WEBPACK_IMPORTED_MODULE_44__["MatIconModule"],
-            _angular_material__WEBPACK_IMPORTED_MODULE_33__["MatCheckboxModule"],
+            _angular_material_button__WEBPACK_IMPORTED_MODULE_35__["MatButtonModule"],
+            _angular_material_icon__WEBPACK_IMPORTED_MODULE_42__["MatIconModule"],
+            _angular_material_toolbar__WEBPACK_IMPORTED_MODULE_39__["MatToolbarModule"],
+            _angular_material_button__WEBPACK_IMPORTED_MODULE_35__["MatButtonModule"],
+            _angular_material_icon__WEBPACK_IMPORTED_MODULE_42__["MatIconModule"],
+            _angular_material__WEBPACK_IMPORTED_MODULE_31__["MatCheckboxModule"],
             _angular_material_dialog__WEBPACK_IMPORTED_MODULE_26__["MatDialogModule"],
-            _angular_material_expansion__WEBPACK_IMPORTED_MODULE_48__["MatExpansionModule"],
-            _angular_material_input__WEBPACK_IMPORTED_MODULE_43__["MatInputModule"],
+            _angular_material_expansion__WEBPACK_IMPORTED_MODULE_46__["MatExpansionModule"],
+            _angular_material_input__WEBPACK_IMPORTED_MODULE_41__["MatInputModule"],
             _fullcalendar_angular__WEBPACK_IMPORTED_MODULE_2__["FullCalendarModule"],
-            _syncfusion_ej2_angular_charts__WEBPACK_IMPORTED_MODULE_66__["AccumulationChartModule"],
-            highcharts_angular__WEBPACK_IMPORTED_MODULE_69__["HighchartsChartModule"],
-            _angular_material_card__WEBPACK_IMPORTED_MODULE_35__["MatCardModule"],
-            _angular_material_divider__WEBPACK_IMPORTED_MODULE_34__["MatDividerModule"],
-            _angular_flex_layout__WEBPACK_IMPORTED_MODULE_70__["FlexLayoutModule"],
-            _angular_material_card__WEBPACK_IMPORTED_MODULE_35__["MatCardModule"],
+            _syncfusion_ej2_angular_charts__WEBPACK_IMPORTED_MODULE_61__["AccumulationChartModule"],
+            highcharts_angular__WEBPACK_IMPORTED_MODULE_64__["HighchartsChartModule"],
+            _angular_material_card__WEBPACK_IMPORTED_MODULE_33__["MatCardModule"],
+            _angular_material_divider__WEBPACK_IMPORTED_MODULE_32__["MatDividerModule"],
+            _angular_flex_layout__WEBPACK_IMPORTED_MODULE_65__["FlexLayoutModule"],
+            _angular_material_card__WEBPACK_IMPORTED_MODULE_33__["MatCardModule"],
             ng2_search_filter__WEBPACK_IMPORTED_MODULE_23__["Ng2SearchPipeModule"],
             ngx_pagination__WEBPACK_IMPORTED_MODULE_24__["NgxPaginationModule"],
-            _tinymce_tinymce_angular__WEBPACK_IMPORTED_MODULE_81__["EditorModule"],
-            _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_40__["MatSnackBarModule"],
-            _angular_material_divider__WEBPACK_IMPORTED_MODULE_34__["MatDividerModule"],
-            _angular_material_card__WEBPACK_IMPORTED_MODULE_35__["MatCardModule"],
-            _angular_material_form_field__WEBPACK_IMPORTED_MODULE_36__["MatFormFieldModule"],
-            _angular_material_button__WEBPACK_IMPORTED_MODULE_37__["MatButtonModule"],
-            _angular_material_table__WEBPACK_IMPORTED_MODULE_38__["MatTableModule"],
-            _angular_material_select__WEBPACK_IMPORTED_MODULE_39__["MatSelectModule"],
-            _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_40__["MatSnackBarModule"],
-            _angular_material_toolbar__WEBPACK_IMPORTED_MODULE_41__["MatToolbarModule"],
-            _angular_material_sort__WEBPACK_IMPORTED_MODULE_42__["MatSortModule"],
-            _angular_material_input__WEBPACK_IMPORTED_MODULE_43__["MatInputModule"],
-            _angular_material_icon__WEBPACK_IMPORTED_MODULE_44__["MatIconModule"],
-            _angular_material_list__WEBPACK_IMPORTED_MODULE_45__["MatListModule"],
-            _angular_material_menu__WEBPACK_IMPORTED_MODULE_46__["MatMenuModule"],
-            _angular_material_datepicker__WEBPACK_IMPORTED_MODULE_47__["MatDatepickerModule"],
-            _angular_material_core__WEBPACK_IMPORTED_MODULE_54__["MatNativeDateModule"],
-            _angular_material_expansion__WEBPACK_IMPORTED_MODULE_48__["MatExpansionModule"],
-            _angular_material_tooltip__WEBPACK_IMPORTED_MODULE_49__["MatTooltipModule"],
-            _angular_material_progress_spinner__WEBPACK_IMPORTED_MODULE_50__["MatProgressSpinnerModule"]
+            _tinymce_tinymce_angular__WEBPACK_IMPORTED_MODULE_74__["EditorModule"],
+            _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_38__["MatSnackBarModule"],
+            _angular_material_divider__WEBPACK_IMPORTED_MODULE_32__["MatDividerModule"],
+            _angular_material_card__WEBPACK_IMPORTED_MODULE_33__["MatCardModule"],
+            _angular_material_form_field__WEBPACK_IMPORTED_MODULE_34__["MatFormFieldModule"],
+            _angular_material_button__WEBPACK_IMPORTED_MODULE_35__["MatButtonModule"],
+            _angular_material_table__WEBPACK_IMPORTED_MODULE_36__["MatTableModule"],
+            _angular_material_select__WEBPACK_IMPORTED_MODULE_37__["MatSelectModule"],
+            _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_38__["MatSnackBarModule"],
+            _angular_material_toolbar__WEBPACK_IMPORTED_MODULE_39__["MatToolbarModule"],
+            _angular_material_sort__WEBPACK_IMPORTED_MODULE_40__["MatSortModule"],
+            _angular_material_input__WEBPACK_IMPORTED_MODULE_41__["MatInputModule"],
+            _angular_material_icon__WEBPACK_IMPORTED_MODULE_42__["MatIconModule"],
+            _angular_material_list__WEBPACK_IMPORTED_MODULE_43__["MatListModule"],
+            _angular_material_menu__WEBPACK_IMPORTED_MODULE_44__["MatMenuModule"],
+            _angular_material_datepicker__WEBPACK_IMPORTED_MODULE_45__["MatDatepickerModule"],
+            _angular_material_core__WEBPACK_IMPORTED_MODULE_52__["MatNativeDateModule"],
+            _angular_material_expansion__WEBPACK_IMPORTED_MODULE_46__["MatExpansionModule"],
+            _angular_material_tooltip__WEBPACK_IMPORTED_MODULE_47__["MatTooltipModule"],
+            _angular_material_progress_spinner__WEBPACK_IMPORTED_MODULE_48__["MatProgressSpinnerModule"]
         ],
         exports: [
-            _angular_material_autocomplete__WEBPACK_IMPORTED_MODULE_51__["MatAutocompleteModule"],
-            _shared_widgets_pie_pie_component__WEBPACK_IMPORTED_MODULE_72__["PieComponent"],
-            _angular_material_divider__WEBPACK_IMPORTED_MODULE_34__["MatDividerModule"],
-            _angular_material_card__WEBPACK_IMPORTED_MODULE_35__["MatCardModule"],
-            _angular_material_form_field__WEBPACK_IMPORTED_MODULE_36__["MatFormFieldModule"],
-            _angular_material_button__WEBPACK_IMPORTED_MODULE_37__["MatButtonModule"],
-            _angular_material_table__WEBPACK_IMPORTED_MODULE_38__["MatTableModule"],
-            _angular_material_select__WEBPACK_IMPORTED_MODULE_39__["MatSelectModule"],
-            _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_40__["MatSnackBarModule"],
-            _angular_material_toolbar__WEBPACK_IMPORTED_MODULE_41__["MatToolbarModule"],
-            _angular_material_sort__WEBPACK_IMPORTED_MODULE_42__["MatSortModule"],
-            _angular_material_input__WEBPACK_IMPORTED_MODULE_43__["MatInputModule"],
-            _angular_material_icon__WEBPACK_IMPORTED_MODULE_44__["MatIconModule"],
-            _angular_material_list__WEBPACK_IMPORTED_MODULE_45__["MatListModule"],
-            _angular_material_menu__WEBPACK_IMPORTED_MODULE_46__["MatMenuModule"],
-            _angular_material_datepicker__WEBPACK_IMPORTED_MODULE_47__["MatDatepickerModule"],
-            _angular_material_core__WEBPACK_IMPORTED_MODULE_54__["MatNativeDateModule"],
-            _angular_material_expansion__WEBPACK_IMPORTED_MODULE_48__["MatExpansionModule"],
-            _angular_material_tooltip__WEBPACK_IMPORTED_MODULE_49__["MatTooltipModule"],
-            _angular_material_progress_spinner__WEBPACK_IMPORTED_MODULE_50__["MatProgressSpinnerModule"]
+            _angular_material_autocomplete__WEBPACK_IMPORTED_MODULE_49__["MatAutocompleteModule"],
+            _shared_widgets_pie_pie_component__WEBPACK_IMPORTED_MODULE_67__["PieComponent"],
+            _angular_material_divider__WEBPACK_IMPORTED_MODULE_32__["MatDividerModule"],
+            _angular_material_card__WEBPACK_IMPORTED_MODULE_33__["MatCardModule"],
+            _angular_material_form_field__WEBPACK_IMPORTED_MODULE_34__["MatFormFieldModule"],
+            _angular_material_button__WEBPACK_IMPORTED_MODULE_35__["MatButtonModule"],
+            _angular_material_table__WEBPACK_IMPORTED_MODULE_36__["MatTableModule"],
+            _angular_material_select__WEBPACK_IMPORTED_MODULE_37__["MatSelectModule"],
+            _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_38__["MatSnackBarModule"],
+            _angular_material_toolbar__WEBPACK_IMPORTED_MODULE_39__["MatToolbarModule"],
+            _angular_material_sort__WEBPACK_IMPORTED_MODULE_40__["MatSortModule"],
+            _angular_material_input__WEBPACK_IMPORTED_MODULE_41__["MatInputModule"],
+            _angular_material_icon__WEBPACK_IMPORTED_MODULE_42__["MatIconModule"],
+            _angular_material_list__WEBPACK_IMPORTED_MODULE_43__["MatListModule"],
+            _angular_material_menu__WEBPACK_IMPORTED_MODULE_44__["MatMenuModule"],
+            _angular_material_datepicker__WEBPACK_IMPORTED_MODULE_45__["MatDatepickerModule"],
+            _angular_material_core__WEBPACK_IMPORTED_MODULE_52__["MatNativeDateModule"],
+            _angular_material_expansion__WEBPACK_IMPORTED_MODULE_46__["MatExpansionModule"],
+            _angular_material_tooltip__WEBPACK_IMPORTED_MODULE_47__["MatTooltipModule"],
+            _angular_material_progress_spinner__WEBPACK_IMPORTED_MODULE_48__["MatProgressSpinnerModule"]
         ],
-        providers: [_angular_material_datepicker__WEBPACK_IMPORTED_MODULE_47__["MatDatepickerModule"], _services_employe_service__WEBPACK_IMPORTED_MODULE_13__["EmployeService"], _services_book_service__WEBPACK_IMPORTED_MODULE_91__["BookService"], _services_employee_service__WEBPACK_IMPORTED_MODULE_14__["EmployeeService"], _services_todo_service__WEBPACK_IMPORTED_MODULE_27__["TodoService"], _services_email_service__WEBPACK_IMPORTED_MODULE_32__["EmailService"], _helpers_auth_interceptor__WEBPACK_IMPORTED_MODULE_61__["authInterceptorProviders"], _services_auth_service__WEBPACK_IMPORTED_MODULE_83__["AuthService"], _services_token_storage_service__WEBPACK_IMPORTED_MODULE_82__["TokenStorageService"], { provide: _angular_material__WEBPACK_IMPORTED_MODULE_33__["MAT_DIALOG_DATA"], useValue: {} },
-            { provide: _angular_material__WEBPACK_IMPORTED_MODULE_33__["MatDialogRef"], useValue: {} }],
+        providers: [_angular_material_datepicker__WEBPACK_IMPORTED_MODULE_45__["MatDatepickerModule"], _services_employe_service__WEBPACK_IMPORTED_MODULE_13__["EmployeService"], _services_employee_service__WEBPACK_IMPORTED_MODULE_14__["EmployeeService"], , _services_email_service__WEBPACK_IMPORTED_MODULE_30__["EmailService"], _helpers_auth_interceptor__WEBPACK_IMPORTED_MODULE_56__["authInterceptorProviders"], _services_auth_service__WEBPACK_IMPORTED_MODULE_76__["AuthService"], _services_token_storage_service__WEBPACK_IMPORTED_MODULE_75__["TokenStorageService"], { provide: _angular_material__WEBPACK_IMPORTED_MODULE_31__["MAT_DIALOG_DATA"], useValue: {} },
+            { provide: _angular_material__WEBPACK_IMPORTED_MODULE_31__["MatDialogRef"], useValue: {} }],
         bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_9__["AppComponent"]],
-        entryComponents: [_components_admin_components_notes_ajout_note_ajout_note_component__WEBPACK_IMPORTED_MODULE_55__["AjoutNoteComponent"], _components_employe_components_jobspage_jobspage_popup_jobspage_popup_component__WEBPACK_IMPORTED_MODULE_97__["JobspagePopupComponent"],
-            _components_employe_components_applications_applications_popup_applications_popup_component__WEBPACK_IMPORTED_MODULE_103__["ApplicationsPopupComponent"],
-            _components_employe_components_myfavjob_myfavjob_popup_myfavjob_popup_component__WEBPACK_IMPORTED_MODULE_104__["MyfavjobPopupComponent"],
-            _components_admin_components_view_posting_edit_popup_edit_popup_component__WEBPACK_IMPORTED_MODULE_105__["EditPopupComponent"],
-            _components_admin_components_hr_form_hrprofile_popup_hrprofile_popup_component__WEBPACK_IMPORTED_MODULE_106__["HrprofilePopupComponent"],
-            _components_employe_components_candidate_form_can_form_popup_can_form_popup_component__WEBPACK_IMPORTED_MODULE_107__["CanFormPopupComponent"],
-            _components_admin_components_view_applicants_view_popup_view_popup_component__WEBPACK_IMPORTED_MODULE_113__["ViewPopupComponent"],
-            _components_admin_components_list_employes_update_popup_update_popup_component__WEBPACK_IMPORTED_MODULE_115__["UpdatePopupComponent"],
+        entryComponents: [_components_employe_components_jobspage_jobspage_popup_jobspage_popup_component__WEBPACK_IMPORTED_MODULE_84__["JobspagePopupComponent"],
+            _components_employe_components_applications_applications_popup_applications_popup_component__WEBPACK_IMPORTED_MODULE_90__["ApplicationsPopupComponent"],
+            _components_employe_components_myfavjob_myfavjob_popup_myfavjob_popup_component__WEBPACK_IMPORTED_MODULE_91__["MyfavjobPopupComponent"],
+            _components_admin_components_view_posting_edit_popup_edit_popup_component__WEBPACK_IMPORTED_MODULE_92__["EditPopupComponent"],
+            _components_admin_components_hr_form_hrprofile_popup_hrprofile_popup_component__WEBPACK_IMPORTED_MODULE_93__["HrprofilePopupComponent"],
+            _components_employe_components_candidate_form_can_form_popup_can_form_popup_component__WEBPACK_IMPORTED_MODULE_94__["CanFormPopupComponent"],
+            _components_admin_components_view_applicants_view_popup_view_popup_component__WEBPACK_IMPORTED_MODULE_100__["ViewPopupComponent"],
+            _components_admin_components_list_employes_update_popup_update_popup_component__WEBPACK_IMPORTED_MODULE_102__["UpdatePopupComponent"],
         ],
     })
 ], AppModule);
@@ -4516,7 +4334,7 @@ BoardAdminComponent.ctorParameters = () => [
 BoardAdminComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-board-admin',
-        template: __webpack_require__(/*! raw-loader!./board-admin.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/board-admin/board-admin.component.html"),
+        template: __webpack_require__(/*! raw-loader!./board-admin.component.html */ "./node_modules/raw-loader/index.js!./src/app/board-admin/board-admin.component.html"),
         styles: [__webpack_require__(/*! ./board-admin.component.css */ "./src/app/board-admin/board-admin.component.css")]
     })
 ], BoardAdminComponent);
@@ -4570,7 +4388,7 @@ BoardModeratorComponent.ctorParameters = () => [
 BoardModeratorComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-board-moderator',
-        template: __webpack_require__(/*! raw-loader!./board-moderator.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/board-moderator/board-moderator.component.html"),
+        template: __webpack_require__(/*! raw-loader!./board-moderator.component.html */ "./node_modules/raw-loader/index.js!./src/app/board-moderator/board-moderator.component.html"),
         styles: [__webpack_require__(/*! ./board-moderator.component.css */ "./src/app/board-moderator/board-moderator.component.css")]
     })
 ], BoardModeratorComponent);
@@ -4624,7 +4442,7 @@ BoardUserComponent.ctorParameters = () => [
 BoardUserComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-board-user',
-        template: __webpack_require__(/*! raw-loader!./board-user.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/board-user/board-user.component.html"),
+        template: __webpack_require__(/*! raw-loader!./board-user.component.html */ "./node_modules/raw-loader/index.js!./src/app/board-user/board-user.component.html"),
         styles: [__webpack_require__(/*! ./board-user.component.css */ "./src/app/board-user/board-user.component.css")]
     })
 ], BoardUserComponent);
@@ -4719,7 +4537,7 @@ AddEmployeComponent.ctorParameters = () => [
 AddEmployeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-add-employe',
-        template: __webpack_require__(/*! raw-loader!./add-employe.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/add-employe/add-employe.component.html"),
+        template: __webpack_require__(/*! raw-loader!./add-employe.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/add-employe/add-employe.component.html"),
         styles: [__webpack_require__(/*! ./add-employe.component.css */ "./src/app/components/admin-components/add-employe/add-employe.component.css")]
     })
 ], AddEmployeComponent);
@@ -4890,7 +4708,7 @@ HrFormComponent.ctorParameters = () => [
 HrFormComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-hr-form',
-        template: __webpack_require__(/*! raw-loader!./hr-form.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-form/hr-form.component.html"),
+        template: __webpack_require__(/*! raw-loader!./hr-form.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-form/hr-form.component.html"),
         styles: [__webpack_require__(/*! ./hr-form.component.css */ "./src/app/components/admin-components/hr-form/hr-form.component.css")]
     })
 ], HrFormComponent);
@@ -4942,7 +4760,7 @@ HrprofilePopupComponent.ctorParameters = () => [
 HrprofilePopupComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-hrprofile-popup',
-        template: __webpack_require__(/*! raw-loader!./hrprofile-popup.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.html"),
+        template: __webpack_require__(/*! raw-loader!./hrprofile-popup.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.html"),
         styles: [__webpack_require__(/*! ./hrprofile-popup.component.css */ "./src/app/components/admin-components/hr-form/hrprofile-popup/hrprofile-popup.component.css")]
     })
 ], HrprofilePopupComponent);
@@ -5070,7 +4888,7 @@ HrProfileComponent.ctorParameters = () => [
 HrProfileComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-hr-profile',
-        template: __webpack_require__(/*! raw-loader!./hr-profile.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-profile/hr-profile.component.html"),
+        template: __webpack_require__(/*! raw-loader!./hr-profile.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/hr-profile/hr-profile.component.html"),
         styles: [__webpack_require__(/*! ./hr-profile.component.css */ "./src/app/components/admin-components/hr-profile/hr-profile.component.css")]
     })
 ], HrProfileComponent);
@@ -5204,7 +5022,7 @@ ListEmployesComponent.ctorParameters = () => [
 ListEmployesComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-list-employes',
-        template: __webpack_require__(/*! raw-loader!./list-employes.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/list-employes/list-employes.component.html"),
+        template: __webpack_require__(/*! raw-loader!./list-employes.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/list-employes/list-employes.component.html"),
         styles: [__webpack_require__(/*! ./list-employes.component.css */ "./src/app/components/admin-components/list-employes/list-employes.component.css")]
     })
 ], ListEmployesComponent);
@@ -5263,645 +5081,11 @@ UpdatePopupComponent.ctorParameters = () => [
 UpdatePopupComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-update-popup',
-        template: __webpack_require__(/*! raw-loader!./update-popup.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/list-employes/update-popup/update-popup.component.html"),
+        template: __webpack_require__(/*! raw-loader!./update-popup.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/list-employes/update-popup/update-popup.component.html"),
         styles: [__webpack_require__(/*! ./update-popup.component.css */ "./src/app/components/admin-components/list-employes/update-popup/update-popup.component.css")]
     }),
     tslib__WEBPACK_IMPORTED_MODULE_0__["__param"](2, Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Inject"])(_angular_material__WEBPACK_IMPORTED_MODULE_2__["MAT_DIALOG_DATA"]))
 ], UpdatePopupComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.css":
-/*!**********************************************************************************************!*\
-  !*** ./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.css ***!
-  \**********************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto');\n*{\n margin:0;\n padding: 0;\n outline: 0;\n}\ntable{\n position: absolute;\n z-index: 2;\n \n \n width: 800px; \n border-collapse: collapse;\n border-spacing: 0;\n box-shadow: 0 2px 10px rgba(64,64,64,.7);\n border-radius: 12px 12px 0 0;\n overflow: hidden;\n\n}\ntd , th{\n padding: 15px 20px;\n text-align: center;\n font-size: 16px;\n \n\n}\nth{\n background-color: #4ECDC4;\n color: #fafafa;\n font-family: 'Open Sans',Sans-serif;\n font-weight: 200;\n text-transform: uppercase;\n width: 100px;\n\n}\ntr{\n width: 100%;\n background-color: #fafafa;\n font-family: 'Montserrat', sans-serif;\n}\ntr:nth-child(even){\n background-color: #eeeeee;\n}\nbutton{\n    width: 26px;\n    height: 26px;\n    margin : 2px;\n    font-size: 13px;\n    \n}\nh3 {\n    margin-top: 20px;\n    margin-bottom: 10px;\n    font-family: 'Montserrat', sans-serif;\n    font-weight: 500;\n    line-height: 1.1;\n    color: inherit;\n    font-size: 24px;\n}\n.container{\n    text-align: center;\n}\n.btn-meeting{\n    background-color: #337ab7;\n    left: 35%; \n    width: 30%;\n    height: 28px;\n    border-radius: 5px 5px;\n    color:white;\n    font-family: 'Montserrat', sans-serif;\n    font-size: 15px;\n}\n\n\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9hZG1pbi1jb21wb25lbnRzL21lZXRpbmdzL2xpc3QtbWVldGluZy9saXN0LW1lZXRpbmcuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxrRkFBa0Y7QUFDbEY7Q0FDQyxRQUFRO0NBQ1IsVUFBVTtDQUNWLFVBQVU7QUFDWDtBQUVBO0NBQ0Msa0JBQWtCO0NBQ2xCLFVBQVU7OztDQUdWLFlBQVk7Q0FDWix5QkFBeUI7Q0FDekIsaUJBQWlCO0NBQ2pCLHdDQUF3QztDQUN4Qyw0QkFBNEI7Q0FDNUIsZ0JBQWdCOztBQUVqQjtBQUNBO0NBQ0Msa0JBQWtCO0NBQ2xCLGtCQUFrQjtDQUNsQixlQUFlOzs7QUFHaEI7QUFDQTtDQUNDLHlCQUF5QjtDQUN6QixjQUFjO0NBQ2QsbUNBQW1DO0NBQ25DLGdCQUFnQjtDQUNoQix5QkFBeUI7Q0FDekIsWUFBWTs7QUFFYjtBQUNBO0NBQ0MsV0FBVztDQUNYLHlCQUF5QjtDQUN6QixxQ0FBcUM7QUFDdEM7QUFDQTtDQUNDLHlCQUF5QjtBQUMxQjtBQUVBO0lBQ0ksV0FBVztJQUNYLFlBQVk7SUFDWixZQUFZO0lBQ1osZUFBZTs7QUFFbkI7QUFFQTtJQUNJLGdCQUFnQjtJQUNoQixtQkFBbUI7SUFDbkIscUNBQXFDO0lBQ3JDLGdCQUFnQjtJQUNoQixnQkFBZ0I7SUFDaEIsY0FBYztJQUNkLGVBQWU7QUFDbkI7QUFDQTtJQUNJLGtCQUFrQjtBQUN0QjtBQUVBO0lBQ0kseUJBQXlCO0lBQ3pCLFNBQVM7SUFDVCxVQUFVO0lBQ1YsWUFBWTtJQUNaLHNCQUFzQjtJQUN0QixXQUFXO0lBQ1gscUNBQXFDO0lBQ3JDLGVBQWU7QUFDbkIiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2FkbWluLWNvbXBvbmVudHMvbWVldGluZ3MvbGlzdC1tZWV0aW5nL2xpc3QtbWVldGluZy5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Nb250c2VycmF0fE9wZW4rU2Fuc3xSb2JvdG8nKTtcbip7XG4gbWFyZ2luOjA7XG4gcGFkZGluZzogMDtcbiBvdXRsaW5lOiAwO1xufVxuXG50YWJsZXtcbiBwb3NpdGlvbjogYWJzb2x1dGU7XG4gei1pbmRleDogMjtcbiBcbiBcbiB3aWR0aDogODAwcHg7IFxuIGJvcmRlci1jb2xsYXBzZTogY29sbGFwc2U7XG4gYm9yZGVyLXNwYWNpbmc6IDA7XG4gYm94LXNoYWRvdzogMCAycHggMTBweCByZ2JhKDY0LDY0LDY0LC43KTtcbiBib3JkZXItcmFkaXVzOiAxMnB4IDEycHggMCAwO1xuIG92ZXJmbG93OiBoaWRkZW47XG5cbn1cbnRkICwgdGh7XG4gcGFkZGluZzogMTVweCAyMHB4O1xuIHRleHQtYWxpZ246IGNlbnRlcjtcbiBmb250LXNpemU6IDE2cHg7XG4gXG5cbn1cbnRoe1xuIGJhY2tncm91bmQtY29sb3I6ICM0RUNEQzQ7XG4gY29sb3I6ICNmYWZhZmE7XG4gZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnLFNhbnMtc2VyaWY7XG4gZm9udC13ZWlnaHQ6IDIwMDtcbiB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xuIHdpZHRoOiAxMDBweDtcblxufVxudHJ7XG4gd2lkdGg6IDEwMCU7XG4gYmFja2dyb3VuZC1jb2xvcjogI2ZhZmFmYTtcbiBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmO1xufVxudHI6bnRoLWNoaWxkKGV2ZW4pe1xuIGJhY2tncm91bmQtY29sb3I6ICNlZWVlZWU7XG59XG5cbmJ1dHRvbntcbiAgICB3aWR0aDogMjZweDtcbiAgICBoZWlnaHQ6IDI2cHg7XG4gICAgbWFyZ2luIDogMnB4O1xuICAgIGZvbnQtc2l6ZTogMTNweDtcbiAgICBcbn1cblxuaDMge1xuICAgIG1hcmdpbi10b3A6IDIwcHg7XG4gICAgbWFyZ2luLWJvdHRvbTogMTBweDtcbiAgICBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmO1xuICAgIGZvbnQtd2VpZ2h0OiA1MDA7XG4gICAgbGluZS1oZWlnaHQ6IDEuMTtcbiAgICBjb2xvcjogaW5oZXJpdDtcbiAgICBmb250LXNpemU6IDI0cHg7XG59XG4uY29udGFpbmVye1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLmJ0bi1tZWV0aW5ne1xuICAgIGJhY2tncm91bmQtY29sb3I6ICMzMzdhYjc7XG4gICAgbGVmdDogMzUlOyBcbiAgICB3aWR0aDogMzAlO1xuICAgIGhlaWdodDogMjhweDtcbiAgICBib3JkZXItcmFkaXVzOiA1cHggNXB4O1xuICAgIGNvbG9yOndoaXRlO1xuICAgIGZvbnQtZmFtaWx5OiAnTW9udHNlcnJhdCcsIHNhbnMtc2VyaWY7XG4gICAgZm9udC1zaXplOiAxNXB4O1xufVxuXG5cbiJdfQ== */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.ts":
-/*!*********************************************************************************************!*\
-  !*** ./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.ts ***!
-  \*********************************************************************************************/
-/*! exports provided: ListMeetingComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ListMeetingComponent", function() { return ListMeetingComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _meeting_meeting_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../meeting/meeting.component */ "./src/app/components/admin-components/meetings/meeting/meeting.component.ts");
-/* harmony import */ var src_app_modals_meeting__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! src/app/modals/meeting */ "./src/app/modals/meeting.ts");
-/* harmony import */ var _angular_material__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/material */ "./node_modules/@angular/material/esm2015/material.js");
-/* harmony import */ var src_app_services_meeting_service__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! src/app/services/meeting.service */ "./src/app/services/meeting.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-
-
-
-
-
-
-
-let ListMeetingComponent = class ListMeetingComponent {
-    constructor(dialog, meetingService, router) {
-        this.dialog = dialog;
-        this.meetingService = meetingService;
-        this.router = router;
-        this.meeting = new src_app_modals_meeting__WEBPACK_IMPORTED_MODULE_3__["Meeting"]();
-    }
-    ngOnInit() {
-        this.getAllmeetings();
-    }
-    onAddNote() {
-        this.openNoteDialog(null);
-    }
-    openNoteDialog(data) {
-        const dialogRef = this.dialog.open(_meeting_meeting_component__WEBPACK_IMPORTED_MODULE_2__["MeetingComponent"], {
-            disableClose: true,
-            autoFocus: true,
-            width: "50%",
-            data: data
-        });
-        dialogRef.afterClosed().subscribe(result => {
-            if (result && data == null) {
-                this.meetings.push(result);
-            }
-            // this.refreshData();
-        });
-    }
-    getAllmeetings() {
-        this.meetingService.getAllmeetings()
-            .subscribe(response => {
-            this.meetings = response;
-        });
-    }
-    updateMeeting(meeting) {
-        this.openNoteDialog(meeting);
-        // this.meetingService.setter(meeting);
-        // this.router.navigate(['/updateMeeting']);
-    }
-    deleteMeeting(meeting) {
-        this.meetingService.deleteMeetingById(meeting.idMeeting)
-            .subscribe(data => {
-            this.meetings = this.meetings.filter(u => u !== meeting);
-        });
-    }
-};
-ListMeetingComponent.ctorParameters = () => [
-    { type: _angular_material__WEBPACK_IMPORTED_MODULE_4__["MatDialog"] },
-    { type: src_app_services_meeting_service__WEBPACK_IMPORTED_MODULE_5__["MeetingService"] },
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_6__["Router"] }
-];
-ListMeetingComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-list-meeting',
-        template: __webpack_require__(/*! raw-loader!./list-meeting.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.html"),
-        styles: [__webpack_require__(/*! ./list-meeting.component.css */ "./src/app/components/admin-components/meetings/list-meeting/list-meeting.component.css")]
-    })
-], ListMeetingComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/meetings/meeting/meeting.component.css":
-/*!************************************************************************************!*\
-  !*** ./src/app/components/admin-components/meetings/meeting/meeting.component.css ***!
-  \************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvYWRtaW4tY29tcG9uZW50cy9tZWV0aW5ncy9tZWV0aW5nL21lZXRpbmcuY29tcG9uZW50LmNzcyJ9 */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/meetings/meeting/meeting.component.ts":
-/*!***********************************************************************************!*\
-  !*** ./src/app/components/admin-components/meetings/meeting/meeting.component.ts ***!
-  \***********************************************************************************/
-/*! exports provided: MeetingComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MeetingComponent", function() { return MeetingComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var src_app_modals_meeting__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! src/app/modals/meeting */ "./src/app/modals/meeting.ts");
-/* harmony import */ var _angular_material__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/material */ "./node_modules/@angular/material/esm2015/material.js");
-/* harmony import */ var src_app_services_meeting_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! src/app/services/meeting.service */ "./src/app/services/meeting.service.ts");
-
-
-
-
-
-let MeetingComponent = class MeetingComponent {
-    constructor(dialogRef, data, meetingService) {
-        this.dialogRef = dialogRef;
-        this.data = data;
-        this.meetingService = meetingService;
-        this.meeting = new src_app_modals_meeting__WEBPACK_IMPORTED_MODULE_2__["Meeting"]();
-    }
-    ngOnInit() {
-        if (this.data !== null) {
-            this.meeting = this.data;
-        }
-    }
-    onSubmit() {
-        this.onCreateMeeting();
-    }
-    onCreateMeeting() {
-        this.meetingService.onCreateMeeting(this.meeting)
-            .subscribe(data => {
-            this.onClose(this.meeting);
-        });
-    }
-    onClose(value) {
-        this.dialogRef.close(value);
-    }
-};
-MeetingComponent.ctorParameters = () => [
-    { type: _angular_material__WEBPACK_IMPORTED_MODULE_3__["MatDialogRef"] },
-    { type: src_app_modals_meeting__WEBPACK_IMPORTED_MODULE_2__["Meeting"], decorators: [{ type: _angular_core__WEBPACK_IMPORTED_MODULE_1__["Inject"], args: [_angular_material__WEBPACK_IMPORTED_MODULE_3__["MAT_DIALOG_DATA"],] }] },
-    { type: src_app_services_meeting_service__WEBPACK_IMPORTED_MODULE_4__["MeetingService"] }
-];
-MeetingComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-meeting',
-        template: __webpack_require__(/*! raw-loader!./meeting.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/meetings/meeting/meeting.component.html"),
-        styles: [__webpack_require__(/*! ./meeting.component.css */ "./src/app/components/admin-components/meetings/meeting/meeting.component.css")]
-    }),
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__param"](1, Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Inject"])(_angular_material__WEBPACK_IMPORTED_MODULE_3__["MAT_DIALOG_DATA"]))
-], MeetingComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.css":
-/*!**************************************************************************************************!*\
-  !*** ./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.css ***!
-  \**************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');\n#ui{\n    background-color: #3f4246;\n    padding: 30px;\n    margin-top: 50px;\n    box-shadow: 0 2px 10px rgba(64,64,64,.7);\n    border-radius: 12px 12px 12px 12px;\n}\n#ui label{\n    color : #fff;\n    font-family: 'Jost', sans-serif;\n    font-size: 16px;\n}\nselect{\n    font-family: 'Montserrat', sans-serif;\n    font-size: 15px;\n    color: black;\n    \n}\nh3 {\n    margin-bottom: 10px;\n    color : #fff;\n    font-family: 'Jost', sans-serif;\n    font-weight: 500;\n    line-height: 1.1;\n    font-size: 24px;\n}\n.btn{\n    background-color: #4ECDC4;\n   \n    margin-left: 28%;\n    top:80%;\n    width: 300px;\n    height: 30px;\n    border-radius: 5px 5px;\n    color:white;\n    font-family: 'Montserrat', sans-serif;\n    font-size: 15px;\n}\ninput{\n    color : black;\n    font-family: 'Jost', sans-serif;\n    font-size: 16px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9hZG1pbi1jb21wb25lbnRzL21lZXRpbmdzL3VwZGF0ZS1tZWV0aW5nL3VwZGF0ZS1tZWV0aW5nLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBLHlFQUF5RTtBQUN6RTtJQUNJLHlCQUF5QjtJQUN6QixhQUFhO0lBQ2IsZ0JBQWdCO0lBQ2hCLHdDQUF3QztJQUN4QyxrQ0FBa0M7QUFDdEM7QUFFQTtJQUNJLFlBQVk7SUFDWiwrQkFBK0I7SUFDL0IsZUFBZTtBQUNuQjtBQUVBO0lBQ0kscUNBQXFDO0lBQ3JDLGVBQWU7SUFDZixZQUFZOztBQUVoQjtBQUVBO0lBQ0ksbUJBQW1CO0lBQ25CLFlBQVk7SUFDWiwrQkFBK0I7SUFDL0IsZ0JBQWdCO0lBQ2hCLGdCQUFnQjtJQUNoQixlQUFlO0FBQ25CO0FBRUE7SUFDSSx5QkFBeUI7O0lBRXpCLGdCQUFnQjtJQUNoQixPQUFPO0lBQ1AsWUFBWTtJQUNaLFlBQVk7SUFDWixzQkFBc0I7SUFDdEIsV0FBVztJQUNYLHFDQUFxQztJQUNyQyxlQUFlO0FBQ25CO0FBRUE7SUFDSSxhQUFhO0lBQ2IsK0JBQStCO0lBQy9CLGVBQWU7QUFDbkIiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2FkbWluLWNvbXBvbmVudHMvbWVldGluZ3MvdXBkYXRlLW1lZXRpbmcvdXBkYXRlLW1lZXRpbmcuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIlxuQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9Sm9zdCZkaXNwbGF5PXN3YXAnKTtcbiN1aXtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjM2Y0MjQ2O1xuICAgIHBhZGRpbmc6IDMwcHg7XG4gICAgbWFyZ2luLXRvcDogNTBweDtcbiAgICBib3gtc2hhZG93OiAwIDJweCAxMHB4IHJnYmEoNjQsNjQsNjQsLjcpO1xuICAgIGJvcmRlci1yYWRpdXM6IDEycHggMTJweCAxMnB4IDEycHg7XG59XG5cbiN1aSBsYWJlbHtcbiAgICBjb2xvciA6ICNmZmY7XG4gICAgZm9udC1mYW1pbHk6ICdKb3N0Jywgc2Fucy1zZXJpZjtcbiAgICBmb250LXNpemU6IDE2cHg7XG59XG5cbnNlbGVjdHtcbiAgICBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmO1xuICAgIGZvbnQtc2l6ZTogMTVweDtcbiAgICBjb2xvcjogYmxhY2s7XG4gICAgXG59XG5cbmgzIHtcbiAgICBtYXJnaW4tYm90dG9tOiAxMHB4O1xuICAgIGNvbG9yIDogI2ZmZjtcbiAgICBmb250LWZhbWlseTogJ0pvc3QnLCBzYW5zLXNlcmlmO1xuICAgIGZvbnQtd2VpZ2h0OiA1MDA7XG4gICAgbGluZS1oZWlnaHQ6IDEuMTtcbiAgICBmb250LXNpemU6IDI0cHg7XG59XG5cbi5idG57XG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzRFQ0RDNDtcbiAgIFxuICAgIG1hcmdpbi1sZWZ0OiAyOCU7XG4gICAgdG9wOjgwJTtcbiAgICB3aWR0aDogMzAwcHg7XG4gICAgaGVpZ2h0OiAzMHB4O1xuICAgIGJvcmRlci1yYWRpdXM6IDVweCA1cHg7XG4gICAgY29sb3I6d2hpdGU7XG4gICAgZm9udC1mYW1pbHk6ICdNb250c2VycmF0Jywgc2Fucy1zZXJpZjtcbiAgICBmb250LXNpemU6IDE1cHg7XG59XG5cbmlucHV0e1xuICAgIGNvbG9yIDogYmxhY2s7XG4gICAgZm9udC1mYW1pbHk6ICdKb3N0Jywgc2Fucy1zZXJpZjtcbiAgICBmb250LXNpemU6IDE2cHg7XG59Il19 */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.ts":
-/*!*************************************************************************************************!*\
-  !*** ./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.ts ***!
-  \*************************************************************************************************/
-/*! exports provided: UpdateMeetingComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "UpdateMeetingComponent", function() { return UpdateMeetingComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var src_app_services_meeting_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! src/app/services/meeting.service */ "./src/app/services/meeting.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-
-
-
-
-let UpdateMeetingComponent = class UpdateMeetingComponent {
-    constructor(meetingService, router) {
-        this.meetingService = meetingService;
-        this.router = router;
-    }
-    ngOnInit() {
-        this.meeting = this.meetingService.getter();
-    }
-    processForm() {
-        this.meetingService.updateMeeting(this.meeting).subscribe((meeting) => {
-            console.log(meeting);
-            this.router.navigate(['/meetings']);
-        }, (error) => {
-            console.log(error);
-        });
-    }
-};
-UpdateMeetingComponent.ctorParameters = () => [
-    { type: src_app_services_meeting_service__WEBPACK_IMPORTED_MODULE_2__["MeetingService"] },
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"] }
-];
-UpdateMeetingComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-update-meeting',
-        template: __webpack_require__(/*! raw-loader!./update-meeting.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.html"),
-        styles: [__webpack_require__(/*! ./update-meeting.component.css */ "./src/app/components/admin-components/meetings/update-meeting/update-meeting.component.css")]
-    })
-], UpdateMeetingComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/ajout-note/ajout-note.component.css":
-/*!***************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/ajout-note/ajout-note.component.css ***!
-  \***************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto');\ninput{\n    color : black;\n    font-family: 'Montserrat', sans-serif;\n    font-size: 16px;\n}\ntextarea {\n    color : black;\n    font-family: 'Montserrat', sans-serif;\n    font-size: 16px;\n}\nlabel{\n    font-family: 'Montserrat', sans-serif;\n    font-size: 15px;\n    \n}\n.click{\n    margin-left: 20%;\n}\n.btn{\n    color: #f2f2f2;\n    font-size: 16px;\n    border-radius: 4px;\n    -webkit-border-radius: 4px;\n    border: 1px solid #64c3c2 !important;\n    padding: 5px 15px;\n    \n    background: #4ECDC4;\n}\nbutton {\n    width: 150px;\n    margin: 50px;\n    font-size: 15px;\n}\n.add-post-content{\n    padding-top: 20px;\n    \n  }\n.new-post-title{\n    color: royalblue;\n  }\n.post-content, .post-title{\n    color: royalblue;\n  }\n.block{\n margin-left: 20%;\n  }\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9hZG1pbi1jb21wb25lbnRzL25vdGVzL2Fqb3V0LW5vdGUvYWpvdXQtbm90ZS5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFDQSxrRkFBa0Y7QUFDbEY7SUFDSSxhQUFhO0lBQ2IscUNBQXFDO0lBQ3JDLGVBQWU7QUFDbkI7QUFFQTtJQUNJLGFBQWE7SUFDYixxQ0FBcUM7SUFDckMsZUFBZTtBQUNuQjtBQUVBO0lBQ0kscUNBQXFDO0lBQ3JDLGVBQWU7O0FBRW5CO0FBRUE7SUFDSSxnQkFBZ0I7QUFDcEI7QUFDQTtJQUNJLGNBQWM7SUFDZCxlQUFlO0lBQ2Ysa0JBQWtCO0lBQ2xCLDBCQUEwQjtJQUMxQixvQ0FBb0M7SUFDcEMsaUJBQWlCOztJQUVqQixtQkFBbUI7QUFDdkI7QUFFQTtJQUNJLFlBQVk7SUFDWixZQUFZO0lBQ1osZUFBZTtBQUNuQjtBQUVBO0lBQ0ksaUJBQWlCOztFQUVuQjtBQUVBO0lBQ0UsZ0JBQWdCO0VBQ2xCO0FBRUE7SUFDRSxnQkFBZ0I7RUFDbEI7QUFFQTtDQUNELGdCQUFnQjtFQUNmIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9hZG1pbi1jb21wb25lbnRzL25vdGVzL2Fqb3V0LW5vdGUvYWpvdXQtbm90ZS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiXG5AaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU1vbnRzZXJyYXR8T3BlbitTYW5zfFJvYm90bycpO1xuaW5wdXR7XG4gICAgY29sb3IgOiBibGFjaztcbiAgICBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmO1xuICAgIGZvbnQtc2l6ZTogMTZweDtcbn1cblxudGV4dGFyZWEge1xuICAgIGNvbG9yIDogYmxhY2s7XG4gICAgZm9udC1mYW1pbHk6ICdNb250c2VycmF0Jywgc2Fucy1zZXJpZjtcbiAgICBmb250LXNpemU6IDE2cHg7XG59XG5cbmxhYmVse1xuICAgIGZvbnQtZmFtaWx5OiAnTW9udHNlcnJhdCcsIHNhbnMtc2VyaWY7XG4gICAgZm9udC1zaXplOiAxNXB4O1xuICAgIFxufVxuXG4uY2xpY2t7XG4gICAgbWFyZ2luLWxlZnQ6IDIwJTtcbn1cbi5idG57XG4gICAgY29sb3I6ICNmMmYyZjI7XG4gICAgZm9udC1zaXplOiAxNnB4O1xuICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAtd2Via2l0LWJvcmRlci1yYWRpdXM6IDRweDtcbiAgICBib3JkZXI6IDFweCBzb2xpZCAjNjRjM2MyICFpbXBvcnRhbnQ7XG4gICAgcGFkZGluZzogNXB4IDE1cHg7XG4gICAgXG4gICAgYmFja2dyb3VuZDogIzRFQ0RDNDtcbn1cblxuYnV0dG9uIHtcbiAgICB3aWR0aDogMTUwcHg7XG4gICAgbWFyZ2luOiA1MHB4O1xuICAgIGZvbnQtc2l6ZTogMTVweDtcbn1cblxuLmFkZC1wb3N0LWNvbnRlbnR7XG4gICAgcGFkZGluZy10b3A6IDIwcHg7XG4gICAgXG4gIH1cbiAgXG4gIC5uZXctcG9zdC10aXRsZXtcbiAgICBjb2xvcjogcm95YWxibHVlO1xuICB9XG4gIFxuICAucG9zdC1jb250ZW50LCAucG9zdC10aXRsZXtcbiAgICBjb2xvcjogcm95YWxibHVlO1xuICB9XG5cbiAgLmJsb2Nre1xuIG1hcmdpbi1sZWZ0OiAyMCU7XG4gIH0iXX0= */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/ajout-note/ajout-note.component.ts":
-/*!**************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/ajout-note/ajout-note.component.ts ***!
-  \**************************************************************************************/
-/*! exports provided: AjoutNoteComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AjoutNoteComponent", function() { return AjoutNoteComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_material__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material */ "./node_modules/@angular/material/esm2015/material.js");
-/* harmony import */ var src_app_services_noteinterne_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! src/app/services/noteinterne.service */ "./src/app/services/noteinterne.service.ts");
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm2015/forms.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-
-
-
-
-
-
-let AjoutNoteComponent = class AjoutNoteComponent {
-    constructor(dialogRef, addpostService, router) {
-        this.dialogRef = dialogRef;
-        this.addpostService = addpostService;
-        this.router = router;
-        this.title = new _angular_forms__WEBPACK_IMPORTED_MODULE_4__["FormControl"]('');
-        this.body = new _angular_forms__WEBPACK_IMPORTED_MODULE_4__["FormControl"]('');
-        this.addPostForm = new _angular_forms__WEBPACK_IMPORTED_MODULE_4__["FormGroup"]({
-            title: this.title,
-            body: this.body
-        });
-        this.postPayload = {
-            id: '',
-            content: '',
-            title: '',
-            username: ''
-        };
-    }
-    ngOnInit() {
-    }
-    onSubmit() {
-        this.addPost();
-        this.onClose();
-    }
-    addPost() {
-        this.postPayload.content = this.addPostForm.get('body').value;
-        this.postPayload.title = this.addPostForm.get('title').value;
-        this.addpostService.addPost(this.postPayload).subscribe(data => {
-            this.router.navigate(['/notesInternes']);
-        }, error => {
-            console.log('Failure Response');
-        });
-    }
-    onClose() {
-        this.dialogRef.close();
-    }
-};
-AjoutNoteComponent.ctorParameters = () => [
-    { type: _angular_material__WEBPACK_IMPORTED_MODULE_2__["MatDialogRef"] },
-    { type: src_app_services_noteinterne_service__WEBPACK_IMPORTED_MODULE_3__["NoteinterneService"] },
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_5__["Router"] }
-];
-AjoutNoteComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-ajout-note',
-        template: __webpack_require__(/*! raw-loader!./ajout-note.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/ajout-note/ajout-note.component.html"),
-        styles: [__webpack_require__(/*! ./ajout-note.component.css */ "./src/app/components/admin-components/notes/ajout-note/ajout-note.component.css")]
-    })
-], AjoutNoteComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/book-create/book-create.component.css":
-/*!*****************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/book-create/book-create.component.css ***!
-  \*****************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvYWRtaW4tY29tcG9uZW50cy9ub3Rlcy9ib29rLWNyZWF0ZS9ib29rLWNyZWF0ZS5jb21wb25lbnQuY3NzIn0= */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/book-create/book-create.component.ts":
-/*!****************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/book-create/book-create.component.ts ***!
-  \****************************************************************************************/
-/*! exports provided: BookCreateComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BookCreateComponent", function() { return BookCreateComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-
-
-let BookCreateComponent = class BookCreateComponent {
-};
-BookCreateComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-book-create',
-        template: __webpack_require__(/*! raw-loader!./book-create.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/book-create/book-create.component.html"),
-        styles: [__webpack_require__(/*! ./book-create.component.css */ "./src/app/components/admin-components/notes/book-create/book-create.component.css")]
-    })
-], BookCreateComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/book-detail/book-detail.component.css":
-/*!*****************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/book-detail/book-detail.component.css ***!
-  \*****************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvYWRtaW4tY29tcG9uZW50cy9ub3Rlcy9ib29rLWRldGFpbC9ib29rLWRldGFpbC5jb21wb25lbnQuY3NzIn0= */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/book-detail/book-detail.component.ts":
-/*!****************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/book-detail/book-detail.component.ts ***!
-  \****************************************************************************************/
-/*! exports provided: BookDetailComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BookDetailComponent", function() { return BookDetailComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-/* harmony import */ var src_app_services_book_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! src/app/services/book.service */ "./src/app/services/book.service.ts");
-
-
-
-
-let BookDetailComponent = class BookDetailComponent {
-    constructor(route, router, bookService) {
-        this.route = route;
-        this.router = router;
-        this.bookService = bookService;
-        this.book = {};
-    }
-    ngOnInit() {
-        this.getBookDetail(this.route.snapshot.params['id']);
-    }
-    getBookDetail(id) {
-    }
-    deleteBook(id) {
-    }
-};
-BookDetailComponent.ctorParameters = () => [
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["ActivatedRoute"] },
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"] },
-    { type: src_app_services_book_service__WEBPACK_IMPORTED_MODULE_3__["BookService"] }
-];
-BookDetailComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-book-detail',
-        template: __webpack_require__(/*! raw-loader!./book-detail.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/book-detail/book-detail.component.html"),
-        styles: [__webpack_require__(/*! ./book-detail.component.css */ "./src/app/components/admin-components/notes/book-detail/book-detail.component.css")]
-    })
-], BookDetailComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/book-edit/book-edit.component.css":
-/*!*************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/book-edit/book-edit.component.css ***!
-  \*************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvYWRtaW4tY29tcG9uZW50cy9ub3Rlcy9ib29rLWVkaXQvYm9vay1lZGl0LmNvbXBvbmVudC5jc3MifQ== */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/book-edit/book-edit.component.ts":
-/*!************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/book-edit/book-edit.component.ts ***!
-  \************************************************************************************/
-/*! exports provided: BookEditComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BookEditComponent", function() { return BookEditComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-/* harmony import */ var src_app_services_book_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! src/app/services/book.service */ "./src/app/services/book.service.ts");
-
-
-
-
-let BookEditComponent = class BookEditComponent {
-    constructor(bookService, router, route) {
-        this.bookService = bookService;
-        this.router = router;
-        this.route = route;
-        this.book = {};
-    }
-    ngOnInit() {
-        this.getBook(this.route.snapshot.params['id']);
-    }
-    getBook(id) {
-    }
-    updateBook(id) {
-    }
-};
-BookEditComponent.ctorParameters = () => [
-    { type: src_app_services_book_service__WEBPACK_IMPORTED_MODULE_3__["BookService"] },
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"] },
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["ActivatedRoute"] }
-];
-BookEditComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-book-edit',
-        template: __webpack_require__(/*! raw-loader!./book-edit.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/book-edit/book-edit.component.html"),
-        styles: [__webpack_require__(/*! ./book-edit.component.css */ "./src/app/components/admin-components/notes/book-edit/book-edit.component.css")]
-    })
-], BookEditComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/book/book.component.css":
-/*!***************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/book/book.component.css ***!
-  \***************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvYWRtaW4tY29tcG9uZW50cy9ub3Rlcy9ib29rL2Jvb2suY29tcG9uZW50LmNzcyJ9 */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/book/book.component.ts":
-/*!**************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/book/book.component.ts ***!
-  \**************************************************************************/
-/*! exports provided: BookComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BookComponent", function() { return BookComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var src_app_services_book_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! src/app/services/book.service */ "./src/app/services/book.service.ts");
-
-
-
-let BookComponent = class BookComponent {
-    constructor(bookService) {
-        this.bookService = bookService;
-    }
-    ngOnInit() {
-        this.getBookList();
-    }
-    getBookList() {
-    }
-};
-BookComponent.ctorParameters = () => [
-    { type: src_app_services_book_service__WEBPACK_IMPORTED_MODULE_2__["BookService"] }
-];
-BookComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-book',
-        template: __webpack_require__(/*! raw-loader!./book.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/book/book.component.html"),
-        styles: [__webpack_require__(/*! ./book.component.css */ "./src/app/components/admin-components/notes/book/book.component.css")]
-    })
-], BookComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/notes-internes/notes-internes.component.css":
-/*!***********************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/notes-internes/notes-internes.component.css ***!
-  \***********************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto');\n*{\n margin:0;\n padding: 0;\n outline: 0;\n}\ntable{\n    border-collapse: collapse;\n    border-spacing: 0;\n    box-shadow: 0 2px 10px rgba(64,64,64,.7);\n    border-radius: 12px 12px 0 0;\n    overflow: hidden;\n    margin-top: 2rem;\n   }\nth{\n padding: 15px 20px;\n text-align: center;\n font-size: 16.5px;\n\n}\ntd{\n    font-family: Poppins-Regular;\n    padding: 30px 20px;\n    text-align: center;\n    font-size: 16px;\n    color: black;\n   }\np {\n    font-family: Poppins-Regular;\n    text-align: start;\n    font-size: 14px;\n    line-height: 1.7;\n    color: black;\n    margin: 0px;\n}\n.pagination{\n    \n    margin-left: 70%;\n    margin-top: 22px;\n    margin-bottom: 10px;\n    background-color: white;\n    position:absolute\n}\n.content{\n text-align: center;\n font-size: 16.5px;\n font-family: 'Montserrat', sans-serif;\n color: black;\n}\nth{\n background-color: #4ECDC4;\n color: #fafafa;\n font-family: 'Open Sans',Sans-serif;\n font-weight: 200;\n text-transform: uppercase;\n width: 100px;\n\n}\ntr{\n width: 100%;\n background-color: #fafafa;\n font-family: 'Montserrat', sans-serif;\n}\ntr:nth-child(even){\n background-color: #eeeeee;\n}\nbutton{\n    width: 26px;\n    height: 26px;\n    margin : 2px;\n    font-size: 15px;\n    \n}\nh3 {\n    margin-top: 20px;\n    margin-bottom: 10px;\n    font-family: 'Montserrat', sans-serif;\n    font-weight: 500;\n    line-height: 1.1;\n    color: inherit;\n    font-size: 24px;\n}\n.container{\n    text-align: center;\n}\n.btnnote{\n    background-color: #337ab7;\n    margin-left: 35%; \n    width: 30%;\n    height: 28px;\n    border-radius: 5px 5px;\n    color:white;\n    font-family: 'Montserrat', sans-serif;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9hZG1pbi1jb21wb25lbnRzL25vdGVzL25vdGVzLWludGVybmVzL25vdGVzLWludGVybmVzLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsa0ZBQWtGO0FBQ2xGO0NBQ0MsUUFBUTtDQUNSLFVBQVU7Q0FDVixVQUFVO0FBQ1g7QUFFQTtJQUNJLHlCQUF5QjtJQUN6QixpQkFBaUI7SUFDakIsd0NBQXdDO0lBQ3hDLDRCQUE0QjtJQUM1QixnQkFBZ0I7SUFDaEIsZ0JBQWdCO0dBQ2pCO0FBQ0g7Q0FDQyxrQkFBa0I7Q0FDbEIsa0JBQWtCO0NBQ2xCLGlCQUFpQjs7QUFFbEI7QUFJQTtJQUNJLDRCQUE0QjtJQUM1QixrQkFBa0I7SUFDbEIsa0JBQWtCO0lBQ2xCLGVBQWU7SUFDZixZQUFZO0dBQ2I7QUFFQTtJQUNDLDRCQUE0QjtJQUM1QixpQkFBaUI7SUFDakIsZUFBZTtJQUNmLGdCQUFnQjtJQUNoQixZQUFZO0lBQ1osV0FBVztBQUNmO0FBRUE7O0lBRUksZ0JBQWdCO0lBQ2hCLGdCQUFnQjtJQUNoQixtQkFBbUI7SUFDbkIsdUJBQXVCO0lBQ3ZCO0FBQ0o7QUFHQTtDQUNDLGtCQUFrQjtDQUNsQixpQkFBaUI7Q0FDakIscUNBQXFDO0NBQ3JDLFlBQVk7QUFDYjtBQUNBO0NBQ0MseUJBQXlCO0NBQ3pCLGNBQWM7Q0FDZCxtQ0FBbUM7Q0FDbkMsZ0JBQWdCO0NBQ2hCLHlCQUF5QjtDQUN6QixZQUFZOztBQUViO0FBQ0E7Q0FDQyxXQUFXO0NBQ1gseUJBQXlCO0NBQ3pCLHFDQUFxQztBQUN0QztBQUNBO0NBQ0MseUJBQXlCO0FBQzFCO0FBRUE7SUFDSSxXQUFXO0lBQ1gsWUFBWTtJQUNaLFlBQVk7SUFDWixlQUFlOztBQUVuQjtBQUVBO0lBQ0ksZ0JBQWdCO0lBQ2hCLG1CQUFtQjtJQUNuQixxQ0FBcUM7SUFDckMsZ0JBQWdCO0lBQ2hCLGdCQUFnQjtJQUNoQixjQUFjO0lBQ2QsZUFBZTtBQUNuQjtBQUNBO0lBQ0ksa0JBQWtCO0FBQ3RCO0FBRUE7SUFDSSx5QkFBeUI7SUFDekIsZ0JBQWdCO0lBQ2hCLFVBQVU7SUFDVixZQUFZO0lBQ1osc0JBQXNCO0lBQ3RCLFdBQVc7SUFDWCxxQ0FBcUM7QUFDekMiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2FkbWluLWNvbXBvbmVudHMvbm90ZXMvbm90ZXMtaW50ZXJuZXMvbm90ZXMtaW50ZXJuZXMuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9TW9udHNlcnJhdHxPcGVuK1NhbnN8Um9ib3RvJyk7XG4qe1xuIG1hcmdpbjowO1xuIHBhZGRpbmc6IDA7XG4gb3V0bGluZTogMDtcbn1cblxudGFibGV7XG4gICAgYm9yZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTtcbiAgICBib3JkZXItc3BhY2luZzogMDtcbiAgICBib3gtc2hhZG93OiAwIDJweCAxMHB4IHJnYmEoNjQsNjQsNjQsLjcpO1xuICAgIGJvcmRlci1yYWRpdXM6IDEycHggMTJweCAwIDA7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgICBtYXJnaW4tdG9wOiAycmVtO1xuICAgfVxudGh7XG4gcGFkZGluZzogMTVweCAyMHB4O1xuIHRleHQtYWxpZ246IGNlbnRlcjtcbiBmb250LXNpemU6IDE2LjVweDtcblxufVxuXG5cblxudGR7XG4gICAgZm9udC1mYW1pbHk6IFBvcHBpbnMtUmVndWxhcjtcbiAgICBwYWRkaW5nOiAzMHB4IDIwcHg7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICBjb2xvcjogYmxhY2s7XG4gICB9XG5cbiAgIHAge1xuICAgIGZvbnQtZmFtaWx5OiBQb3BwaW5zLVJlZ3VsYXI7XG4gICAgdGV4dC1hbGlnbjogc3RhcnQ7XG4gICAgZm9udC1zaXplOiAxNHB4O1xuICAgIGxpbmUtaGVpZ2h0OiAxLjc7XG4gICAgY29sb3I6IGJsYWNrO1xuICAgIG1hcmdpbjogMHB4O1xufVxuXG4ucGFnaW5hdGlvbntcbiAgICBcbiAgICBtYXJnaW4tbGVmdDogNzAlO1xuICAgIG1hcmdpbi10b3A6IDIycHg7XG4gICAgbWFyZ2luLWJvdHRvbTogMTBweDtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcbiAgICBwb3NpdGlvbjphYnNvbHV0ZVxufVxuXG5cbi5jb250ZW50e1xuIHRleHQtYWxpZ246IGNlbnRlcjtcbiBmb250LXNpemU6IDE2LjVweDtcbiBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmO1xuIGNvbG9yOiBibGFjaztcbn1cbnRoe1xuIGJhY2tncm91bmQtY29sb3I6ICM0RUNEQzQ7XG4gY29sb3I6ICNmYWZhZmE7XG4gZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnLFNhbnMtc2VyaWY7XG4gZm9udC13ZWlnaHQ6IDIwMDtcbiB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xuIHdpZHRoOiAxMDBweDtcblxufVxudHJ7XG4gd2lkdGg6IDEwMCU7XG4gYmFja2dyb3VuZC1jb2xvcjogI2ZhZmFmYTtcbiBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmO1xufVxudHI6bnRoLWNoaWxkKGV2ZW4pe1xuIGJhY2tncm91bmQtY29sb3I6ICNlZWVlZWU7XG59XG5cbmJ1dHRvbntcbiAgICB3aWR0aDogMjZweDtcbiAgICBoZWlnaHQ6IDI2cHg7XG4gICAgbWFyZ2luIDogMnB4O1xuICAgIGZvbnQtc2l6ZTogMTVweDtcbiAgICBcbn1cblxuaDMge1xuICAgIG1hcmdpbi10b3A6IDIwcHg7XG4gICAgbWFyZ2luLWJvdHRvbTogMTBweDtcbiAgICBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmO1xuICAgIGZvbnQtd2VpZ2h0OiA1MDA7XG4gICAgbGluZS1oZWlnaHQ6IDEuMTtcbiAgICBjb2xvcjogaW5oZXJpdDtcbiAgICBmb250LXNpemU6IDI0cHg7XG59XG4uY29udGFpbmVye1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLmJ0bm5vdGV7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzMzN2FiNztcbiAgICBtYXJnaW4tbGVmdDogMzUlOyBcbiAgICB3aWR0aDogMzAlO1xuICAgIGhlaWdodDogMjhweDtcbiAgICBib3JkZXItcmFkaXVzOiA1cHggNXB4O1xuICAgIGNvbG9yOndoaXRlO1xuICAgIGZvbnQtZmFtaWx5OiAnTW9udHNlcnJhdCcsIHNhbnMtc2VyaWY7XG59Il19 */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/notes-internes/notes-internes.component.ts":
-/*!**********************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/notes-internes/notes-internes.component.ts ***!
-  \**********************************************************************************************/
-/*! exports provided: NotesInternesComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NotesInternesComponent", function() { return NotesInternesComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-
-
-let NotesInternesComponent = class NotesInternesComponent {
-};
-NotesInternesComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-notes-internes',
-        template: __webpack_require__(/*! raw-loader!./notes-internes.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/notes-internes/notes-internes.component.html"),
-        styles: [__webpack_require__(/*! ./notes-internes.component.css */ "./src/app/components/admin-components/notes/notes-internes/notes-internes.component.css")]
-    })
-], NotesInternesComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/update-note/update-note.component.css":
-/*!*****************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/update-note/update-note.component.css ***!
-  \*****************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');\n#ui{\n    background-color: #3f4246;\n    padding: 30px;\n    margin-top: 50px;\n    box-shadow: 0 2px 10px rgba(64,64,64,.7);\n    border-radius: 12px 12px 12px 12px;\n}\n#ui label{\n    color : #fff;\n    font-family: 'Jost', sans-serif;\n    font-size: 16px;\n}\nh3 {\n    margin-bottom: 10px;\n    color : #fff;\n    font-family: 'Jost', sans-serif;\n    font-weight: 500;\n    line-height: 1.1;\n    font-size: 24px;\n}\n.btn{\n    background-color: #4ECDC4;\n   \n    margin-left: 28%;\n    top:80%;\n    width: 300px;\n    height: 30px;\n    border-radius: 5px 5px;\n    color:white;\n    font-family: 'Montserrat', sans-serif;\n    font-size: 15px;\n}\ninput{\n    color : black;\n    font-family: 'Jost', sans-serif;\n    font-size: 16px;\n}\neditor{\n    height: 250px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9hZG1pbi1jb21wb25lbnRzL25vdGVzL3VwZGF0ZS1ub3RlL3VwZGF0ZS1ub3RlLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBLHlFQUF5RTtBQUN6RTtJQUNJLHlCQUF5QjtJQUN6QixhQUFhO0lBQ2IsZ0JBQWdCO0lBQ2hCLHdDQUF3QztJQUN4QyxrQ0FBa0M7QUFDdEM7QUFFQTtJQUNJLFlBQVk7SUFDWiwrQkFBK0I7SUFDL0IsZUFBZTtBQUNuQjtBQUVBO0lBQ0ksbUJBQW1CO0lBQ25CLFlBQVk7SUFDWiwrQkFBK0I7SUFDL0IsZ0JBQWdCO0lBQ2hCLGdCQUFnQjtJQUNoQixlQUFlO0FBQ25CO0FBRUE7SUFDSSx5QkFBeUI7O0lBRXpCLGdCQUFnQjtJQUNoQixPQUFPO0lBQ1AsWUFBWTtJQUNaLFlBQVk7SUFDWixzQkFBc0I7SUFDdEIsV0FBVztJQUNYLHFDQUFxQztJQUNyQyxlQUFlO0FBQ25CO0FBRUE7SUFDSSxhQUFhO0lBQ2IsK0JBQStCO0lBQy9CLGVBQWU7QUFDbkI7QUFFQTtJQUNJLGFBQWE7QUFDakIiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2FkbWluLWNvbXBvbmVudHMvbm90ZXMvdXBkYXRlLW5vdGUvdXBkYXRlLW5vdGUuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIlxuQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9Sm9zdCZkaXNwbGF5PXN3YXAnKTtcbiN1aXtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjM2Y0MjQ2O1xuICAgIHBhZGRpbmc6IDMwcHg7XG4gICAgbWFyZ2luLXRvcDogNTBweDtcbiAgICBib3gtc2hhZG93OiAwIDJweCAxMHB4IHJnYmEoNjQsNjQsNjQsLjcpO1xuICAgIGJvcmRlci1yYWRpdXM6IDEycHggMTJweCAxMnB4IDEycHg7XG59XG5cbiN1aSBsYWJlbHtcbiAgICBjb2xvciA6ICNmZmY7XG4gICAgZm9udC1mYW1pbHk6ICdKb3N0Jywgc2Fucy1zZXJpZjtcbiAgICBmb250LXNpemU6IDE2cHg7XG59XG5cbmgzIHtcbiAgICBtYXJnaW4tYm90dG9tOiAxMHB4O1xuICAgIGNvbG9yIDogI2ZmZjtcbiAgICBmb250LWZhbWlseTogJ0pvc3QnLCBzYW5zLXNlcmlmO1xuICAgIGZvbnQtd2VpZ2h0OiA1MDA7XG4gICAgbGluZS1oZWlnaHQ6IDEuMTtcbiAgICBmb250LXNpemU6IDI0cHg7XG59XG5cbi5idG57XG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzRFQ0RDNDtcbiAgIFxuICAgIG1hcmdpbi1sZWZ0OiAyOCU7XG4gICAgdG9wOjgwJTtcbiAgICB3aWR0aDogMzAwcHg7XG4gICAgaGVpZ2h0OiAzMHB4O1xuICAgIGJvcmRlci1yYWRpdXM6IDVweCA1cHg7XG4gICAgY29sb3I6d2hpdGU7XG4gICAgZm9udC1mYW1pbHk6ICdNb250c2VycmF0Jywgc2Fucy1zZXJpZjtcbiAgICBmb250LXNpemU6IDE1cHg7XG59XG5cbmlucHV0e1xuICAgIGNvbG9yIDogYmxhY2s7XG4gICAgZm9udC1mYW1pbHk6ICdKb3N0Jywgc2Fucy1zZXJpZjtcbiAgICBmb250LXNpemU6IDE2cHg7XG59XG5cbmVkaXRvcntcbiAgICBoZWlnaHQ6IDI1MHB4O1xufSJdfQ== */"
-
-/***/ }),
-
-/***/ "./src/app/components/admin-components/notes/update-note/update-note.component.ts":
-/*!****************************************************************************************!*\
-  !*** ./src/app/components/admin-components/notes/update-note/update-note.component.ts ***!
-  \****************************************************************************************/
-/*! exports provided: UpdateNoteComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "UpdateNoteComponent", function() { return UpdateNoteComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-/* harmony import */ var src_app_services_noteinterne_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! src/app/services/noteinterne.service */ "./src/app/services/noteinterne.service.ts");
-
-
-
-
-let UpdateNoteComponent = class UpdateNoteComponent {
-    constructor(noteInterneService, router) {
-        this.noteInterneService = noteInterneService;
-        this.router = router;
-    }
-    ngOnInit() {
-        this.noteInterne = this.noteInterneService.getter();
-    }
-    processForm() {
-        this.noteInterneService.updateNoteInterne(this.noteInterne).subscribe((noteInterne) => {
-            console.log(noteInterne);
-            this.router.navigate(['/notesInternes']);
-        }, (error) => {
-            console.log(error);
-        });
-    }
-};
-UpdateNoteComponent.ctorParameters = () => [
-    { type: src_app_services_noteinterne_service__WEBPACK_IMPORTED_MODULE_3__["NoteinterneService"] },
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"] }
-];
-UpdateNoteComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-update-note',
-        template: __webpack_require__(/*! raw-loader!./update-note.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/notes/update-note/update-note.component.html"),
-        styles: [__webpack_require__(/*! ./update-note.component.css */ "./src/app/components/admin-components/notes/update-note/update-note.component.css")]
-    })
-], UpdateNoteComponent);
 
 
 
@@ -6054,7 +5238,7 @@ PostJobComponent.ctorParameters = () => [
 PostJobComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-post-job',
-        template: __webpack_require__(/*! raw-loader!./post-job.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/post-job/post-job.component.html"),
+        template: __webpack_require__(/*! raw-loader!./post-job.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/post-job/post-job.component.html"),
         styles: [__webpack_require__(/*! ./post-job.component.css */ "./src/app/components/admin-components/post-job/post-job.component.css")]
     })
 ], PostJobComponent);
@@ -6141,7 +5325,7 @@ ProfilCandidatComponent.ctorParameters = () => [
 ProfilCandidatComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-profil-candidat',
-        template: __webpack_require__(/*! raw-loader!./profil-candidat.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/profil-candidat/profil-candidat.component.html"),
+        template: __webpack_require__(/*! raw-loader!./profil-candidat.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/profil-candidat/profil-candidat.component.html"),
         styles: [__webpack_require__(/*! ./profil-candidat.component.css */ "./src/app/components/admin-components/profil-candidat/profil-candidat.component.css")]
     })
 ], ProfilCandidatComponent);
@@ -6228,7 +5412,7 @@ ProfileEmployeComponent.ctorParameters = () => [
 ProfileEmployeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-profile-employe',
-        template: __webpack_require__(/*! raw-loader!./profile-employe.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/profile-employe/profile-employe.component.html"),
+        template: __webpack_require__(/*! raw-loader!./profile-employe.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/profile-employe/profile-employe.component.html"),
         styles: [__webpack_require__(/*! ./profile-employe.component.css */ "./src/app/components/admin-components/profile-employe/profile-employe.component.css")]
     })
 ], ProfileEmployeComponent);
@@ -6424,7 +5608,7 @@ RecruitmentComponent.ctorParameters = () => [
 RecruitmentComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-recruitment',
-        template: __webpack_require__(/*! raw-loader!./recruitment.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/recruitment/recruitment.component.html"),
+        template: __webpack_require__(/*! raw-loader!./recruitment.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/recruitment/recruitment.component.html"),
         styles: [__webpack_require__(/*! ./recruitment.component.css */ "./src/app/components/admin-components/recruitment/recruitment.component.css")]
     })
 ], RecruitmentComponent);
@@ -6599,7 +5783,7 @@ RecrutementsComponent.ctorParameters = () => [
 RecrutementsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-recrutements',
-        template: __webpack_require__(/*! raw-loader!./recrutements.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/recrutements/recrutements.component.html"),
+        template: __webpack_require__(/*! raw-loader!./recrutements.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/recrutements/recrutements.component.html"),
         styles: [__webpack_require__(/*! ./recrutements.component.css */ "./src/app/components/admin-components/recrutements/recrutements.component.css")]
     })
 ], RecrutementsComponent);
@@ -6663,7 +5847,7 @@ UpdateEmployeComponent.ctorParameters = () => [
 UpdateEmployeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-update-employe',
-        template: __webpack_require__(/*! raw-loader!./update-employe.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/update-employe/update-employe.component.html"),
+        template: __webpack_require__(/*! raw-loader!./update-employe.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/update-employe/update-employe.component.html"),
         styles: [__webpack_require__(/*! ./update-employe.component.css */ "./src/app/components/admin-components/update-employe/update-employe.component.css")]
     })
 ], UpdateEmployeComponent);
@@ -6745,7 +5929,7 @@ UpdatePhotoComponent.ctorParameters = () => [
 UpdatePhotoComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-update-photo',
-        template: __webpack_require__(/*! raw-loader!./update-photo.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/update-photo/update-photo.component.html"),
+        template: __webpack_require__(/*! raw-loader!./update-photo.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/update-photo/update-photo.component.html"),
         styles: [__webpack_require__(/*! ./update-photo.component.css */ "./src/app/components/admin-components/update-photo/update-photo.component.css")]
     })
 ], UpdatePhotoComponent);
@@ -6915,7 +6099,7 @@ ViewApplicantsComponent.ctorParameters = () => [
 ViewApplicantsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-view-applicants',
-        template: __webpack_require__(/*! raw-loader!./view-applicants.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/view-applicants/view-applicants.component.html"),
+        template: __webpack_require__(/*! raw-loader!./view-applicants.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/view-applicants/view-applicants.component.html"),
         styles: [__webpack_require__(/*! ./view-applicants.component.css */ "./src/app/components/admin-components/view-applicants/view-applicants.component.css")]
     })
 ], ViewApplicantsComponent);
@@ -6990,7 +6174,7 @@ ViewPopupComponent.ctorParameters = () => [
 ViewPopupComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-view-popup',
-        template: __webpack_require__(/*! raw-loader!./view-popup.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.html"),
+        template: __webpack_require__(/*! raw-loader!./view-popup.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.html"),
         styles: [__webpack_require__(/*! ./view-popup.component.css */ "./src/app/components/admin-components/view-applicants/view-popup/view-popup.component.css")]
     }),
     tslib__WEBPACK_IMPORTED_MODULE_0__["__param"](2, Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Inject"])(_angular_material__WEBPACK_IMPORTED_MODULE_2__["MAT_DIALOG_DATA"]))
@@ -7050,7 +6234,7 @@ EditPopupComponent.ctorParameters = () => [
 EditPopupComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-edit-popup',
-        template: __webpack_require__(/*! raw-loader!./edit-popup.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.html"),
+        template: __webpack_require__(/*! raw-loader!./edit-popup.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.html"),
         styles: [__webpack_require__(/*! ./edit-popup.component.css */ "./src/app/components/admin-components/view-posting/edit-popup/edit-popup.component.css")]
     }),
     tslib__WEBPACK_IMPORTED_MODULE_0__["__param"](2, Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Inject"])(_angular_material__WEBPACK_IMPORTED_MODULE_2__["MAT_DIALOG_DATA"]))
@@ -7189,7 +6373,7 @@ ViewPostingComponent.ctorParameters = () => [
 ViewPostingComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-view-posting',
-        template: __webpack_require__(/*! raw-loader!./view-posting.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/admin-components/view-posting/view-posting.component.html"),
+        template: __webpack_require__(/*! raw-loader!./view-posting.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/admin-components/view-posting/view-posting.component.html"),
         styles: [__webpack_require__(/*! ./view-posting.component.css */ "./src/app/components/admin-components/view-posting/view-posting.component.css")]
     })
 ], ViewPostingComponent);
@@ -7278,7 +6462,7 @@ InfoCandidateComponent.ctorParameters = () => [
 InfoCandidateComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-info-candidate',
-        template: __webpack_require__(/*! raw-loader!./info-candidate.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/candidate-components/info-candidate/info-candidate.component.html"),
+        template: __webpack_require__(/*! raw-loader!./info-candidate.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/candidate-components/info-candidate/info-candidate.component.html"),
         styles: [__webpack_require__(/*! ./info-candidate.component.css */ "./src/app/components/candidate-components/info-candidate/info-candidate.component.css")]
     })
 ], InfoCandidateComponent);
@@ -7320,52 +6504,10 @@ let ResponseComponent = class ResponseComponent {
 ResponseComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-response',
-        template: __webpack_require__(/*! raw-loader!./response.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/candidate-components/response/response.component.html"),
+        template: __webpack_require__(/*! raw-loader!./response.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/candidate-components/response/response.component.html"),
         styles: [__webpack_require__(/*! ./response.component.css */ "./src/app/components/candidate-components/response/response.component.css")]
     })
 ], ResponseComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/cards/cards.component.css":
-/*!******************************************************!*\
-  !*** ./src/app/components/cards/cards.component.css ***!
-  \******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvY2FyZHMvY2FyZHMuY29tcG9uZW50LmNzcyJ9 */"
-
-/***/ }),
-
-/***/ "./src/app/components/cards/cards.component.ts":
-/*!*****************************************************!*\
-  !*** ./src/app/components/cards/cards.component.ts ***!
-  \*****************************************************/
-/*! exports provided: CardsComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CardsComponent", function() { return CardsComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-
-
-let CardsComponent = class CardsComponent {
-    constructor() { }
-    ngOnInit() {
-    }
-};
-CardsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-cards',
-        template: __webpack_require__(/*! raw-loader!./cards.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/cards/cards.component.html"),
-        styles: [__webpack_require__(/*! ./cards.component.css */ "./src/app/components/cards/cards.component.css")]
-    })
-], CardsComponent);
 
 
 
@@ -7404,7 +6546,7 @@ let DashboardComponent = class DashboardComponent {
 DashboardComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-dashboard',
-        template: __webpack_require__(/*! raw-loader!./dashboard.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/dashboard/dashboard.component.html"),
+        template: __webpack_require__(/*! raw-loader!./dashboard.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/dashboard/dashboard.component.html"),
         styles: [__webpack_require__(/*! ./dashboard.component.css */ "./src/app/components/dashboard/dashboard.component.css")]
     })
 ], DashboardComponent);
@@ -7499,7 +6641,7 @@ ApplicationsPopupComponent.ctorParameters = () => [
 ApplicationsPopupComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-applications-popup',
-        template: __webpack_require__(/*! raw-loader!./applications-popup.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/applications/applications-popup/applications-popup.component.html"),
+        template: __webpack_require__(/*! raw-loader!./applications-popup.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/applications/applications-popup/applications-popup.component.html"),
         styles: [__webpack_require__(/*! ./applications-popup.component.css */ "./src/app/components/employe-components/applications/applications-popup/applications-popup.component.css")]
     }),
     tslib__WEBPACK_IMPORTED_MODULE_0__["__param"](5, Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Inject"])(_angular_material__WEBPACK_IMPORTED_MODULE_2__["MAT_DIALOG_DATA"]))
@@ -7606,7 +6748,7 @@ ApplicationsComponent.ctorParameters = () => [
 ApplicationsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-applications',
-        template: __webpack_require__(/*! raw-loader!./applications.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/applications/applications.component.html"),
+        template: __webpack_require__(/*! raw-loader!./applications.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/applications/applications.component.html"),
         styles: [__webpack_require__(/*! ./applications.component.css */ "./src/app/components/employe-components/applications/applications.component.css")]
     })
 ], ApplicationsComponent);
@@ -7744,7 +6886,7 @@ CandProfileComponent.ctorParameters = () => [
 CandProfileComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-cand-profile',
-        template: __webpack_require__(/*! raw-loader!./cand-profile.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/cand-profile/cand-profile.component.html"),
+        template: __webpack_require__(/*! raw-loader!./cand-profile.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/cand-profile/cand-profile.component.html"),
         styles: [__webpack_require__(/*! ./cand-profile.component.css */ "./src/app/components/employe-components/cand-profile/cand-profile.component.css")]
     })
 ], CandProfileComponent);
@@ -7796,7 +6938,7 @@ CanFormPopupComponent.ctorParameters = () => [
 CanFormPopupComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-can-form-popup',
-        template: __webpack_require__(/*! raw-loader!./can-form-popup.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.html"),
+        template: __webpack_require__(/*! raw-loader!./can-form-popup.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.html"),
         styles: [__webpack_require__(/*! ./can-form-popup.component.css */ "./src/app/components/employe-components/candidate-form/can-form-popup/can-form-popup.component.css")]
     })
 ], CanFormPopupComponent);
@@ -8100,7 +7242,7 @@ tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 CandidateFormComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-candidate-form',
-        template: __webpack_require__(/*! raw-loader!./candidate-form.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/candidate-form/candidate-form.component.html"),
+        template: __webpack_require__(/*! raw-loader!./candidate-form.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/candidate-form/candidate-form.component.html"),
         providers: [{
                 provide: _angular_cdk_stepper__WEBPACK_IMPORTED_MODULE_3__["STEPPER_GLOBAL_OPTIONS"], useValue: { showError: true }
             }],
@@ -8191,7 +7333,7 @@ CandidatureComponent.ctorParameters = () => [
 CandidatureComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'candidature',
-        template: __webpack_require__(/*! raw-loader!./candidature.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/candidature/candidature.component.html"),
+        template: __webpack_require__(/*! raw-loader!./candidature.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/candidature/candidature.component.html"),
         styles: [__webpack_require__(/*! ./candidature.component.css */ "./src/app/components/employe-components/candidature/candidature.component.css")]
     })
 ], CandidatureComponent);
@@ -8241,7 +7383,7 @@ InfoEmployeComponent.ctorParameters = () => [
 InfoEmployeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-info-employe',
-        template: __webpack_require__(/*! raw-loader!./info-employe.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/info-employe/info-employe.component.html"),
+        template: __webpack_require__(/*! raw-loader!./info-employe.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/info-employe/info-employe.component.html"),
         styles: [__webpack_require__(/*! ./info-employe.component.css */ "./src/app/components/employe-components/info-employe/info-employe.component.css")]
     })
 ], InfoEmployeComponent);
@@ -8610,7 +7752,7 @@ tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 JobappFormCreateComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-jobapp-form-create',
-        template: __webpack_require__(/*! raw-loader!./jobapp-form-create.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.html"),
+        template: __webpack_require__(/*! raw-loader!./jobapp-form-create.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form-create/jobapp-form-create.component.html"),
         providers: [{
                 provide: _angular_cdk_stepper__WEBPACK_IMPORTED_MODULE_3__["STEPPER_GLOBAL_OPTIONS"], useValue: { showError: true }
             }],
@@ -8660,7 +7802,7 @@ tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 JobappFormReviewComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-jobapp-form-review',
-        template: __webpack_require__(/*! raw-loader!./jobapp-form-review.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.html"),
+        template: __webpack_require__(/*! raw-loader!./jobapp-form-review.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.html"),
         styles: [__webpack_require__(/*! ./jobapp-form-review.component.css */ "./src/app/components/employe-components/jobapp-form/jobapp-form-review/jobapp-form-review.component.css")]
     })
 ], JobappFormReviewComponent);
@@ -8724,7 +7866,7 @@ JobappFormComponent.ctorParameters = () => [
 JobappFormComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-jobapp-form',
-        template: __webpack_require__(/*! raw-loader!./jobapp-form.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form.component.html"),
+        template: __webpack_require__(/*! raw-loader!./jobapp-form.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobapp-form/jobapp-form.component.html"),
         styles: [__webpack_require__(/*! ./jobapp-form.component.css */ "./src/app/components/employe-components/jobapp-form/jobapp-form.component.css")]
     })
 ], JobappFormComponent);
@@ -8940,7 +8082,7 @@ JobspagePopupComponent.ctorParameters = () => [
 JobspagePopupComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-jobspage-popup',
-        template: __webpack_require__(/*! raw-loader!./jobspage-popup.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.html"),
+        template: __webpack_require__(/*! raw-loader!./jobspage-popup.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.html"),
         styles: [__webpack_require__(/*! ./jobspage-popup.component.css */ "./src/app/components/employe-components/jobspage/jobspage-popup/jobspage-popup.component.css")]
     }),
     tslib__WEBPACK_IMPORTED_MODULE_0__["__param"](6, Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Inject"])(_angular_material__WEBPACK_IMPORTED_MODULE_2__["MAT_DIALOG_DATA"]))
@@ -9001,8 +8143,7 @@ let JobspageComponent = class JobspageComponent {
         this.UserService = UserService;
         this.AuthService = AuthService;
         this.jobtypes = [
-            { value: 'Internship', viewValue: 'Internship' },
-            { value: 'Co-op', viewValue: 'Co-op' },
+            { value: 'Stage', viewValue: 'Stage' },
             { value: 'Full Time', viewValue: 'Full Time' },
             { value: 'Part Time', viewValue: 'Part Time' }
         ];
@@ -9108,7 +8249,7 @@ JobspageComponent.ctorParameters = () => [
 JobspageComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-jobspage',
-        template: __webpack_require__(/*! raw-loader!./jobspage.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/jobspage/jobspage.component.html"),
+        template: __webpack_require__(/*! raw-loader!./jobspage.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/jobspage/jobspage.component.html"),
         styles: [__webpack_require__(/*! ./jobspage.component.css */ "./src/app/components/employe-components/jobspage/jobspage.component.css")]
     })
 ], JobspageComponent);
@@ -9197,7 +8338,7 @@ MyfavjobPopupComponent.ctorParameters = () => [
 MyfavjobPopupComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-myfavjob-popup',
-        template: __webpack_require__(/*! raw-loader!./myfavjob-popup.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.html"),
+        template: __webpack_require__(/*! raw-loader!./myfavjob-popup.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.html"),
         styles: [__webpack_require__(/*! ./myfavjob-popup.component.css */ "./src/app/components/employe-components/myfavjob/myfavjob-popup/myfavjob-popup.component.css")]
     }),
     tslib__WEBPACK_IMPORTED_MODULE_0__["__param"](4, Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Inject"])(_angular_material__WEBPACK_IMPORTED_MODULE_2__["MAT_DIALOG_DATA"]))
@@ -9325,7 +8466,7 @@ MyfavjobComponent.ctorParameters = () => [
 MyfavjobComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-myfavjob',
-        template: __webpack_require__(/*! raw-loader!./myfavjob.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/myfavjob/myfavjob.component.html"),
+        template: __webpack_require__(/*! raw-loader!./myfavjob.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/myfavjob/myfavjob.component.html"),
         styles: [__webpack_require__(/*! ./myfavjob.component.css */ "./src/app/components/employe-components/myfavjob/myfavjob.component.css")]
     })
 ], MyfavjobComponent);
@@ -9420,7 +8561,7 @@ OffresActuellesComponent.ctorParameters = () => [
 OffresActuellesComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-offres-actuelles',
-        template: __webpack_require__(/*! raw-loader!./offres-actuelles.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.html"),
+        template: __webpack_require__(/*! raw-loader!./offres-actuelles.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.html"),
         styles: [__webpack_require__(/*! ./offres-actuelles.component.css */ "./src/app/components/employe-components/offres-actuelles/offres-actuelles.component.css")]
     })
 ], OffresActuellesComponent);
@@ -9480,7 +8621,7 @@ UpdateInfoEmployeComponent.ctorParameters = () => [
 UpdateInfoEmployeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-update-info-employe',
-        template: __webpack_require__(/*! raw-loader!./update-info-employe.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/employe-components/update-info-employe/update-info-employe.component.html"),
+        template: __webpack_require__(/*! raw-loader!./update-info-employe.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/employe-components/update-info-employe/update-info-employe.component.html"),
         styles: [__webpack_require__(/*! ./update-info-employe.component.css */ "./src/app/components/employe-components/update-info-employe/update-info-employe.component.css")]
     })
 ], UpdateInfoEmployeComponent);
@@ -9522,7 +8663,7 @@ let FooterComponent = class FooterComponent {
 FooterComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-footer',
-        template: __webpack_require__(/*! raw-loader!./footer.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/footer/footer.component.html"),
+        template: __webpack_require__(/*! raw-loader!./footer.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/footer/footer.component.html"),
         styles: [__webpack_require__(/*! ./footer.component.css */ "./src/app/components/footer/footer.component.css")]
     })
 ], FooterComponent);
@@ -9564,7 +8705,7 @@ let HomeComponent = class HomeComponent {
 HomeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-home',
-        template: __webpack_require__(/*! raw-loader!./home.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/home/home.component.html"),
+        template: __webpack_require__(/*! raw-loader!./home.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/home/home.component.html"),
         styles: [__webpack_require__(/*! ./home.component.css */ "./src/app/components/home/home.component.css")]
     })
 ], HomeComponent);
@@ -9643,7 +8784,7 @@ LoginComponent.ctorParameters = () => [
 LoginComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-login',
-        template: __webpack_require__(/*! raw-loader!./login.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/login/login.component.html"),
+        template: __webpack_require__(/*! raw-loader!./login.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/login/login.component.html"),
         styles: [__webpack_require__(/*! ./login.component.css */ "./src/app/components/login/login.component.css")]
     })
 ], LoginComponent);
@@ -9716,7 +8857,7 @@ RegisterComponent.ctorParameters = () => [
 RegisterComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-register',
-        template: __webpack_require__(/*! raw-loader!./register.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/register/register.component.html"),
+        template: __webpack_require__(/*! raw-loader!./register.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/register/register.component.html"),
         styles: [__webpack_require__(/*! ./register.component.css */ "./src/app/components/register/register.component.css")]
     })
 ], RegisterComponent);
@@ -9732,7 +8873,7 @@ RegisterComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "@import url(\"https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto\");\n/* width */\n::-webkit-scrollbar {\n  width: 3px;\n  z-index: auto;\n  background: rgba(3, 3, 3, 0);\n  cursor: default;\n  position: fixed;\n  top: 0px;\n  left: 207px;\n  height: 657px;\n  opacity: 0;\n}\n/* Track */\n::-webkit-scrollbar-track {\n  background: #f1f1f1;\n}\n/* Handle */\n::-webkit-scrollbar-thumb {\n  background: #F29E38;\n}\n/* Handle on hover */\n::-webkit-scrollbar-thumb:hover {\n  background: rgba(3, 3, 3, 0);\n}\n.row {\n  display: flex;\n  flex-wrap: wrap;\n  margin-right: -7.5px;\n  margin-left: -7.5px;\n}\np {\n  font-size: 15px;\n  font-family: \"Montserrat\", sans-serif;\n  color: #fff;\n}\nli ul li a {\n  diplay: block;\n}\nli ul li {\n  margin-left: 15px;\n  margin-bottom: -15px;\n  margin-top: -15px;\n}\nli ul {\n  margin-top: 5px;\n}\n[id^=btn] :checked + ul {\n  display: block;\n}\n.fas fa-caret-down {\n  float: right;\n}\n.p {\n  margin-left: 20%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi93b3Jrc3BhY2UvbmV4dHJlY3J1aXRtZW50L1Byb2plY3QvZnJvbnRlbmQvc3JjL2FwcC9jb21wb25lbnRzL3NpZGViYXIvc2lkZWJhci5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9zaWRlYmFyL3NpZGViYXIuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQVEsa0ZBQUE7QUFDUixVQUFBO0FBQ0E7RUFDSSxVQUFBO0VBQVksYUFBQTtFQUFlLDRCQUFBO0VBQThCLGVBQUE7RUFBaUIsZUFBQTtFQUFpQixRQUFBO0VBQVUsV0FBQTtFQUFhLGFBQUE7RUFBZSxVQUFBO0FDU3JJO0FETkUsVUFBQTtBQUNBO0VBQ0UsbUJBQUE7QUNTSjtBRE5FLFdBQUE7QUFDQTtFQUNFLG1CQUFBO0FDU0o7QURORSxvQkFBQTtBQUNBO0VBQ0UsNEJBQUE7QUNTSjtBRE5FO0VBRUUsYUFBQTtFQUVBLGVBQUE7RUFDQSxvQkFBQTtFQUNBLG1CQUFBO0FDU0o7QUROQTtFQUNFLGVBQUE7RUFDQSxxQ0FBQTtFQUNBLFdBQUE7QUNTRjtBRE5BO0VBQ0UsYUFBQTtBQ1NGO0FETEE7RUFDQSxpQkFBQTtFQUNBLG9CQUFBO0VBQ0EsaUJBQUE7QUNRQTtBRExBO0VBQ0UsZUFBQTtBQ1FGO0FETEE7RUFDRSxjQUFBO0FDUUY7QURBQTtFQUNFLFlBQUE7QUNHRjtBREFBO0VBQ0UsZ0JBQUE7QUNHRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvc2lkZWJhci9zaWRlYmFyLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Nb250c2VycmF0fE9wZW4rU2Fuc3xSb2JvdG8nKTtcbi8qIHdpZHRoICovXG46Oi13ZWJraXQtc2Nyb2xsYmFyIHtcbiAgICB3aWR0aDogM3B4OyB6LWluZGV4OiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2JhKDMsIDMsIDMsIDApOyBjdXJzb3I6IGRlZmF1bHQ7IHBvc2l0aW9uOiBmaXhlZDsgdG9wOiAwcHg7IGxlZnQ6IDIwN3B4OyBoZWlnaHQ6IDY1N3B4OyBvcGFjaXR5OiAwO1xuICB9XG4gIFxuICAvKiBUcmFjayAqL1xuICA6Oi13ZWJraXQtc2Nyb2xsYmFyLXRyYWNrIHtcbiAgICBiYWNrZ3JvdW5kOiAjZjFmMWYxOyBcbiAgfVxuICAgXG4gIC8qIEhhbmRsZSAqL1xuICA6Oi13ZWJraXQtc2Nyb2xsYmFyLXRodW1iIHtcbiAgICBiYWNrZ3JvdW5kOiAjRjI5RTM4OyBcbiAgfVxuICBcbiAgLyogSGFuZGxlIG9uIGhvdmVyICovXG4gIDo6LXdlYmtpdC1zY3JvbGxiYXItdGh1bWI6aG92ZXIge1xuICAgIGJhY2tncm91bmQ6IHJnYmEoMywgMywgMywgMCk7IFxuICB9XG5cbiAgLnJvdyB7XG4gICAgZGlzcGxheTogLW1zLWZsZXhib3g7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICAtbXMtZmxleC13cmFwOiB3cmFwO1xuICAgIGZsZXgtd3JhcDogd3JhcDtcbiAgICBtYXJnaW4tcmlnaHQ6IC03LjVweDtcbiAgICBtYXJnaW4tbGVmdDogLTcuNXB4O1xufVxuXG5we1xuICBmb250LXNpemU6IDE1cHg7XG4gIGZvbnQtZmFtaWx5OiAnTW9udHNlcnJhdCcsIHNhbnMtc2VyaWY7XG4gIGNvbG9yOiAjZmZmO1xufVxuXG5saSB1bCBsaSBhIHtcbiAgZGlwbGF5OmJsb2NrO1xuXG59XG5cbmxpIHVsIGxpIHtcbm1hcmdpbi1sZWZ0OjE1cHg7XG5tYXJnaW4tYm90dG9tOiAtMTVweDtcbm1hcmdpbi10b3A6IC0xNXB4O1xuXG59XG5saSB1bCB7XG4gIG1hcmdpbi10b3A6IDVweDs7XG59XG5cbltpZF49YnRuXSA6Y2hlY2tlZCArIHVsIHtcbiAgZGlzcGxheTpibG9jaztcbn1cblxuZGl2IHVsIGxpIHtcblxufVxuXG5cbi5mYXMgZmEtY2FyZXQtZG93bntcbiAgZmxvYXQ6cmlnaHQ7XG59XG5cbi5we1xuICBtYXJnaW4tbGVmdDogMjAlO1xufVxuXG5cblxuXG5cblxuXG5cbiAgXG4gICAgICAiLCJAaW1wb3J0IHVybChcImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Nb250c2VycmF0fE9wZW4rU2Fuc3xSb2JvdG9cIik7XG4vKiB3aWR0aCAqL1xuOjotd2Via2l0LXNjcm9sbGJhciB7XG4gIHdpZHRoOiAzcHg7XG4gIHotaW5kZXg6IGF1dG87XG4gIGJhY2tncm91bmQ6IHJnYmEoMywgMywgMywgMCk7XG4gIGN1cnNvcjogZGVmYXVsdDtcbiAgcG9zaXRpb246IGZpeGVkO1xuICB0b3A6IDBweDtcbiAgbGVmdDogMjA3cHg7XG4gIGhlaWdodDogNjU3cHg7XG4gIG9wYWNpdHk6IDA7XG59XG5cbi8qIFRyYWNrICovXG46Oi13ZWJraXQtc2Nyb2xsYmFyLXRyYWNrIHtcbiAgYmFja2dyb3VuZDogI2YxZjFmMTtcbn1cblxuLyogSGFuZGxlICovXG46Oi13ZWJraXQtc2Nyb2xsYmFyLXRodW1iIHtcbiAgYmFja2dyb3VuZDogI0YyOUUzODtcbn1cblxuLyogSGFuZGxlIG9uIGhvdmVyICovXG46Oi13ZWJraXQtc2Nyb2xsYmFyLXRodW1iOmhvdmVyIHtcbiAgYmFja2dyb3VuZDogcmdiYSgzLCAzLCAzLCAwKTtcbn1cblxuLnJvdyB7XG4gIGRpc3BsYXk6IC1tcy1mbGV4Ym94O1xuICBkaXNwbGF5OiBmbGV4O1xuICAtbXMtZmxleC13cmFwOiB3cmFwO1xuICBmbGV4LXdyYXA6IHdyYXA7XG4gIG1hcmdpbi1yaWdodDogLTcuNXB4O1xuICBtYXJnaW4tbGVmdDogLTcuNXB4O1xufVxuXG5wIHtcbiAgZm9udC1zaXplOiAxNXB4O1xuICBmb250LWZhbWlseTogXCJNb250c2VycmF0XCIsIHNhbnMtc2VyaWY7XG4gIGNvbG9yOiAjZmZmO1xufVxuXG5saSB1bCBsaSBhIHtcbiAgZGlwbGF5OiBibG9jaztcbn1cblxubGkgdWwgbGkge1xuICBtYXJnaW4tbGVmdDogMTVweDtcbiAgbWFyZ2luLWJvdHRvbTogLTE1cHg7XG4gIG1hcmdpbi10b3A6IC0xNXB4O1xufVxuXG5saSB1bCB7XG4gIG1hcmdpbi10b3A6IDVweDtcbn1cblxuW2lkXj1idG5dIDpjaGVja2VkICsgdWwge1xuICBkaXNwbGF5OiBibG9jaztcbn1cblxuLmZhcyBmYS1jYXJldC1kb3duIHtcbiAgZmxvYXQ6IHJpZ2h0O1xufVxuXG4ucCB7XG4gIG1hcmdpbi1sZWZ0OiAyMCU7XG59Il19 */"
+module.exports = "@import url(\"https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto\");\n/* width */\n::-webkit-scrollbar {\n  width: 3px;\n  z-index: auto;\n  background: rgba(3, 3, 3, 0);\n  cursor: default;\n  position: fixed;\n  top: 0px;\n  left: 207px;\n  height: 657px;\n  opacity: 0;\n}\n/* Track */\n::-webkit-scrollbar-track {\n  background: #f1f1f1;\n}\n/* Handle */\n::-webkit-scrollbar-thumb {\n  background: #F29E38;\n}\n/* Handle on hover */\n::-webkit-scrollbar-thumb:hover {\n  background: rgba(3, 3, 3, 0);\n}\n.row {\n  display: flex;\n  flex-wrap: wrap;\n  margin-right: -7.5px;\n  margin-left: -7.5px;\n}\np {\n  font-size: 15px;\n  font-family: \"Montserrat\", sans-serif;\n  color: #fff;\n}\nli ul li a {\n  diplay: block;\n}\nli ul li {\n  margin-left: 15px;\n  margin-bottom: -15px;\n  margin-top: -15px;\n}\nli ul {\n  margin-top: 5px;\n}\n[id^=btn] :checked + ul {\n  display: block;\n}\n.fas fa-caret-down {\n  float: right;\n}\n.p {\n  margin-left: 20%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi93b3Jrc3BhY2UvcGZlL2Zyb250ZW5kL3NyYy9hcHAvY29tcG9uZW50cy9zaWRlYmFyL3NpZGViYXIuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvc2lkZWJhci9zaWRlYmFyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFRLGtGQUFBO0FBQ1IsVUFBQTtBQUNBO0VBQ0ksVUFBQTtFQUFZLGFBQUE7RUFBZSw0QkFBQTtFQUE4QixlQUFBO0VBQWlCLGVBQUE7RUFBaUIsUUFBQTtFQUFVLFdBQUE7RUFBYSxhQUFBO0VBQWUsVUFBQTtBQ1NySTtBRE5FLFVBQUE7QUFDQTtFQUNFLG1CQUFBO0FDU0o7QURORSxXQUFBO0FBQ0E7RUFDRSxtQkFBQTtBQ1NKO0FETkUsb0JBQUE7QUFDQTtFQUNFLDRCQUFBO0FDU0o7QURORTtFQUVFLGFBQUE7RUFFQSxlQUFBO0VBQ0Esb0JBQUE7RUFDQSxtQkFBQTtBQ1NKO0FETkE7RUFDRSxlQUFBO0VBQ0EscUNBQUE7RUFDQSxXQUFBO0FDU0Y7QUROQTtFQUNFLGFBQUE7QUNTRjtBRExBO0VBQ0EsaUJBQUE7RUFDQSxvQkFBQTtFQUNBLGlCQUFBO0FDUUE7QURMQTtFQUNFLGVBQUE7QUNRRjtBRExBO0VBQ0UsY0FBQTtBQ1FGO0FEQUE7RUFDRSxZQUFBO0FDR0Y7QURBQTtFQUNFLGdCQUFBO0FDR0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL3NpZGViYXIvc2lkZWJhci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9TW9udHNlcnJhdHxPcGVuK1NhbnN8Um9ib3RvJyk7XG4vKiB3aWR0aCAqL1xuOjotd2Via2l0LXNjcm9sbGJhciB7XG4gICAgd2lkdGg6IDNweDsgei1pbmRleDogYXV0bzsgYmFja2dyb3VuZDogcmdiYSgzLCAzLCAzLCAwKTsgY3Vyc29yOiBkZWZhdWx0OyBwb3NpdGlvbjogZml4ZWQ7IHRvcDogMHB4OyBsZWZ0OiAyMDdweDsgaGVpZ2h0OiA2NTdweDsgb3BhY2l0eTogMDtcbiAgfVxuICBcbiAgLyogVHJhY2sgKi9cbiAgOjotd2Via2l0LXNjcm9sbGJhci10cmFjayB7XG4gICAgYmFja2dyb3VuZDogI2YxZjFmMTsgXG4gIH1cbiAgIFxuICAvKiBIYW5kbGUgKi9cbiAgOjotd2Via2l0LXNjcm9sbGJhci10aHVtYiB7XG4gICAgYmFja2dyb3VuZDogI0YyOUUzODsgXG4gIH1cbiAgXG4gIC8qIEhhbmRsZSBvbiBob3ZlciAqL1xuICA6Oi13ZWJraXQtc2Nyb2xsYmFyLXRodW1iOmhvdmVyIHtcbiAgICBiYWNrZ3JvdW5kOiByZ2JhKDMsIDMsIDMsIDApOyBcbiAgfVxuXG4gIC5yb3cge1xuICAgIGRpc3BsYXk6IC1tcy1mbGV4Ym94O1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgLW1zLWZsZXgtd3JhcDogd3JhcDtcbiAgICBmbGV4LXdyYXA6IHdyYXA7XG4gICAgbWFyZ2luLXJpZ2h0OiAtNy41cHg7XG4gICAgbWFyZ2luLWxlZnQ6IC03LjVweDtcbn1cblxucHtcbiAgZm9udC1zaXplOiAxNXB4O1xuICBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmO1xuICBjb2xvcjogI2ZmZjtcbn1cblxubGkgdWwgbGkgYSB7XG4gIGRpcGxheTpibG9jaztcblxufVxuXG5saSB1bCBsaSB7XG5tYXJnaW4tbGVmdDoxNXB4O1xubWFyZ2luLWJvdHRvbTogLTE1cHg7XG5tYXJnaW4tdG9wOiAtMTVweDtcblxufVxubGkgdWwge1xuICBtYXJnaW4tdG9wOiA1cHg7O1xufVxuXG5baWRePWJ0bl0gOmNoZWNrZWQgKyB1bCB7XG4gIGRpc3BsYXk6YmxvY2s7XG59XG5cbmRpdiB1bCBsaSB7XG5cbn1cblxuXG4uZmFzIGZhLWNhcmV0LWRvd257XG4gIGZsb2F0OnJpZ2h0O1xufVxuXG4ucHtcbiAgbWFyZ2luLWxlZnQ6IDIwJTtcbn1cblxuXG5cblxuXG5cblxuXG4gIFxuICAgICAgIiwiQGltcG9ydCB1cmwoXCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9TW9udHNlcnJhdHxPcGVuK1NhbnN8Um9ib3RvXCIpO1xuLyogd2lkdGggKi9cbjo6LXdlYmtpdC1zY3JvbGxiYXIge1xuICB3aWR0aDogM3B4O1xuICB6LWluZGV4OiBhdXRvO1xuICBiYWNrZ3JvdW5kOiByZ2JhKDMsIDMsIDMsIDApO1xuICBjdXJzb3I6IGRlZmF1bHQ7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgdG9wOiAwcHg7XG4gIGxlZnQ6IDIwN3B4O1xuICBoZWlnaHQ6IDY1N3B4O1xuICBvcGFjaXR5OiAwO1xufVxuXG4vKiBUcmFjayAqL1xuOjotd2Via2l0LXNjcm9sbGJhci10cmFjayB7XG4gIGJhY2tncm91bmQ6ICNmMWYxZjE7XG59XG5cbi8qIEhhbmRsZSAqL1xuOjotd2Via2l0LXNjcm9sbGJhci10aHVtYiB7XG4gIGJhY2tncm91bmQ6ICNGMjlFMzg7XG59XG5cbi8qIEhhbmRsZSBvbiBob3ZlciAqL1xuOjotd2Via2l0LXNjcm9sbGJhci10aHVtYjpob3ZlciB7XG4gIGJhY2tncm91bmQ6IHJnYmEoMywgMywgMywgMCk7XG59XG5cbi5yb3cge1xuICBkaXNwbGF5OiAtbXMtZmxleGJveDtcbiAgZGlzcGxheTogZmxleDtcbiAgLW1zLWZsZXgtd3JhcDogd3JhcDtcbiAgZmxleC13cmFwOiB3cmFwO1xuICBtYXJnaW4tcmlnaHQ6IC03LjVweDtcbiAgbWFyZ2luLWxlZnQ6IC03LjVweDtcbn1cblxucCB7XG4gIGZvbnQtc2l6ZTogMTVweDtcbiAgZm9udC1mYW1pbHk6IFwiTW9udHNlcnJhdFwiLCBzYW5zLXNlcmlmO1xuICBjb2xvcjogI2ZmZjtcbn1cblxubGkgdWwgbGkgYSB7XG4gIGRpcGxheTogYmxvY2s7XG59XG5cbmxpIHVsIGxpIHtcbiAgbWFyZ2luLWxlZnQ6IDE1cHg7XG4gIG1hcmdpbi1ib3R0b206IC0xNXB4O1xuICBtYXJnaW4tdG9wOiAtMTVweDtcbn1cblxubGkgdWwge1xuICBtYXJnaW4tdG9wOiA1cHg7XG59XG5cbltpZF49YnRuXSA6Y2hlY2tlZCArIHVsIHtcbiAgZGlzcGxheTogYmxvY2s7XG59XG5cbi5mYXMgZmEtY2FyZXQtZG93biB7XG4gIGZsb2F0OiByaWdodDtcbn1cblxuLnAge1xuICBtYXJnaW4tbGVmdDogMjAlO1xufSJdfQ== */"
 
 /***/ }),
 
@@ -9834,7 +8975,7 @@ SidebarComponent.ctorParameters = () => [
 SidebarComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-sidebar',
-        template: __webpack_require__(/*! raw-loader!./sidebar.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/sidebar/sidebar.component.html"),
+        template: __webpack_require__(/*! raw-loader!./sidebar.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/sidebar/sidebar.component.html"),
         styles: [__webpack_require__(/*! ./sidebar.component.scss */ "./src/app/components/sidebar/sidebar.component.scss")]
     })
 ], SidebarComponent);
@@ -9952,7 +9093,7 @@ UpdateProfilComponent.ctorParameters = () => [
 UpdateProfilComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-update-profil',
-        template: __webpack_require__(/*! raw-loader!./update-profil.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/components/update-profil/update-profil.component.html"),
+        template: __webpack_require__(/*! raw-loader!./update-profil.component.html */ "./node_modules/raw-loader/index.js!./src/app/components/update-profil/update-profil.component.html"),
         styles: [__webpack_require__(/*! ./update-profil.component.css */ "./src/app/components/update-profil/update-profil.component.css")]
     })
 ], UpdateProfilComponent);
@@ -10004,54 +9145,6 @@ class Conge {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Employe", function() { return Employe; });
 class Employe {
-}
-
-
-/***/ }),
-
-/***/ "./src/app/modals/meeting.ts":
-/*!***********************************!*\
-  !*** ./src/app/modals/meeting.ts ***!
-  \***********************************/
-/*! exports provided: Meeting */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Meeting", function() { return Meeting; });
-class Meeting {
-}
-
-
-/***/ }),
-
-/***/ "./src/app/modals/noteInterne.ts":
-/*!***************************************!*\
-  !*** ./src/app/modals/noteInterne.ts ***!
-  \***************************************/
-/*! exports provided: NoteInterne */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NoteInterne", function() { return NoteInterne; });
-class NoteInterne {
-}
-
-
-/***/ }),
-
-/***/ "./src/app/modals/todo.ts":
-/*!********************************!*\
-  !*** ./src/app/modals/todo.ts ***!
-  \********************************/
-/*! exports provided: Todo */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Todo", function() { return Todo; });
-class Todo {
 }
 
 
@@ -10116,7 +9209,7 @@ NavbarComponent.ctorParameters = () => [
 NavbarComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-navbar',
-        template: __webpack_require__(/*! raw-loader!./navbar.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/navbar/navbar.component.html"),
+        template: __webpack_require__(/*! raw-loader!./navbar.component.html */ "./node_modules/raw-loader/index.js!./src/app/navbar/navbar.component.html"),
         styles: [__webpack_require__(/*! ./navbar.component.css */ "./src/app/navbar/navbar.component.css")]
     })
 ], NavbarComponent);
@@ -10166,7 +9259,7 @@ ProfilComponent.ctorParameters = () => [
 ProfilComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-profil',
-        template: __webpack_require__(/*! raw-loader!./profil.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/profil/profil.component.html"),
+        template: __webpack_require__(/*! raw-loader!./profil.component.html */ "./node_modules/raw-loader/index.js!./src/app/profil/profil.component.html"),
         styles: [__webpack_require__(/*! ./profil.component.css */ "./src/app/profil/profil.component.css")]
     })
 ], ProfilComponent);
@@ -10208,7 +9301,7 @@ let PublicLayoutComponent = class PublicLayoutComponent {
 PublicLayoutComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-public-layout',
-        template: __webpack_require__(/*! raw-loader!./public-layout.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/public-layout/public-layout.component.html"),
+        template: __webpack_require__(/*! raw-loader!./public-layout.component.html */ "./node_modules/raw-loader/index.js!./src/app/public-layout/public-layout.component.html"),
         styles: [__webpack_require__(/*! ./public-layout.component.css */ "./src/app/public-layout/public-layout.component.css")]
     })
 ], PublicLayoutComponent);
@@ -10235,7 +9328,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const AUTH_API = 'http://localhost:8080/api/auth/';
+const AUTH_API = '/api/auth/';
 const httpOptions = {
     headers: new _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpHeaders"]({ 'Content-Type': 'application/json' })
 };
@@ -10282,50 +9375,6 @@ AuthService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 
 /***/ }),
 
-/***/ "./src/app/services/book.service.ts":
-/*!******************************************!*\
-  !*** ./src/app/services/book.service.ts ***!
-  \******************************************/
-/*! exports provided: BookService */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BookService", function() { return BookService; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_http__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/http */ "./node_modules/@angular/http/fesm2015/http.js");
-/* harmony import */ var rxjs_add_operator_map__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rxjs/add/operator/map */ "./node_modules/rxjs-compat/_esm2015/add/operator/map.js");
-
-
-
-
-let BookService = class BookService {
-    constructor(http) {
-        this.http = http;
-    }
-    getAllBooks() {
-    }
-    showBook(id) {
-    }
-    saveBook(data) {
-    }
-    updateBook(id, data) {
-    }
-    deleteBook(id) {
-    }
-};
-BookService.ctorParameters = () => [
-    { type: _angular_http__WEBPACK_IMPORTED_MODULE_2__["Http"] }
-];
-BookService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])()
-], BookService);
-
-
-
-/***/ }),
-
 /***/ "./src/app/services/candidate.service.ts":
 /*!***********************************************!*\
   !*** ./src/app/services/candidate.service.ts ***!
@@ -10348,7 +9397,7 @@ let CandidateService = class CandidateService {
     constructor(httpClient, _snackbar) {
         this.httpClient = httpClient;
         this._snackbar = _snackbar;
-        this.baseURL = 'http://localhost:8080/candidat';
+        this.baseURL = '/candidat';
         this.headers = new _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpHeaders"]().set('Content-Type', 'application/json');
     }
     createCandidate(candidate, fileCV, fileLettre) {
@@ -10356,22 +9405,22 @@ let CandidateService = class CandidateService {
     }
     getCandidatesList() {
         console.log('test');
-        return this.httpClient.get("http://localhost:8080/candidats");
+        return this.httpClient.get("/candidats");
     }
     getCandidate(id) {
-        return this.httpClient.get("http://localhost:8080/candidat" + "/" + id);
+        return this.httpClient.get("/candidat" + "/" + id);
     }
     downloadFile(pathCv) {
-        return this.httpClient.get("http://localhost:8080//downloadFile" + "/" + pathCv);
+        return this.httpClient.get("/downloadFile" + "/" + pathCv);
     }
     sendConfirmMessage(id) {
-        return this.httpClient.get("http://localhost:8080/sendConfirmMessage/" + id);
+        return this.httpClient.get("/sendConfirmMessage/" + id);
     }
     sendDenyMessage(id) {
-        return this.httpClient.get("http://localhost:8080/sendDenyMessage/" + id);
+        return this.httpClient.get("/sendDenyMessage/" + id);
     }
     deleteCandidate(id) {
-        return this.httpClient.delete("http://localhost:8080/candidate/" + id);
+        return this.httpClient.delete("/candidate/" + id);
     }
     toastMessage(message) {
         this._snackbar.open(message, 'Close', {
@@ -10458,7 +9507,7 @@ let EmployeService = class EmployeService {
     }
     getEmployeesList() {
         console.log("test call");
-        return this.httpClient.get("http://localhost:8080/users");
+        return this.httpClient.get("/users");
     }
     getEmploye(id) {
         console.log("this is id =" + id);
@@ -10544,7 +9593,7 @@ __webpack_require__.r(__webpack_exports__);
 let EmployeeService = class EmployeeService {
     constructor(http) {
         this.http = http;
-        this.baseURL = 'http://localhost:8080/employees';
+        this.baseURL = '/employees';
     }
     postEmployee(emp) {
         return this.http.post(this.baseURL, emp);
@@ -10565,183 +9614,6 @@ EmployeeService.ctorParameters = () => [
 EmployeeService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])()
 ], EmployeeService);
-
-
-
-/***/ }),
-
-/***/ "./src/app/services/meeting.service.ts":
-/*!*********************************************!*\
-  !*** ./src/app/services/meeting.service.ts ***!
-  \*********************************************/
-/*! exports provided: MeetingService */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MeetingService", function() { return MeetingService; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _modals_meeting__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../modals/meeting */ "./src/app/modals/meeting.ts");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm2015/http.js");
-
-
-
-
-let MeetingService = class MeetingService {
-    constructor(httpClient) {
-        this.httpClient = httpClient;
-        this.meeting = new _modals_meeting__WEBPACK_IMPORTED_MODULE_2__["Meeting"]();
-    }
-    getAllmeetings() {
-        return this.httpClient.get("http://localhost:8080/meetings");
-    }
-    onCreateMeeting(meeting) {
-        return this.httpClient.post("http://localhost:8080/meetings/create", meeting);
-    }
-    deleteMeetingById(id) {
-        return this.httpClient.delete("http://localhost:8080/meetings/delete" + "/" + id);
-    }
-    updateMeeting(meeting) {
-        return this.httpClient.put("http://localhost:8080/meeting", meeting);
-    }
-    setter(meeting) {
-        this.meeting = meeting;
-    }
-    getter() {
-        return this.meeting;
-    }
-};
-MeetingService.ctorParameters = () => [
-    { type: _angular_common_http__WEBPACK_IMPORTED_MODULE_3__["HttpClient"] }
-];
-MeetingService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
-        providedIn: 'root'
-    })
-], MeetingService);
-
-
-
-/***/ }),
-
-/***/ "./src/app/services/noteinterne.service.ts":
-/*!*************************************************!*\
-  !*** ./src/app/services/noteinterne.service.ts ***!
-  \*************************************************/
-/*! exports provided: NoteinterneService */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NoteinterneService", function() { return NoteinterneService; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm2015/http.js");
-/* harmony import */ var _modals_noteInterne__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../modals/noteInterne */ "./src/app/modals/noteInterne.ts");
-
-
-
-
-let NoteinterneService = class NoteinterneService {
-    constructor(httpClient) {
-        this.httpClient = httpClient;
-        this.noteInterne = new _modals_noteInterne__WEBPACK_IMPORTED_MODULE_3__["NoteInterne"];
-    }
-    getAllNoteIntern() {
-        return this.httpClient.get("http://localhost:8080/notes");
-    }
-    onCreateNoteInterne(noteInterne) {
-        return this.httpClient.post("http://localhost:8080/createNoteInterne", noteInterne);
-    }
-    deleteNoteById(id) {
-        return this.httpClient.delete("http://localhost:8080/notes" + "/" + id);
-    }
-    updateNoteInterne(noteInterne) {
-        return this.httpClient.put("http://localhost:8080/annonce", noteInterne);
-    }
-    setter(noteInterne) {
-        this.noteInterne = noteInterne;
-    }
-    getter() {
-        return this.noteInterne;
-    }
-    addPost(postPayload) {
-        return this.httpClient.post('http://localhost:8080/createNoteInterne', postPayload);
-    }
-};
-NoteinterneService.ctorParameters = () => [
-    { type: _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpClient"] }
-];
-NoteinterneService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
-        providedIn: 'root'
-    })
-], NoteinterneService);
-
-
-
-/***/ }),
-
-/***/ "./src/app/services/todo.service.ts":
-/*!******************************************!*\
-  !*** ./src/app/services/todo.service.ts ***!
-  \******************************************/
-/*! exports provided: TodoService */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TodoService", function() { return TodoService; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm2015/http.js");
-/* harmony import */ var _modals_todo__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../modals/todo */ "./src/app/modals/todo.ts");
-
-
-
-
-let TodoService = class TodoService {
-    constructor(http) {
-        this.http = http;
-        this.todo = new _modals_todo__WEBPACK_IMPORTED_MODULE_3__["Todo"]();
-        this.baseUrl = 'http://localhost:8080';
-    }
-    getTodos() {
-        return this.http.get(this.baseUrl + '/todos/');
-    }
-    createTodo(todoData) {
-        return this.http.post(this.baseUrl + '/todos/', todoData);
-        todoData.completed = false;
-    }
-    /*updateTodo(todoData: Todo)  {
-      return this.http.put(this.baseUrl + '/todos/' + todoData.id, todoData);
-        
-    }*/
-    deleteTodo(id) {
-        return this.http.delete(this.baseUrl + '/todos' + '/' + id);
-    }
-    comletedTodo(id) {
-        return this.http.get("http://localhost:8080/completed/" + id);
-    }
-    updateTodo(todo) {
-        return this.http.put("http://localhost:8080/todo", todo);
-    }
-    setter(todo) {
-        this.todo = todo;
-    }
-    getter() {
-        return this.todo;
-    }
-};
-TodoService.ctorParameters = () => [
-    { type: _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpClient"] }
-];
-TodoService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
-        providedIn: 'root'
-    })
-], TodoService);
 
 
 
@@ -10816,7 +9688,7 @@ let UploadfileService = class UploadfileService {
     pushFileToStorage(file) {
         const data = new FormData();
         data.append('file', file);
-        const newRequest = new _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpRequest"]('POST', 'http://localhost:8080/savefile', data, {
+        const newRequest = new _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpRequest"]('POST', '/savefile', data, {
             reportProgress: true,
             responseType: 'text'
         });
@@ -10854,7 +9726,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const API_URL = 'http://localhost:8080/api/test/';
+const API_URL = '/api/test/';
 let UserService = class UserService {
     constructor(http, _snackbar) {
         this.http = http;
@@ -10862,7 +9734,7 @@ let UserService = class UserService {
     }
     getUser(id) {
         console.log("this is id =" + id);
-        return this.http.get("http://localhost:8080/user/" + id);
+        return this.http.get("/user/" + id);
     }
     getUserId() {
         return this.userId;
@@ -10871,7 +9743,7 @@ let UserService = class UserService {
         return this.userEmail;
     }
     getUserAvatar(id) {
-        return this.http.get("http://localhost:8080/avatar/" + id);
+        return this.http.get("/avatar/" + id);
     }
     getUserBoard() {
         return this.http.get(API_URL + 'user', { responseType: 'text' });
@@ -10898,14 +9770,14 @@ let UserService = class UserService {
             'oldPass': oldPass,
             'newPass': newPass
         };
-        return this.http.post("http://localhost:8080/updatePassword", addBody);
+        return this.http.post("/updatePassword", addBody);
     }
     updateUsername(email, username) {
         const addInfo = {
             'email': email,
             'username': username
         };
-        return this.http.post("http://localhost:8080/updateUsername", addInfo);
+        return this.http.post("/updateUsername", addInfo);
     }
 };
 UserService.ctorParameters = () => [
@@ -11004,7 +9876,7 @@ let LineComponent = class LineComponent {
 LineComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-widget-line',
-        template: __webpack_require__(/*! raw-loader!./line.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/shared/widgets/line/line.component.html"),
+        template: __webpack_require__(/*! raw-loader!./line.component.html */ "./node_modules/raw-loader/index.js!./src/app/shared/widgets/line/line.component.html"),
         styles: [__webpack_require__(/*! ./line.component.css */ "./src/app/shared/widgets/line/line.component.css")]
     })
 ], LineComponent);
@@ -11100,7 +9972,7 @@ let PieComponent = class PieComponent {
 PieComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-widget-pie',
-        template: __webpack_require__(/*! raw-loader!./pie.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/shared/widgets/pie/pie.component.html"),
+        template: __webpack_require__(/*! raw-loader!./pie.component.html */ "./node_modules/raw-loader/index.js!./src/app/shared/widgets/pie/pie.component.html"),
         styles: [__webpack_require__(/*! ./pie.component.css */ "./src/app/shared/widgets/pie/pie.component.css")]
     })
 ], PieComponent);
@@ -11196,7 +10068,7 @@ let Pie2Component = class Pie2Component {
 Pie2Component = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-widget-pie2',
-        template: __webpack_require__(/*! raw-loader!./pie2.component.html */ "./node_modules/@angular-devkit/build-angular/node_modules/raw-loader/index.js!./src/app/shared/widgets/pie2/pie2.component.html"),
+        template: __webpack_require__(/*! raw-loader!./pie2.component.html */ "./node_modules/raw-loader/index.js!./src/app/shared/widgets/pie2/pie2.component.html"),
         styles: [__webpack_require__(/*! ./pie2.component.css */ "./src/app/shared/widgets/pie2/pie2.component.css")]
     })
 ], Pie2Component);
@@ -11273,7 +10145,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /workspace/nextrecruitment/Project/frontend/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /workspace/pfe/frontend/src/main.ts */"./src/main.ts");
 
 
 /***/ })

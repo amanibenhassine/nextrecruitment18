@@ -7,10 +7,8 @@ import { InfoCandidateComponent } from './components/candidate-components/info-c
 import { ListEmployesComponent } from './components/admin-components/list-employes/list-employes.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { ProfileEmployeComponent } from './components/admin-components/profile-employe/profile-employe.component';
-import { NotesInternesComponent } from './components/admin-components/notes/notes-internes/notes-internes.component';
 import { RecrutementsComponent } from './components/admin-components/recrutements/recrutements.component';
 
-import { ListMeetingComponent } from './components/admin-components/meetings/list-meeting/list-meeting.component';
 import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
@@ -24,9 +22,7 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { PublicLayoutComponent } from './public-layout/public-layout.component';
 import { UpdateEmployeComponent } from './components/admin-components/update-employe/update-employe.component';
 import { UpdateInfoEmployeComponent } from './components/employe-components/update-info-employe/update-info-employe.component';
-import { UpdateMeetingComponent } from './components/admin-components/meetings/update-meeting/update-meeting.component';
-import { UpdateNoteComponent } from './components/admin-components/notes/update-note/update-note.component';
-import { AjoutNoteComponent } from './components/admin-components/notes/ajout-note/ajout-note.component';
+
 
 import { UpdatePhotoComponent } from './components/admin-components/update-photo/update-photo.component';
 import { ResponseComponent } from './components/candidate-components/response/response.component';
@@ -39,9 +35,7 @@ import { CandidatureComponent } from './components/employe-components/candidatur
 //import { HomeComponent } from './home/home.component';
 //import { RegisterComponent } from './register/register.component';
 import { OffresActuellesComponent } from './components/employe-components/offres-actuelles/offres-actuelles.component';
-import { BookDetailComponent } from './components/admin-components/notes/book-detail/book-detail.component';
-import { BookCreateComponent } from './components/admin-components/notes/book-create/book-create.component';
-import { BookEditComponent } from './components/admin-components/notes/book-edit/book-edit.component';
+
 import { PostJobComponent } from './components/admin-components/post-job/post-job.component';
 import { JobspageComponent } from './components/employe-components/jobspage/jobspage.component';
 import { MyfavjobComponent } from './components/employe-components/myfavjob/myfavjob.component';
@@ -92,14 +86,9 @@ const routes: Routes = [
   { path: 'updateEmploye', component: UpdateEmployeComponent },
   { path: 'updatePhoto', component: UpdatePhotoComponent },
   { path: 'updateInfoEmploye', component: UpdateInfoEmployeComponent },
-  { path: 'updateMeeting', component: UpdateMeetingComponent },
-   { path: 'ajouteNote', component: AjoutNoteComponent },
-
-  { path: 'updateNote', component: UpdateNoteComponent },
+ 
   { path: 'profilCandidat/:id', component: ProfilCandidatComponent },
-  { path: 'book-details/:id', component: BookDetailComponent },
-  { path: 'book-create', component: BookCreateComponent },
-  { path: 'book-edit/:id', component: BookEditComponent },
+  
   { path: 'post-job', component: PostJobComponent },
   { path: "jobspage", component: JobspageComponent },
   { path: "myfavjob", component: MyfavjobComponent },
@@ -123,11 +112,9 @@ const routes: Routes = [
  
   { path: 'info-employe/:id', component: InfoEmployeComponent },
   
-  { path: 'notesInternes', component: NotesInternesComponent },
   
   { path: 'recrutement', component: RecrutementsComponent },
  
-  { path: 'meetings', component: ListMeetingComponent },
 
   
  ]},

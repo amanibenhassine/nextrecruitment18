@@ -7,7 +7,7 @@ import { MatSnackBar } from '@angular/material';
 import { Subject, throwError } from "rxjs";
 
 
-const API_URL = 'http://localhost:8080/api/test/';
+const API_URL = '/api/test/';
 
 @Injectable({
   providedIn: 'root'
@@ -23,7 +23,7 @@ export class UserService {
 
   public getUser(id: any) {
     console.log("this is id ="+ id)
-    return this.http.get<any>("http://localhost:8080/user/"+ id);
+    return this.http.get<any>("/user/"+ id);
   }
 
   getUserId() {
@@ -35,7 +35,7 @@ export class UserService {
 }   
 
   public getUserAvatar(id: number){
-    return this.http.get("http://localhost:8080/avatar/"+ id);
+    return this.http.get("/avatar/"+ id);
   }
   getUserBoard(): Observable<any> {
     return this.http.get(API_URL + 'user', { responseType: 'text' });
@@ -72,7 +72,7 @@ export class UserService {
       'newPass': newPass
     } ;
 
-    return  this.http.post<User>("http://localhost:8080/updatePassword", addBody);
+    return  this.http.post<User>("/updatePassword", addBody);
   }
 
   updateUsername( email: String, username: String ) {
@@ -82,7 +82,7 @@ export class UserService {
       
     } ;
 
-    return  this.http.post<User>("http://localhost:8080/updateUsername", addInfo);
+    return  this.http.post<User>("/updateUsername", addInfo);
   }
 
 

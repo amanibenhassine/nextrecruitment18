@@ -36,13 +36,11 @@ import { NgxPaginationModule } from 'ngx-pagination' ;
 
 import { ListEmployesComponent } from './components/admin-components/list-employes/list-employes.component';
 import { MatDialogModule, } from '@angular/material/dialog';
-import { TodoService } from './services/todo.service';
 import { ProfileEmployeComponent } from './components/admin-components/profile-employe/profile-employe.component';
 import { UpdateEmployeComponent } from './components/admin-components/update-employe/update-employe.component';
 
 
 import { RecrutementsComponent } from './components/admin-components/recrutements/recrutements.component';
-import { NotesInternesComponent } from './components/admin-components/notes/notes-internes/notes-internes.component';
 import { EmailService } from './services/email.service';
 import { MatCheckboxModule,  } from '@angular/material';
 import {MatDividerModule} from "@angular/material/divider";
@@ -70,10 +68,7 @@ import { MatNativeDateModule, MatRippleModule} from '@angular/material/core';
 
 
 
-import { AjoutNoteComponent } from './components/admin-components/notes/ajout-note/ajout-note.component';
 import { ScheduleModule } from '@syncfusion/ej2-angular-schedule';
-import { MeetingComponent } from './components/admin-components/meetings/meeting/meeting.component';
-import { ListMeetingComponent } from './components/admin-components/meetings/list-meeting/list-meeting.component';
 import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
 import { authInterceptorProviders } from './_helpers/auth.interceptor';
@@ -94,8 +89,6 @@ import { PieComponent } from './shared/widgets/pie/pie.component';
 import { LineComponent } from './shared/widgets/line/line.component';
 import { Pie2Component } from './shared/widgets/pie2/pie2.component';
 import { UpdateInfoEmployeComponent } from './components/employe-components/update-info-employe/update-info-employe.component';
-import { UpdateMeetingComponent } from './components/admin-components/meetings/update-meeting/update-meeting.component';
-import { UpdateNoteComponent } from './components/admin-components/notes/update-note/update-note.component';
 import { UpdatePhotoComponent } from './components/admin-components/update-photo/update-photo.component';
 import { ResponseComponent } from './components/candidate-components/response/response.component';
 import { UpdateProfilComponent } from './components/update-profil/update-profil.component';
@@ -106,16 +99,11 @@ import {    MAT_DIALOG_DATA, MatDialogRef } from '@angular/material';
 import { BoardAdminComponent } from './board-admin/board-admin.component';
 import { BoardUserComponent } from './board-user/board-user.component';
 import { BoardModeratorComponent } from './board-moderator/board-moderator.component';
-import { CardsComponent } from './components/cards/cards.component';
 
 
 import { CandidatureComponent } from './components/employe-components/candidature/candidature.component';
 import { OffresActuellesComponent } from './components/employe-components/offres-actuelles/offres-actuelles.component';
-import { BookComponent } from './components/admin-components/notes/book/book.component';
-import { BookService } from './services/book.service';
-import { BookDetailComponent } from './components/admin-components/notes/book-detail/book-detail.component';
-import { BookCreateComponent } from './components/admin-components/notes/book-create/book-create.component';
-import { BookEditComponent } from './components/admin-components/notes/book-edit/book-edit.component';
+
 import { PostJobComponent } from './components/admin-components/post-job/post-job.component';
 import { JobspageComponent } from './components/employe-components/jobspage/jobspage.component';
 import { JobspagePopupComponent } from './components/employe-components/jobspage/jobspage-popup/jobspage-popup.component';
@@ -151,10 +139,7 @@ import { RecruitmentComponent } from './components/admin-components/recruitment/
     SidebarComponent,
     AddEmployeComponent,
     InfoCandidateComponent,
-    BookComponent,
-    BookDetailComponent,
-    BookCreateComponent,
-    BookEditComponent,
+   
     PostJobComponent,
     JobspageComponent,
     MyfavjobComponent,
@@ -176,12 +161,7 @@ import { RecruitmentComponent } from './components/admin-components/recruitment/
     UpdateEmployeComponent,
     
     RecrutementsComponent,
-    NotesInternesComponent,
-    AjoutNoteComponent,
-  
-    
-    MeetingComponent,
-    ListMeetingComponent,
+   
     LoginComponent,
     RegisterComponent,
     
@@ -197,14 +177,12 @@ import { RecruitmentComponent } from './components/admin-components/recruitment/
     LineComponent,
     Pie2Component,
     UpdateInfoEmployeComponent,
-    UpdateMeetingComponent,
-    UpdateNoteComponent,
+   
     
     UpdatePhotoComponent,
     
     ResponseComponent,
     UpdateProfilComponent,
-    CardsComponent,
     
     
     CandidatureComponent,
@@ -317,10 +295,10 @@ import { RecruitmentComponent } from './components/admin-components/recruitment/
     MatTooltipModule,
     MatProgressSpinnerModule
   ],
-  providers: [MatDatepickerModule,EmployeService,BookService,EmployeeService,TodoService,EmailService,authInterceptorProviders, AuthService,TokenStorageService, { provide: MAT_DIALOG_DATA, useValue: {} },
+  providers: [MatDatepickerModule,EmployeService,EmployeeService,,EmailService,authInterceptorProviders, AuthService,TokenStorageService, { provide: MAT_DIALOG_DATA, useValue: {} },
     { provide: MatDialogRef, useValue: {} }],
   bootstrap: [AppComponent],
-  entryComponents:[AjoutNoteComponent,JobspagePopupComponent, 
+  entryComponents:[JobspagePopupComponent, 
     ApplicationsPopupComponent, 
     MyfavjobPopupComponent,
     EditPopupComponent,

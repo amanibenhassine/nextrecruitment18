@@ -60,7 +60,14 @@
             </div>
           </mat-expansion-panel>
         </mat-accordion>
-        <mat-accordion class="sidebar" routerLinkActive = "active" *ngIf="showAdminBoard" >
+        <li class="sub-menu dcjq-parent-li" routerLinkActive = "active" *ngIf="showModeratorBoard" >
+          <a href="javascript:;">
+            <i class="fa fa-user"></i>
+            <span [routerLink] ="['/info-employe', id]"> profile</span>
+            <span class="dcjq-icon"></span></a>
+    
+        </li>
+        <mat-accordion class="sidebar" routerLinkActive = "active" *ngIf="showModeratorBoard" >
           <mat-expansion-panel>
             <mat-expansion-panel-header>
               <mat-panel-title style="margin-left: -7%;margin-bottom: -3px;width: 30px;">
@@ -163,13 +170,7 @@
             <span class="dcjq-icon"></span></a>
     
         </li>
-        <li class="sub-menu dcjq-parent-li" routerLinkActive = "active" *ngIf="showModeratorBoard" >
-          <a href="javascript:;">
-            <i class="fa fa-user"></i>
-            <span [routerLink] ="['/info-employe', id]"> profile</span>
-            <span class="dcjq-icon"></span></a>
-    
-        </li>
+       
 
         
 
